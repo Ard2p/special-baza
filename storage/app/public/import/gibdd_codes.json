@@ -1,0 +1,658 @@
+[
+  {
+    "id": "1",
+    "code": "01",
+    "region_id": "1"
+  },
+  {
+    "id": "2",
+    "code": "04",
+    "region_id": "4"
+  },
+  {
+    "id": "3",
+    "code": "02",
+    "region_id": "2"
+  },
+  {
+    "id": "4",
+    "code": "102",
+    "region_id": "2"
+  },
+  {
+    "id": "5",
+    "code": "03",
+    "region_id": "3"
+  },
+  {
+    "id": "6",
+    "code": "05",
+    "region_id": "5"
+  },
+  {
+    "id": "7",
+    "code": "06",
+    "region_id": "6"
+  },
+  {
+    "id": "8",
+    "code": "07",
+    "region_id": "7"
+  },
+  {
+    "id": "9",
+    "code": "08",
+    "region_id": "8"
+  },
+  {
+    "id": "10",
+    "code": "09",
+    "region_id": "9"
+  },
+  {
+    "id": "11",
+    "code": "10",
+    "region_id": "10"
+  },
+  {
+    "id": "12",
+    "code": "11",
+    "region_id": "11"
+  },
+  {
+    "id": "13",
+    "code": "82",
+    "region_id": "91"
+  },
+  {
+    "id": "14",
+    "code": "12",
+    "region_id": "12"
+  },
+  {
+    "id": "15",
+    "code": "13",
+    "region_id": "13"
+  },
+  {
+    "id": "16",
+    "code": "113",
+    "region_id": "13"
+  },
+  {
+    "id": "17",
+    "code": "14",
+    "region_id": "14"
+  },
+  {
+    "id": "18",
+    "code": "15",
+    "region_id": "15"
+  },
+  {
+    "id": "19",
+    "code": "16",
+    "region_id": "16"
+  },
+  {
+    "id": "20",
+    "code": "116",
+    "region_id": "16"
+  },
+  {
+    "id": "21",
+    "code": "716",
+    "region_id": "16"
+  },
+  {
+    "id": "22",
+    "code": "17",
+    "region_id": "17"
+  },
+  {
+    "id": "23",
+    "code": "18",
+    "region_id": "18"
+  },
+  {
+    "id": "24",
+    "code": "19",
+    "region_id": "19"
+  },
+  {
+    "id": "25",
+    "code": "95",
+    "region_id": "20"
+  },
+  {
+    "id": "26",
+    "code": "21",
+    "region_id": "21"
+  },
+  {
+    "id": "27",
+    "code": "121",
+    "region_id": "21"
+  },
+  {
+    "id": "28",
+    "code": "22",
+    "region_id": "22"
+  },
+  {
+    "id": "29",
+    "code": "75",
+    "region_id": "75"
+  },
+  {
+    "id": "30",
+    "code": "80",
+    "region_id": "75"
+  },
+  {
+    "id": "31",
+    "code": "41",
+    "region_id": "41"
+  },
+  {
+    "id": "32",
+    "code": "23",
+    "region_id": "23"
+  },
+  {
+    "id": "33",
+    "code": "93",
+    "region_id": "23"
+  },
+  {
+    "id": "34",
+    "code": "123",
+    "region_id": "23"
+  },
+  {
+    "id": "35",
+    "code": "24",
+    "region_id": "24"
+  },
+  {
+    "id": "36",
+    "code": "124",
+    "region_id": "24"
+  },
+  {
+    "id": "37",
+    "code": "84",
+    "region_id": "24"
+  },
+  {
+    "id": "38",
+    "code": "88",
+    "region_id": "24"
+  },
+  {
+    "id": "39",
+    "code": "59",
+    "region_id": "59"
+  },
+  {
+    "id": "40",
+    "code": "81",
+    "region_id": "59"
+  },
+  {
+    "id": "41",
+    "code": "159",
+    "region_id": "59"
+  },
+  {
+    "id": "42",
+    "code": "25",
+    "region_id": "25"
+  },
+  {
+    "id": "43",
+    "code": "125",
+    "region_id": "25"
+  },
+  {
+    "id": "44",
+    "code": "26",
+    "region_id": "26"
+  },
+  {
+    "id": "45",
+    "code": "126",
+    "region_id": "26"
+  },
+  {
+    "id": "46",
+    "code": "27",
+    "region_id": "27"
+  },
+  {
+    "id": "47",
+    "code": "28",
+    "region_id": "28"
+  },
+  {
+    "id": "48",
+    "code": "29",
+    "region_id": "29"
+  },
+  {
+    "id": "49",
+    "code": "30",
+    "region_id": "30"
+  },
+  {
+    "id": "50",
+    "code": "31",
+    "region_id": "31"
+  },
+  {
+    "id": "51",
+    "code": "32",
+    "region_id": "32"
+  },
+  {
+    "id": "52",
+    "code": "33",
+    "region_id": "33"
+  },
+  {
+    "id": "53",
+    "code": "34",
+    "region_id": "34"
+  },
+  {
+    "id": "54",
+    "code": "134",
+    "region_id": "34"
+  },
+  {
+    "id": "55",
+    "code": "35",
+    "region_id": "35"
+  },
+  {
+    "id": "56",
+    "code": "36",
+    "region_id": "36"
+  },
+  {
+    "id": "57",
+    "code": "136",
+    "region_id": "36"
+  },
+  {
+    "id": "58",
+    "code": "37",
+    "region_id": "37"
+  },
+  {
+    "id": "59",
+    "code": "38",
+    "region_id": "38"
+  },
+  {
+    "id": "60",
+    "code": "138",
+    "region_id": "38"
+  },
+  {
+    "id": "61",
+    "code": "85",
+    "region_id": "38"
+  },
+  {
+    "id": "62",
+    "code": "39",
+    "region_id": "39"
+  },
+  {
+    "id": "63",
+    "code": "91",
+    "region_id": "39"
+  },
+  {
+    "id": "64",
+    "code": "40",
+    "region_id": "40"
+  },
+  {
+    "id": "65",
+    "code": "42",
+    "region_id": "42"
+  },
+  {
+    "id": "66",
+    "code": "142",
+    "region_id": "42"
+  },
+  {
+    "id": "67",
+    "code": "43",
+    "region_id": "43"
+  },
+  {
+    "id": "68",
+    "code": "44",
+    "region_id": "44"
+  },
+  {
+    "id": "69",
+    "code": "45",
+    "region_id": "45"
+  },
+  {
+    "id": "70",
+    "code": "46",
+    "region_id": "46"
+  },
+  {
+    "id": "71",
+    "code": "47",
+    "region_id": "47"
+  },
+  {
+    "id": "72",
+    "code": "48",
+    "region_id": "48"
+  },
+  {
+    "id": "73",
+    "code": "49",
+    "region_id": "49"
+  },
+  {
+    "id": "74",
+    "code": "50",
+    "region_id": "50"
+  },
+  {
+    "id": "75",
+    "code": "90",
+    "region_id": "50"
+  },
+  {
+    "id": "76",
+    "code": "150",
+    "region_id": "50"
+  },
+  {
+    "id": "77",
+    "code": "190",
+    "region_id": "50"
+  },
+  {
+    "id": "78",
+    "code": "750",
+    "region_id": "50"
+  },
+  {
+    "id": "79",
+    "code": "51",
+    "region_id": "51"
+  },
+  {
+    "id": "80",
+    "code": "52",
+    "region_id": "52"
+  },
+  {
+    "id": "81",
+    "code": "152",
+    "region_id": "52"
+  },
+  {
+    "id": "82",
+    "code": "53",
+    "region_id": "53"
+  },
+  {
+    "id": "83",
+    "code": "54",
+    "region_id": "54"
+  },
+  {
+    "id": "84",
+    "code": "154",
+    "region_id": "54"
+  },
+  {
+    "id": "85",
+    "code": "55",
+    "region_id": "55"
+  },
+  {
+    "id": "86",
+    "code": "56",
+    "region_id": "56"
+  },
+  {
+    "id": "87",
+    "code": "57",
+    "region_id": "57"
+  },
+  {
+    "id": "88",
+    "code": "58",
+    "region_id": "58"
+  },
+  {
+    "id": "89",
+    "code": "60",
+    "region_id": "60"
+  },
+  {
+    "id": "90",
+    "code": "61",
+    "region_id": "61"
+  },
+  {
+    "id": "91",
+    "code": "161",
+    "region_id": "61"
+  },
+  {
+    "id": "92",
+    "code": "62",
+    "region_id": "62"
+  },
+  {
+    "id": "93",
+    "code": "63",
+    "region_id": "63"
+  },
+  {
+    "id": "94",
+    "code": "163",
+    "region_id": "63"
+  },
+  {
+    "id": "95",
+    "code": "763",
+    "region_id": "63"
+  },
+  {
+    "id": "96",
+    "code": "64",
+    "region_id": "64"
+  },
+  {
+    "id": "97",
+    "code": "164",
+    "region_id": "64"
+  },
+  {
+    "id": "98",
+    "code": "65",
+    "region_id": "65"
+  },
+  {
+    "id": "99",
+    "code": "66",
+    "region_id": "66"
+  },
+  {
+    "id": "100",
+    "code": "96",
+    "region_id": "66"
+  },
+  {
+    "id": "101",
+    "code": "196",
+    "region_id": "66"
+  },
+  {
+    "id": "102",
+    "code": "67",
+    "region_id": "67"
+  },
+  {
+    "id": "103",
+    "code": "68",
+    "region_id": "68"
+  },
+  {
+    "id": "104",
+    "code": "69",
+    "region_id": "69"
+  },
+  {
+    "id": "105",
+    "code": "70",
+    "region_id": "70"
+  },
+  {
+    "id": "106",
+    "code": "71",
+    "region_id": "71"
+  },
+  {
+    "id": "107",
+    "code": "72",
+    "region_id": "72"
+  },
+  {
+    "id": "108",
+    "code": "73",
+    "region_id": "73"
+  },
+  {
+    "id": "109",
+    "code": "173",
+    "region_id": "73"
+  },
+  {
+    "id": "110",
+    "code": "74",
+    "region_id": "74"
+  },
+  {
+    "id": "111",
+    "code": "174",
+    "region_id": "74"
+  },
+  {
+    "id": "112",
+    "code": "76",
+    "region_id": "76"
+  },
+  {
+    "id": "113",
+    "code": "77",
+    "region_id": "77"
+  },
+  {
+    "id": "114",
+    "code": "97",
+    "region_id": "77"
+  },
+  {
+    "id": "115",
+    "code": "99",
+    "region_id": "77"
+  },
+  {
+    "id": "116",
+    "code": "177",
+    "region_id": "77"
+  },
+  {
+    "id": "117",
+    "code": "197",
+    "region_id": "77"
+  },
+  {
+    "id": "118",
+    "code": "199",
+    "region_id": "77"
+  },
+  {
+    "id": "119",
+    "code": "777",
+    "region_id": "77"
+  },
+  {
+    "id": "120",
+    "code": "799",
+    "region_id": "77"
+  },
+  {
+    "id": "121",
+    "code": "78",
+    "region_id": "78"
+  },
+  {
+    "id": "122",
+    "code": "98",
+    "region_id": "78"
+  },
+  {
+    "id": "123",
+    "code": "178",
+    "region_id": "78"
+  },
+  {
+    "id": "124",
+    "code": "198",
+    "region_id": "78"
+  },
+  {
+    "id": "125",
+    "code": "92",
+    "region_id": "92"
+  },
+  {
+    "id": "126",
+    "code": "79",
+    "region_id": "79"
+  },
+  {
+    "id": "127",
+    "code": "83",
+    "region_id": "83"
+  },
+  {
+    "id": "128",
+    "code": "86",
+    "region_id": "86"
+  },
+  {
+    "id": "129",
+    "code": "186",
+    "region_id": "86"
+  },
+  {
+    "id": "130",
+    "code": "87",
+    "region_id": "87"
+  },
+  {
+    "id": "131",
+    "code": "89",
+    "region_id": "89"
+  }
+]
+

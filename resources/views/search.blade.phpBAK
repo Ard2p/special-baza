@@ -1,0 +1,235 @@
+@extends('layouts.main')
+@section('content')
+
+    <div class="search-wrap">
+
+        <div id="tab1" class="active tab-list">
+            <div class="title-wrap">
+                <h1 class="title">Поиск исполнителя</h1>
+
+                <div class="button my-search">
+
+                    <helper-search :search-data="{{$searches->toJson()}}"
+                                   :parent-form="{{json_encode('#search-form')}}"
+                                   :save-btn-id="{{json_encode('#save')}}"
+                                   :url="{{json_encode('/search')}}"></helper-search>
+                    <a href="/search?list" class="btn-custom black">
+                        <i class="arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="detail-search" id="filter">
+
+                <div class="alert alert-danger" id="alerts" style="display: none" role="alert">
+                </div>
+                <form action="post" id="search-form">
+                    @csrf
+                    <div class="col-list">
+
+                        <div class="top-cols">
+
+                        </div>
+                        <div class="bottom-cols">
+
+                        </div>
+
+
+                        <div class="col">
+                            <helper-select-input :data="{{\App\Machines\Type::all()->toJson()}}"
+                                                 :column-name="{{json_encode('Категория техники')}}"
+                                                 :place-holder="{{json_encode('Категория техники')}}"
+                                                 :col-name="{{json_encode('type')}}"
+                                                 :required="1"
+                                                 :initial="{{json_encode($initial_type ?? '')}}"
+                                                 :show-column-name="1"></helper-select-input>
+
+                            @php
+                                $region = \App\Support\Region::find(Auth::user()->native_region_id);
+                                               if ($region) {
+                                                   $initial_region = ['id' => $region->id, 'name' => $region->full_name];
+                                                   $cities_data = $region->cities;
+                                                   $checked_city = \App\City::find(Auth::user()->native_city_id);
+                                                   if ($checked_city) {
+                                                        $checked_city_source = ['id' => $checked_city->id, 'name' => $checked_city->with_codes, 'full' => $checked_city->name];
+                                                   }
+                                               }else{
+                                                 $cities_data = [];
+                                                 }
+                            @endphp
+
+                            <helper-select-input :data="{{$regions->toJson()}}"
+                                                 :column-name="{{json_encode('Регион')}}"
+                                                 :place-holder="{{json_encode('Выберите регион')}}"
+                                                 :col-name="{{json_encode('region')}}"
+                                                 :required="1"
+                                                 :initial="{{json_encode($initial_region ?? '')}}"
+                                                 :initial-city="{{json_encode($checked_city_source ?? '')}}"
+                                                 :city-data="{{json_encode($cities_data)}}"
+                                                 :show-column-name="1"
+                                                 :hide-city="1">
+                            </helper-select-input>
+
+                        </div>
+
+
+                        <div class="col">
+                            <helper-select-input :data="{{\App\Machines\Brand::all()->toJson()}}"
+                                                 :column-name="{{json_encode('Марка техники')}}"
+                                                 :place-holder="{{json_encode('Марка техники')}}"
+                                                 :col-name="{{json_encode('brand')}}"
+                                                 :initial="{{json_encode($initial_type ?? '')}}"
+                                                 :show-column-name="1"></helper-select-input>
+
+                            <helper-select-input :data="{{$cities_data->toJson()}}"
+                                                 :column-name="{{json_encode('Город')}}"
+                                                 :place-holder="{{json_encode('Город')}}"
+                                                 :required="1"
+                                                 :col-name="{{json_encode('city_id')}}"
+                                                 :initial="{{json_encode($checked_city_source ?? '')}}"
+                                                 :show-column-name="1"
+                                                 :hide-city="1"> </helper-select-input>
+                        </div>
+
+
+                        <div class="col">
+                            <div class="form-item">
+                                <label>
+                                    Цена за час
+                                    <input type="text" name="sum_hour" placeholder="Цена за час">
+                                </label>
+                            </div>
+                            <div class="form-item">
+                                <label for="address" class="required">
+                                    Адрес выполнения работ
+                                    <textarea name="address" style="height: 80px;" id="address"
+                                              placeholder="Адрес">{{$region->name}} {{$checked_city_source['full']}}</textarea>
+                                </label>
+                            </div>
+
+                        </div>
+                        <div class="col-med">
+                            <div class="form-item">
+                                <label>
+                                    Цена за смену
+                                    <input type="text" name="sum_day" placeholder="Цена за смену">
+                                </label>
+                            </div>
+                            <div class="form-item">
+                                <label for="price">
+                                    Бюджет
+                                    <input type="text" id="price" name="sum" placeholder="Бюджет">
+                                </label>
+                            </div>
+
+                        </div>
+
+                        <div class="col">
+                            <div class="form-item image-item end ">
+                                <label for="date" class="required">
+                                    Дата и время выполнения работ
+                                    <input  type="text" class="datetimepicker_" name="date" id="date"
+                                            placeholder="" autocomplete="off" value="{{\Carbon\Carbon::now()->addDay()->startOfDay()->addHours(8)->format('Y/m/d H:i')}}">
+
+                                    <span class="image date"></span>
+                                </label>
+                            </div>
+                            <div class="form-item">
+                                <label for="amount" class="required">
+                                    Количество смен
+                                    <input type="number" min="1" step="1" name="days" id="shifts" value="1" placeholder="Количество смен">
+                                </label>
+                            </div>
+                           {{-- <div class="form-item image-item end">
+                                <label for="date">
+                                    Дата
+                                    <input type="text" id="date" name="date" data-toggle="datepicker"
+                                           placeholder="17/07/18" autocomplete="off">
+                                    <span class="image date"></span>
+                                </label>
+                            </div>--}}
+
+                           {{-- <div class="form-item image-item end">
+                                <label for="date">
+                                    Плановая длит. работ
+                                    <input type="number" step="1" name="planned_duration_hours"
+                                           placeholder="6 Часов" autocomplete="off">
+                                </label>
+                            </div>--}}
+                        </div>
+                        <div class="col-small">
+                            <div class="form-item btn-has">
+                                <button id="save" type="button" class="save"></button>
+                            </div>
+                            <div class="form-item btn-has">
+                                <button id="delete" type="button" class="trash" onclick="
+                                $('#search-form')[0].reset();
+                                $('#search-form textarea').text('');
+                                "></button>
+                            </div>
+                            <div class="form-item btn-has">
+                                <button id="search-btn" class="search"></button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+
+                <form id="proposal_form" action="/new-proposal" method="POST" style="display: none"></form>
+                <div id="not_found"></div>
+            </div>
+        </div>
+
+        <div id="tab2" class="tab-list">
+            <div class="title-wrap">
+                <h1 class="title">Заявки</h1>
+                <div class="button my-search">
+                    <a href="#" class="btn-custom black">мои заявки <i class="arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+        <div id="tab3" class="tab-list">
+            <div class="title-wrap">
+                <h1 class="title">Заказы</h1>
+                <div class="button my-search">
+                    <a href="#" class="btn-custom black">мои Заказы <i class="arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div id="searchResultsBlock" style="display: none">
+            <div class="map-wrap">
+                <div class="button">
+                    <a href="#" data-id="tab" class="btn-custom black">Таблица</a>
+                    <a href="#" data-id="map" class="btn-custom">Карта</a>
+                </div>
+                <div id="tabmap" class="tab-list-map">
+                    <div id="map" class="row clearfix body" style="height: 425px;"></div>
+                </div>
+                <div id="tabtab" class="active">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal modal-fade" id="machine-modal" style="display: none;">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span
+                                class="sr-only">Close</span></button>
+                    <h4 class="modal-title">
+                        Карточка техники
+                    </h4>
+                </div>
+                <div class="modal-body">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    @include('scripts.search.search')
+@endsection

@@ -1,0 +1,3275 @@
+{
+  "meta": {
+    "api_version": "3.0.360294",
+    "code": 200,
+    "issue_date": "20191208"
+  },
+  "result": {
+    "context_rubrics": [
+      {
+        "caption": "Спецтехника",
+        "group": 0,
+        "id": "432",
+        "name": "Спецтехника / Вспомогательные устройства",
+        "short_id": 432
+      },
+      {
+        "caption": "Аренда спецтехники",
+        "group": 0,
+        "id": "1156",
+        "name": "Аренда спецтехники",
+        "short_id": 1156
+      }
+    ],
+    "items": [
+      {
+        "address": {
+          "building_id": "2111697980534376",
+          "components": [
+            {
+              "number": "5а",
+              "street": "Краснопольский проспект",
+              "street_id": "2111801059711987",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "454076"
+        },
+        "address_comment": "1 помещение; 1 этаж",
+        "address_name": "Краснопольский проспект, 5а",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          },
+          {
+            "id": "2111672210685955",
+            "name": "Курчатовский район",
+            "type": "district"
+          },
+          {
+            "id": "2111723750293544",
+            "name": "Парковый",
+            "type": "living_area"
+          }
+        ],
+        "context": {},
+        "external_content": [
+          {
+            "count": 7,
+            "main_photo_url": "http://i6.photo.2gis.com/main/geo/15/2111697980534376/view",
+            "subtype": "view",
+            "type": "photo_album"
+          }
+        ],
+        "id": "2111590608897890_mx8o78622C4H46A361IGGGG0Ah72fk47G6G636I5G42H4BH1udcn568546G7G0I2142JIJ0J7wseuv18787C98A9BBH2289Hec",
+        "links": {
+          "database_entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(62.300465 55.220257,61.300535 55.208487)"
+                ],
+                "points": [
+                  "POINT(61.300535 55.208487)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.300692 55.208489,61.300535 55.208487)"
+                ]
+              },
+              "id": "70030076175765208",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(62.300465 55.220257,61.300535 55.208487)"
+                ],
+                "points": [
+                  "POINT(61.300535 55.208487)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.300692 55.208489,61.300535 55.208487)"
+                ]
+              },
+              "id": "70030076175765208",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "nearest_parking": [
+            {
+              "id": "2112118922887887"
+            },
+            {
+              "id": "70030076159585568"
+            },
+            {
+              "id": "70030076159585576"
+            },
+            {
+              "id": "70030076159585586"
+            },
+            {
+              "id": "70030076189608391"
+            },
+            {
+              "id": "70030076159585596"
+            },
+            {
+              "id": "70030076168396720"
+            },
+            {
+              "id": "70030076175765263"
+            },
+            {
+              "id": "70030076175765261"
+            },
+            {
+              "id": "70030076159585740"
+            }
+          ],
+          "nearest_stations": [
+            {
+              "distance": 150,
+              "id": "2111848304345950",
+              "name": "ЖК Пара",
+              "route_types": [
+                "bus",
+                "shuttle_bus"
+              ]
+            }
+          ]
+        },
+        "locale": "ru_RU",
+        "name": "Логис, транспортная компания",
+        "name_ex": {
+          "extension": "транспортная компания",
+          "legal_name": "ООО Логис",
+          "primary": "Логис"
+        },
+        "org": {
+          "branch_count": 2,
+          "id": "2111599196752958",
+          "name": "Логис, ООО, транспортная компания"
+        },
+        "point": {
+          "lat": 55.208486999999998,
+          "lon": 61.300519000000001
+        },
+        "region_id": "15",
+        "reviews": {
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "tag": "flamp"
+            }
+          ]
+        },
+        "rubrics": [
+          {
+            "alias": "arenda_spectekhniki",
+            "id": "1156",
+            "kind": "primary",
+            "name": "Аренда спецтехники",
+            "parent_id": "12",
+            "short_id": 1156
+          },
+          {
+            "alias": "mezhdugorodnye_avtogruzoperevozki",
+            "id": "417",
+            "kind": "primary",
+            "name": "Междугородные автогрузоперевозки",
+            "parent_id": "12",
+            "short_id": 417
+          },
+          {
+            "alias": "gorodskie_avtogruzoperevozki",
+            "id": "721",
+            "kind": "primary",
+            "name": "Городские автогрузоперевозки",
+            "parent_id": "12",
+            "short_id": 721
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "18:00"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "18:00"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "18:00"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "18:00"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "18:00"
+              }
+            ]
+          }
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "1156",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      },
+      {
+        "address": {
+          "building_id": "2111697980490245",
+          "components": [
+            {
+              "number": "126",
+              "street": "Ферросплавная",
+              "street_id": "2111801059705196",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "454081"
+        },
+        "address_comment": "2102 офис; 1 этаж",
+        "address_name": "Ферросплавная, 126",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          },
+          {
+            "id": "2111672210685956",
+            "name": "Калининский район",
+            "type": "district"
+          }
+        ],
+        "context": {},
+        "external_content": [
+          {
+            "count": 3,
+            "main_photo_url": "http://i5.photo.2gis.com/main/geo/15/2111697980490245/view",
+            "subtype": "view",
+            "type": "photo_album"
+          }
+        ],
+        "id": "2111590608689871_mx8o78622C4H46A361IGGGG0Ah72fk47G6G636I5G43H4CH1udcn568546G7G0I2142JIJ0J7wseuv18787C969BB9H2289H81",
+        "links": {
+          "database_entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(62.430059 55.211748,61.430315 55.189144)"
+                ],
+                "points": [
+                  "POINT(61.430315 55.189144)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.430472 55.189147,61.430315 55.189144)"
+                ]
+              },
+              "id": "2112106002383192",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(62.430059 55.211748,61.430315 55.189144)"
+                ],
+                "points": [
+                  "POINT(61.430315 55.189144)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.430472 55.189147,61.430315 55.189144)"
+                ]
+              },
+              "id": "2112106002383192",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "nearest_parking": [
+            {
+              "id": "70030076165933750"
+            },
+            {
+              "id": "70030076137574713"
+            },
+            {
+              "id": "2112118916364316"
+            },
+            {
+              "id": "2112118887285372"
+            },
+            {
+              "id": "2112118887285373"
+            },
+            {
+              "id": "70030076137574668"
+            },
+            {
+              "id": "70030076165933855"
+            }
+          ],
+          "nearest_stations": [
+            {
+              "distance": 200,
+              "id": "2111848304345896",
+              "name": "Рынок Универсальный",
+              "route_types": [
+                "tram"
+              ]
+            }
+          ]
+        },
+        "locale": "ru_RU",
+        "name": "Шоссе",
+        "name_ex": {
+          "legal_name": "ООО Шоссе",
+          "primary": "Шоссе"
+        },
+        "org": {
+          "branch_count": 1,
+          "id": "2111599196356907",
+          "name": "Шоссе, ООО"
+        },
+        "point": {
+          "lat": 55.189143000000001,
+          "lon": 61.430298999999998
+        },
+        "region_id": "15",
+        "reviews": {
+          "general_rating": 2.2999999999999998,
+          "general_review_count": 3,
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "rating": 3,
+              "recommendation_count": 1,
+              "review_count": 2,
+              "tag": "flamp"
+            }
+          ],
+          "org_rating": 2.2999999999999998,
+          "org_review_count": 3,
+          "rating": 3,
+          "recommendation_count": 1,
+          "review_count": 2
+        },
+        "rubrics": [
+          {
+            "alias": "stroitelstvo_remont_dorog",
+            "id": "294",
+            "kind": "primary",
+            "name": "Строительство / ремонт дорог",
+            "parent_id": "9",
+            "short_id": 294
+          },
+          {
+            "alias": "arenda_spectekhniki",
+            "id": "1156",
+            "kind": "primary",
+            "name": "Аренда спецтехники",
+            "parent_id": "12",
+            "short_id": 1156
+          },
+          {
+            "alias": "vyvoz_snega",
+            "id": "14376",
+            "kind": "primary",
+            "name": "Вывоз снега",
+            "parent_id": "10",
+            "short_id": 14376
+          },
+          {
+            "alias": "blagoustrojjstvo_ulic",
+            "id": "123",
+            "kind": "primary",
+            "name": "Благоустройство улиц",
+            "parent_id": "10",
+            "short_id": 123
+          },
+          {
+            "alias": "materialy_dlya_dorozhnogo_stroitelstva",
+            "id": "549",
+            "kind": "additional",
+            "name": "Материалы для дорожного строительства",
+            "parent_id": "42867",
+            "short_id": 549
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "07:00",
+                "to": "19:00"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "07:00",
+                "to": "19:00"
+              }
+            ]
+          },
+          "Sat": {
+            "working_hours": [
+              {
+                "from": "07:00",
+                "to": "19:00"
+              }
+            ]
+          },
+          "Sun": {
+            "working_hours": [
+              {
+                "from": "07:00",
+                "to": "19:00"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "07:00",
+                "to": "19:00"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "07:00",
+                "to": "19:00"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "07:00",
+                "to": "19:00"
+              }
+            ]
+          }
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "1156",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      },
+      {
+        "address": {
+          "building_id": "2111697980504514",
+          "components": [
+            {
+              "number": "17",
+              "street": "Копейское шоссе",
+              "street_id": "2111801059704963",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "454012"
+        },
+        "address_name": "Копейское шоссе, 17",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          },
+          {
+            "id": "2111672210685957",
+            "name": "Ленинский район",
+            "type": "district"
+          }
+        ],
+        "context": {},
+        "external_content": [],
+        "id": "2111590608227099_mx8o78622C4H46A361IGGG02Ah72fk47G6G636I5G4BH53H1udcn568546G7G0I214GJI3GJ7wseuv18787C92393BH545J3b",
+        "links": {
+          "database_entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(60.97131 54.273011,61.497519 55.123366)"
+                ],
+                "points": [
+                  "POINT(61.497519 55.123366)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.497467 55.123282,61.497519 55.123366)"
+                ]
+              },
+              "id": "2112106002385180",
+              "is_primary": true,
+              "is_visible_on_map": true
+            }
+          ],
+          "entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(60.97131 54.273011,61.497519 55.123366)"
+                ],
+                "points": [
+                  "POINT(61.497519 55.123366)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.497467 55.123282,61.497519 55.123366)"
+                ]
+              },
+              "id": "2112106002385180",
+              "is_primary": true,
+              "is_visible_on_map": true
+            }
+          ],
+          "nearest_stations": [
+            {
+              "distance": 250,
+              "id": "2111848304345263",
+              "name": "Обуховская",
+              "route_types": [
+                "bus",
+                "trolleybus",
+                "shuttle_bus"
+              ]
+            }
+          ]
+        },
+        "locale": "ru_RU",
+        "name": "Челябинский опытный завод",
+        "name_ex": {
+          "legal_name": "ООО Челябинский опытный завод",
+          "primary": "Челябинский опытный завод"
+        },
+        "org": {
+          "branch_count": 1,
+          "id": "2111599196255867",
+          "name": "Челябинский опытный завод, ООО"
+        },
+        "point": {
+          "lat": 55.123375000000003,
+          "lon": 61.497523999999999
+        },
+        "region_id": "15",
+        "reviews": {
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "tag": "flamp"
+            }
+          ]
+        },
+        "rubrics": [
+          {
+            "alias": "shiny_diski",
+            "id": "427",
+            "kind": "primary",
+            "name": "Шины / Диски",
+            "parent_id": "42903",
+            "short_id": 427
+          },
+          {
+            "alias": "spectekhnika_vspomogatelnye_ustrojjstva",
+            "id": "432",
+            "kind": "additional",
+            "name": "Спецтехника / Вспомогательные устройства",
+            "parent_id": "12",
+            "short_id": 432
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "16:30"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "16:30"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "16:30"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "16:30"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "16:30"
+              }
+            ]
+          }
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "432",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      },
+      {
+        "address": {
+          "building_id": "2111697980531781",
+          "components": [
+            {
+              "number": "4",
+              "street": "Новоградский тракт",
+              "street_id": "2111801059710818",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "456506"
+        },
+        "address_name": "Новоградский тракт, 4",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          }
+        ],
+        "context": {},
+        "external_content": [],
+        "floors": {
+          "ground_count": 2
+        },
+        "full_name": "Челябинск, Новоградский тракт, 4",
+        "geometry": {
+          "centroid": "POINT(61.246308 55.185126)",
+          "selection": "POINT(61.246308 55.185126)"
+        },
+        "group": [
+          {
+            "id": "2111697980531781",
+            "type": "building"
+          }
+        ],
+        "id": "70000001040555011_mx8o78622C4H311311IGGGGGAh72fk47G6G636I5G432G82Hudcn568546G7G0I703G5IJG37wseuv18787C5067821H24871c8",
+        "links": {
+          "nearest_parking": [
+            {
+              "id": "70030076174933897"
+            }
+          ],
+          "nearest_stations": [
+            {
+              "distance": 200,
+              "id": "2111848304345926",
+              "name": "Строительный рынок",
+              "route_types": [
+                "bus",
+                "shuttle_bus"
+              ]
+            }
+          ],
+          "providers": {
+            "count": 2
+          }
+        },
+        "locale": "ru_RU",
+        "name": "Компания по аренде манипулятора",
+        "name_ex": {
+          "primary": "Компания по аренде манипулятора"
+        },
+        "org": {
+          "branch_count": 1,
+          "id": "70000001040555010",
+          "name": "Компания по аренде манипулятора"
+        },
+        "point": {
+          "lat": 55.185124000000002,
+          "lon": 61.246372999999998
+        },
+        "purpose_name": "Частный дом",
+        "region_id": "15",
+        "reviews": {
+          "is_org_reviews": true,
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "tag": "flamp"
+            }
+          ]
+        },
+        "rubrics": [
+          {
+            "alias": "arenda_spectekhniki",
+            "id": "1156",
+            "kind": "primary",
+            "name": "Аренда спецтехники",
+            "parent_id": "12",
+            "short_id": 1156
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Sat": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Sun": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          }
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "1156",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      },
+      {
+        "address": {
+          "building_id": "2111697980499997",
+          "components": [
+            {
+              "number": "6",
+              "street": "Промышленная",
+              "street_id": "2111801059710488",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "454038"
+        },
+        "address_name": "Промышленная, 6",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          },
+          {
+            "id": "2111672210685959",
+            "name": "Металлургический район",
+            "type": "district"
+          }
+        ],
+        "context": {},
+        "external_content": [
+          {
+            "count": 18,
+            "main_photo_url": "http://i5.photo.2gis.com/main/branch/15/2111591606802875/common",
+            "subtype": "common",
+            "type": "photo_album"
+          },
+          {
+            "count": 1,
+            "main_photo_url": "http://i7.photo.2gis.com/main/geo/15/2111697980499997/view",
+            "subtype": "view",
+            "type": "photo_album"
+          }
+        ],
+        "id": "2111591606802875_mx8o78622C4H46A461IGGG01Ah72fk47G6G636I5G47H55H1udcn568546G7G0I214GJI3GJ7wseuv18787C7814B9H545J3d",
+        "links": {
+          "nearest_parking": [
+            {
+              "id": "70030076191203004"
+            },
+            {
+              "id": "70030076191202885"
+            }
+          ]
+        },
+        "locale": "ru_RU",
+        "name": "Челябинский машиностроительный завод",
+        "name_ex": {
+          "legal_name": "ООО Челябинский машиностроительный завод",
+          "primary": "Челябинский машиностроительный завод"
+        },
+        "org": {
+          "branch_count": 1,
+          "id": "2111600296554945",
+          "name": "Челябинский машиностроительный завод, ООО"
+        },
+        "point": {
+          "lat": 55.234923999999999,
+          "lon": 61.437412999999999
+        },
+        "region_id": "15",
+        "reviews": {
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "tag": "flamp"
+            }
+          ]
+        },
+        "rubrics": [
+          {
+            "alias": "neftegazovoe_oborudovanie",
+            "id": "451",
+            "kind": "primary",
+            "name": "Нефтегазовое оборудование",
+            "parent_id": "15",
+            "short_id": 451
+          },
+          {
+            "alias": "spectekhnika_vspomogatelnye_ustrojjstva",
+            "id": "432",
+            "kind": "primary",
+            "name": "Спецтехника / Вспомогательные устройства",
+            "parent_id": "12",
+            "short_id": 432
+          },
+          {
+            "alias": "zapchasti_dlya_spectekhniki",
+            "id": "8466",
+            "kind": "primary",
+            "name": "Запчасти для спецтехники",
+            "parent_id": "42903",
+            "short_id": 8466
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "08:30",
+                "to": "17:30"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "08:30",
+                "to": "17:30"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "08:30",
+                "to": "17:30"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "08:30",
+                "to": "17:30"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "08:30",
+                "to": "17:30"
+              }
+            ]
+          }
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "432",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      },
+      {
+        "address": {
+          "building_id": "2111697997448106",
+          "components": [
+            {
+              "number": "168/1",
+              "street": "Победы проспект",
+              "street_id": "2111801059704919",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "454084"
+        },
+        "address_name": "Победы проспект, 168/1",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          },
+          {
+            "id": "2111672210685956",
+            "name": "Калининский район",
+            "type": "district"
+          }
+        ],
+        "context": {},
+        "external_content": [
+          {
+            "count": 8,
+            "main_photo_url": "http://i8.photo.2gis.com/main/branch/15/2111590606337128/common",
+            "subtype": "common",
+            "type": "photo_album"
+          }
+        ],
+        "floors": {
+          "ground_count": 1
+        },
+        "full_name": "Челябинск, Победы проспект, 168/1",
+        "geometry": {
+          "centroid": "POINT(61.397661 55.185294)",
+          "selection": "POINT(61.397661 55.185294)"
+        },
+        "group": [
+          {
+            "id": "2111697997448106",
+            "type": "building"
+          }
+        ],
+        "id": "2111590606337128_mx8o78622C4H46A361IGGG0fAh72fk47G6G636I5G4AH56H1udcn568546G7G0I214GJI3GJ7wseuv18787C734944H545J33",
+        "links": {
+          "database_entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(60.398079 55.154808,61.397615 55.185288)"
+                ],
+                "points": [
+                  "POINT(61.397615 55.185288)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.397458 55.185283,61.397615 55.185288)"
+                ]
+              },
+              "id": "2112106025108345",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(60.398079 55.154808,61.397615 55.185288)"
+                ],
+                "points": [
+                  "POINT(61.397615 55.185288)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.397458 55.185283,61.397615 55.185288)"
+                ]
+              },
+              "id": "2112106025108345",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "nearest_parking": [
+            {
+              "id": "70030076168408561"
+            },
+            {
+              "id": "70030076174424910"
+            },
+            {
+              "id": "70030076178773734"
+            },
+            {
+              "id": "70030076178773705"
+            },
+            {
+              "id": "70030076174424852"
+            },
+            {
+              "id": "2112118904933505"
+            },
+            {
+              "id": "70030076178773704"
+            },
+            {
+              "id": "70030076178773735"
+            },
+            {
+              "id": "70030076157392440"
+            },
+            {
+              "id": "70030076179536062"
+            },
+            {
+              "id": "70030076157847329"
+            },
+            {
+              "id": "70030076129865277"
+            },
+            {
+              "id": "70030076174425159"
+            },
+            {
+              "id": "2112118887285329"
+            },
+            {
+              "id": "70030076173303838"
+            },
+            {
+              "id": "70030076168408574"
+            }
+          ],
+          "nearest_stations": [
+            {
+              "distance": 300,
+              "id": "2111848304345399",
+              "name": "Теплотехнический институт",
+              "route_types": [
+                "bus",
+                "shuttle_bus"
+              ]
+            }
+          ],
+          "providers": {
+            "count": 2
+          },
+          "servicing": {
+            "count": 1,
+            "items": [
+              {
+                "additional_info": "Участковые пункты полиции",
+                "contacts": [
+                  {
+                    "text": "+7 (351) 790‒16‒06",
+                    "type": "phone",
+                    "value": "+73517901606"
+                  }
+                ],
+                "id": "2111590606500737_kmx8o7G6G6I5GH03HH1HAh72fcn5647C8548A190euvudH18786G73669I1G787ws622C4G411476019HJ3HG4IJGJ4fd",
+                "name": "Участковый пункт полиции, Калининский район",
+                "org_id": "2111599196360357"
+              }
+            ]
+          }
+        },
+        "locale": "ru_RU",
+        "name": "Курганские прицепы, торговая компания",
+        "name_ex": {
+          "extension": "торговая компания",
+          "primary": "Курганские прицепы"
+        },
+        "org": {
+          "branch_count": 2,
+          "id": "2111599196263761",
+          "name": "Курганские прицепы, торговая компания"
+        },
+        "point": {
+          "lat": 55.185288,
+          "lon": 61.397629999999999
+        },
+        "purpose_name": "Торговый павильон",
+        "region_id": "15",
+        "reviews": {
+          "general_rating": 1,
+          "general_review_count": 1,
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "tag": "flamp"
+            }
+          ],
+          "org_rating": 1,
+          "org_review_count": 1
+        },
+        "rubrics": [
+          {
+            "alias": "zapchasti_dlya_spectekhniki",
+            "id": "8466",
+            "kind": "primary",
+            "name": "Запчасти для спецтехники",
+            "parent_id": "42903",
+            "short_id": 8466
+          },
+          {
+            "alias": "avtopricepy",
+            "id": "110482",
+            "kind": "primary",
+            "name": "Автоприцепы",
+            "parent_id": "42903",
+            "short_id": 110482
+          },
+          {
+            "alias": "spectekhnika_vspomogatelnye_ustrojjstva",
+            "id": "432",
+            "kind": "additional",
+            "name": "Спецтехника / Вспомогательные устройства",
+            "parent_id": "12",
+            "short_id": 432
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "09:30",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "09:30",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Sat": {
+            "working_hours": [
+              {
+                "from": "10:00",
+                "to": "12:00"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "09:30",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "09:30",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "09:30",
+                "to": "17:00"
+              }
+            ]
+          },
+          "comment": "по предварительной записи: сб"
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "432",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      },
+      {
+        "address": {
+          "building_id": "2111697980504871",
+          "components": [
+            {
+              "number": "30",
+              "street": "Павелецкая 2-я",
+              "street_id": "2111801059704951",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "454047"
+        },
+        "address_comment": "2 этаж",
+        "address_name": "Павелецкая 2-я, 30",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          },
+          {
+            "id": "2111672210685959",
+            "name": "Металлургический район",
+            "type": "district"
+          }
+        ],
+        "context": {},
+        "external_content": [
+          {
+            "count": 2,
+            "main_photo_url": "http://i2.photo.2gis.com/main/branch/15/2111590606330262/common",
+            "subtype": "common",
+            "type": "photo_album"
+          }
+        ],
+        "id": "2111590606330262_mx8o78622C4H46A361IGGGG0Ah72fk47G6G636I5G44H57H1udcn568546G7G0I2142JIJ0J7wseuv18787C734258H2289H3A",
+        "links": {
+          "database_entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(62.324894 55.661533,61.40455 55.270424)"
+                ],
+                "points": [
+                  "POINT(61.40455 55.270424)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.404676 55.270478,61.40455 55.270424)"
+                ]
+              },
+              "id": "2112106002385864",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(62.324894 55.661533,61.40455 55.270424)"
+                ],
+                "points": [
+                  "POINT(61.40455 55.270424)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.404676 55.270478,61.40455 55.270424)"
+                ]
+              },
+              "id": "2112106002385864",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "nearest_parking": [
+            {
+              "id": "70030076184145885"
+            }
+          ],
+          "nearest_stations": [
+            {
+              "distance": 310,
+              "id": "2111848304345318",
+              "name": "Приборостроительная",
+              "route_types": [
+                "bus",
+                "shuttle_bus"
+              ]
+            }
+          ]
+        },
+        "locale": "ru_RU",
+        "name": "Спецстрой-2, строительная фирма",
+        "name_ex": {
+          "extension": "строительная фирма",
+          "legal_name": "ЗАО Спецстрой-2",
+          "primary": "Спецстрой-2"
+        },
+        "org": {
+          "branch_count": 1,
+          "id": "2111599196259353",
+          "name": "Спецстрой-2, ЗАО, строительная фирма"
+        },
+        "point": {
+          "lat": 55.270418999999997,
+          "lon": 61.404536999999998
+        },
+        "region_id": "15",
+        "reviews": {
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "tag": "flamp"
+            }
+          ]
+        },
+        "rubrics": [
+          {
+            "alias": "stroitelstvo_obsluzhivanie_naruzhnykh_sistem_otopleniya_vodosnabzheniya_kanalizacii",
+            "id": "10021",
+            "kind": "primary",
+            "name": "Строительство / обслуживание наружных систем отопления / водоснабжения / канализации",
+            "parent_id": "9",
+            "short_id": 10021
+          },
+          {
+            "alias": "arenda_spectekhniki",
+            "id": "1156",
+            "kind": "primary",
+            "name": "Аренда спецтехники",
+            "parent_id": "12",
+            "short_id": 1156
+          },
+          {
+            "alias": "zemlyanye_raboty",
+            "id": "53397",
+            "kind": "primary",
+            "name": "Земляные работы",
+            "parent_id": "9",
+            "short_id": 53397
+          },
+          {
+            "alias": "burovye_raboty",
+            "id": "483",
+            "kind": "primary",
+            "name": "Буровые работы",
+            "parent_id": "9",
+            "short_id": 483
+          },
+          {
+            "alias": "proektirovanie_inzhenernykh_sistem",
+            "id": "5659",
+            "kind": "primary",
+            "name": "Проектирование инженерных систем",
+            "parent_id": "9",
+            "short_id": 5659
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "17:00"
+              }
+            ]
+          }
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "1156",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      },
+      {
+        "address": {
+          "building_id": "2111697980502713",
+          "components": [
+            {
+              "number": "17",
+              "street": "Валдайская",
+              "street_id": "2111801059704871",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "454081"
+        },
+        "address_name": "Валдайская, 17",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          },
+          {
+            "id": "2111672210685956",
+            "name": "Калининский район",
+            "type": "district"
+          }
+        ],
+        "context": {},
+        "external_content": [
+          {
+            "count": 3,
+            "main_photo_url": "http://i3.photo.2gis.com/main/branch/15/2111590608211333/common",
+            "subtype": "common",
+            "type": "photo_album"
+          },
+          {
+            "count": 2,
+            "main_photo_url": "http://i3.photo.2gis.com/main/geo/15/2111697980502713/view",
+            "subtype": "view",
+            "type": "photo_album"
+          }
+        ],
+        "id": "2111590608211333_mx8o78622C4H46A361IGGG04Ah72fk47G6G636I5G45H58H1udcn568546G7G0I214GJI3GJ7wseuv18787C922365H545J31",
+        "links": {
+          "database_entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(60.452785 55.191605,61.452708 55.204037)"
+                ],
+                "points": [
+                  "POINT(61.452708 55.204037)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.452551 55.204035,61.452708 55.204037)"
+                ]
+              },
+              "id": "2112106002383296",
+              "is_primary": true,
+              "is_visible_on_map": true
+            }
+          ],
+          "entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(60.452785 55.191605,61.452708 55.204037)"
+                ],
+                "points": [
+                  "POINT(61.452708 55.204037)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.452551 55.204035,61.452708 55.204037)"
+                ]
+              },
+              "id": "2112106002383296",
+              "is_primary": true,
+              "is_visible_on_map": true
+            }
+          ],
+          "nearest_parking": [
+            {
+              "id": "2112118919784392"
+            },
+            {
+              "id": "2112118919784362"
+            }
+          ]
+        },
+        "locale": "ru_RU",
+        "name": "Трак Моторс, официальный дилер МАЗ",
+        "name_ex": {
+          "extension": "официальный дилер МАЗ",
+          "primary": "Трак Моторс"
+        },
+        "org": {
+          "branch_count": 2,
+          "id": "2111599196260562",
+          "name": "Трак Моторс, официальный дилер МАЗ"
+        },
+        "point": {
+          "lat": 55.204037,
+          "lon": 61.452724000000003
+        },
+        "region_id": "15",
+        "reviews": {
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "tag": "flamp"
+            }
+          ],
+          "org_rating": 5,
+          "org_review_count": 1
+        },
+        "rubrics": [
+          {
+            "alias": "prodazha_gruzovykh_avtomobilejj",
+            "id": "428",
+            "kind": "primary",
+            "name": "Продажа грузовых автомобилей",
+            "parent_id": "12",
+            "short_id": 428
+          },
+          {
+            "alias": "remont_gruzovykh_avtomobilejj",
+            "id": "20989",
+            "kind": "primary",
+            "name": "Ремонт грузовых автомобилей",
+            "parent_id": "42903",
+            "short_id": 20989
+          },
+          {
+            "alias": "avtozapchasti_dlya_gruzovykh_avtomobilejj",
+            "id": "1141",
+            "kind": "primary",
+            "name": "Автозапчасти для грузовых автомобилей",
+            "parent_id": "42903",
+            "short_id": 1141
+          },
+          {
+            "alias": "spectekhnika_vspomogatelnye_ustrojjstva",
+            "id": "432",
+            "kind": "primary",
+            "name": "Спецтехника / Вспомогательные устройства",
+            "parent_id": "12",
+            "short_id": 432
+          },
+          {
+            "alias": "avtoremont_i_tekhobsluzhivanie_sto",
+            "id": "9041",
+            "kind": "primary",
+            "name": "Авторемонт и техобслуживание (СТО)",
+            "parent_id": "42903",
+            "short_id": 9041
+          },
+          {
+            "alias": "remont_khodovojj_chasti_avtomobilya",
+            "id": "7691",
+            "kind": "additional",
+            "name": "Ремонт ходовой части автомобиля",
+            "parent_id": "42903",
+            "short_id": 7691
+          },
+          {
+            "alias": "shinomontazh",
+            "id": "7689",
+            "kind": "additional",
+            "name": "Шиномонтаж",
+            "parent_id": "42903",
+            "short_id": 7689
+          },
+          {
+            "alias": "remont_mkpp",
+            "id": "110363",
+            "kind": "additional",
+            "name": "Ремонт МКПП",
+            "parent_id": "42903",
+            "short_id": 110363
+          },
+          {
+            "alias": "remont_benzinovykh_dvigatelejj",
+            "id": "7695",
+            "kind": "additional",
+            "name": "Ремонт бензиновых двигателей",
+            "parent_id": "42903",
+            "short_id": 7695
+          },
+          {
+            "alias": "remont_dizelnykh_dvigatelejj",
+            "id": "7694",
+            "kind": "additional",
+            "name": "Ремонт дизельных двигателей",
+            "parent_id": "42903",
+            "short_id": 7694
+          },
+          {
+            "alias": "remont_toplivnojj_apparatury_dizelnykh_dvigatelejj",
+            "id": "16648",
+            "kind": "additional",
+            "name": "Ремонт топливной аппаратуры дизельных двигателей",
+            "parent_id": "42903",
+            "short_id": 16648
+          },
+          {
+            "alias": "remont_avtoehlektriki",
+            "id": "7692",
+            "kind": "additional",
+            "name": "Ремонт автоэлектрики",
+            "parent_id": "42903",
+            "short_id": 7692
+          },
+          {
+            "alias": "kompyuternaya_diagnostika_avtomobilejj",
+            "id": "110362",
+            "kind": "additional",
+            "name": "Компьютерная диагностика автомобилей",
+            "parent_id": "42903",
+            "short_id": 110362
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Sat": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Sun": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          }
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "432",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      },
+      {
+        "address": {
+          "building_id": "2111697980494016",
+          "components": [
+            {
+              "number": "19",
+              "street": "Молдавская",
+              "street_id": "2111801059705744",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "454021"
+        },
+        "address_comment": "1 этаж",
+        "address_name": "Молдавская, 19",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          },
+          {
+            "id": "2111672210685955",
+            "name": "Курчатовский район",
+            "type": "district"
+          }
+        ],
+        "context": {},
+        "external_content": [
+          {
+            "count": 2,
+            "main_photo_url": "http://i3.photo.2gis.com/main/branch/15/2111590606567513/common",
+            "subtype": "common",
+            "type": "photo_album"
+          },
+          {
+            "count": 12,
+            "main_photo_url": "http://i6.photo.2gis.com/main/geo/15/2111697980494016/view",
+            "subtype": "view",
+            "type": "photo_album"
+          }
+        ],
+        "id": "2111590606567513_mx8o78622C4H46A361IGGGG0Ah72fk47G6G636I5G45H59H1udcn568546G7G0I2142JIJ0J7wseuv18787C757983H2289Hgb",
+        "links": {
+          "database_entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(60.50203 55.789326,61.304618 55.192793)"
+                ],
+                "points": [
+                  "POINT(61.304618 55.192793)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.304522 55.192864,61.304618 55.192793)"
+                ]
+              },
+              "id": "2112106002395421",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(60.50203 55.789326,61.304618 55.192793)"
+                ],
+                "points": [
+                  "POINT(61.304618 55.192793)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.304522 55.192864,61.304618 55.192793)"
+                ]
+              },
+              "id": "2112106002395421",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "nearest_parking": [
+            {
+              "id": "70030076167073086"
+            },
+            {
+              "id": "70030076167044078"
+            },
+            {
+              "id": "70030076167073106"
+            },
+            {
+              "id": "70030076195128486"
+            },
+            {
+              "id": "70030076167044057"
+            },
+            {
+              "id": "70030076152318166"
+            },
+            {
+              "id": "70030076195128485"
+            },
+            {
+              "id": "70030076167116434"
+            },
+            {
+              "id": "70030076152318145"
+            },
+            {
+              "id": "70030076167116521"
+            },
+            {
+              "id": "70030076167044094"
+            },
+            {
+              "id": "70030076167044027"
+            },
+            {
+              "id": "70030076152318133"
+            },
+            {
+              "id": "70030076167116450"
+            },
+            {
+              "id": "70030076167072153"
+            },
+            {
+              "id": "70030076152318178"
+            },
+            {
+              "id": "2112118887285282"
+            },
+            {
+              "id": "70030076167116558"
+            },
+            {
+              "id": "70030076144317351"
+            },
+            {
+              "id": "70030076167116589"
+            },
+            {
+              "id": "2112118921733668"
+            },
+            {
+              "id": "2112118931508779"
+            }
+          ],
+          "nearest_stations": [
+            {
+              "distance": 330,
+              "id": "2111848304345758",
+              "name": "Молдавская (Комсомольский проспект)",
+              "route_types": [
+                "bus",
+                "trolleybus",
+                "shuttle_bus"
+              ]
+            }
+          ]
+        },
+        "locale": "ru_RU",
+        "name": "АНП-КАРГО, транспортная компания",
+        "name_ex": {
+          "extension": "транспортная компания",
+          "legal_name": "ООО АНП-КАРГО",
+          "primary": "АНП-КАРГО"
+        },
+        "org": {
+          "branch_count": 1,
+          "id": "2111599196251248",
+          "name": "АНП-КАРГО, ООО, транспортная компания"
+        },
+        "point": {
+          "lat": 55.192785999999998,
+          "lon": 61.304628000000001
+        },
+        "region_id": "15",
+        "reviews": {
+          "general_rating": 4.7999999999999998,
+          "general_review_count": 16,
+          "is_org_reviews": true,
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "rating": 4.7000000000000002,
+              "recommendation_count": 2,
+              "review_count": 16,
+              "tag": "flamp"
+            }
+          ],
+          "org_rating": 4.7999999999999998,
+          "org_review_count": 16,
+          "rating": 4.7000000000000002,
+          "recommendation_count": 2,
+          "review_count": 16
+        },
+        "rubrics": [
+          {
+            "alias": "mezhdugorodnye_avtogruzoperevozki",
+            "id": "417",
+            "kind": "primary",
+            "name": "Междугородные автогрузоперевозки",
+            "parent_id": "12",
+            "short_id": 417
+          },
+          {
+            "alias": "gorodskie_avtogruzoperevozki",
+            "id": "721",
+            "kind": "primary",
+            "name": "Городские автогрузоперевозки",
+            "parent_id": "12",
+            "short_id": 721
+          },
+          {
+            "alias": "arenda_spectekhniki",
+            "id": "1156",
+            "kind": "primary",
+            "name": "Аренда спецтехники",
+            "parent_id": "12",
+            "short_id": 1156
+          },
+          {
+            "alias": "uslugi_skladskogo_khraneniya",
+            "id": "5279",
+            "kind": "primary",
+            "name": "Услуги складского хранения",
+            "parent_id": "12",
+            "short_id": 5279
+          },
+          {
+            "alias": "ehkspedirovanie_gruzov",
+            "id": "8534",
+            "kind": "primary",
+            "name": "Экспедирование грузов",
+            "parent_id": "12",
+            "short_id": 8534
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Sat": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Sun": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "20:00"
+              }
+            ]
+          }
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "1156",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      },
+      {
+        "address": {
+          "building_id": "2111697980490988",
+          "components": [
+            {
+              "number": "7",
+              "street": "Сталеваров",
+              "street_id": "2111801059704956",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "454047"
+        },
+        "address_comment": "501б офис; 5 этаж",
+        "address_name": "Сталеваров, 7",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          },
+          {
+            "id": "2111672210685959",
+            "name": "Металлургический район",
+            "type": "district"
+          }
+        ],
+        "context": {},
+        "external_content": [
+          {
+            "count": 4,
+            "main_photo_url": "http://i8.photo.2gis.com/main/geo/15/2111697980490988/view",
+            "subtype": "view",
+            "type": "photo_album"
+          }
+        ],
+        "id": "2111591606696182_mx8o78622C4H46A461IGGG00Ah72fk47G6G636I5G44H5AH1udcn568546G7G0I214GJI3GJ7wseuv18787C76A84AH545J3d",
+        "links": {
+          "database_entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(61.443977 54.262602,61.403961 55.261801)"
+                ],
+                "points": [
+                  "POINT(61.403961 55.261801)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.403965 55.261711,61.403961 55.261801)"
+                ]
+              },
+              "id": "2112106002384173",
+              "is_primary": true,
+              "is_visible_on_map": true
+            }
+          ],
+          "entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(61.443977 54.262602,61.403961 55.261801)"
+                ],
+                "points": [
+                  "POINT(61.403961 55.261801)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.403965 55.261711,61.403961 55.261801)"
+                ]
+              },
+              "id": "2112106002384173",
+              "is_primary": true,
+              "is_visible_on_map": true
+            }
+          ],
+          "nearest_parking": [
+            {
+              "id": "2112118887284821"
+            },
+            {
+              "id": "70030076163133937"
+            },
+            {
+              "id": "70030076127863569"
+            },
+            {
+              "id": "70030076159852208"
+            },
+            {
+              "id": "70030076176261890"
+            },
+            {
+              "id": "70030076176261888"
+            },
+            {
+              "id": "70030076143256507"
+            },
+            {
+              "id": "2112118887284746"
+            },
+            {
+              "id": "70030076143256513"
+            },
+            {
+              "id": "70030076179903746"
+            },
+            {
+              "id": "2112118911519116"
+            },
+            {
+              "id": "70030076179903736"
+            },
+            {
+              "id": "2112118915446150"
+            },
+            {
+              "id": "70030076139220712"
+            },
+            {
+              "id": "70030076159852219"
+            },
+            {
+              "id": "70030076163133869"
+            },
+            {
+              "id": "70030076159852260"
+            },
+            {
+              "id": "70030076168709130"
+            },
+            {
+              "id": "2112118887284822"
+            },
+            {
+              "id": "2112118887285377"
+            },
+            {
+              "id": "70030076163133654"
+            },
+            {
+              "id": "2112118911519117"
+            },
+            {
+              "id": "70030076159852174"
+            },
+            {
+              "id": "2112118913183044"
+            },
+            {
+              "id": "2112118913183043"
+            },
+            {
+              "id": "70030076159850901"
+            },
+            {
+              "id": "70030076179903733"
+            }
+          ],
+          "nearest_stations": [
+            {
+              "distance": 110,
+              "id": "2111848304345372",
+              "name": "Сквер Победы",
+              "route_types": [
+                "bus",
+                "trolleybus",
+                "shuttle_bus"
+              ]
+            }
+          ]
+        },
+        "locale": "ru_RU",
+        "name": "А-Трейлер, торгово-производственная компания",
+        "name_ex": {
+          "extension": "торгово-производственная компания",
+          "legal_name": "ООО А-Трейлер",
+          "primary": "А-Трейлер"
+        },
+        "org": {
+          "branch_count": 1,
+          "id": "2111600296486107",
+          "name": "А-Трейлер, ООО, торгово-производственная компания"
+        },
+        "point": {
+          "lat": 55.261814000000001,
+          "lon": 61.4041
+        },
+        "region_id": "15",
+        "reviews": {
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "tag": "flamp"
+            }
+          ]
+        },
+        "rubrics": [
+          {
+            "alias": "spectekhnika_vspomogatelnye_ustrojjstva",
+            "id": "432",
+            "kind": "primary",
+            "name": "Спецтехника / Вспомогательные устройства",
+            "parent_id": "12",
+            "short_id": 432
+          },
+          {
+            "alias": "avtopricepy",
+            "id": "110482",
+            "kind": "additional",
+            "name": "Автоприцепы",
+            "parent_id": "42903",
+            "short_id": 110482
+          },
+          {
+            "alias": "specializirovannoe_avtooborudovanie",
+            "id": "433",
+            "kind": "additional",
+            "name": "Специализированное автооборудование",
+            "parent_id": "42903",
+            "short_id": 433
+          },
+          {
+            "alias": "zapchasti_dlya_spectekhniki",
+            "id": "8466",
+            "kind": "additional",
+            "name": "Запчасти для спецтехники",
+            "parent_id": "42903",
+            "short_id": 8466
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "18:00"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "18:00"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "18:00"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "18:00"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "18:00"
+              }
+            ]
+          }
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "432",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      },
+      {
+        "address": {
+          "building_id": "2111697980513827",
+          "components": [
+            {
+              "number": "37",
+              "street": "Енисейская",
+              "street_id": "2111801059708276",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "454010"
+        },
+        "address_comment": "1 этаж",
+        "address_name": "Енисейская, 37",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          },
+          {
+            "id": "2111672210685957",
+            "name": "Ленинский район",
+            "type": "district"
+          }
+        ],
+        "context": {},
+        "external_content": [
+          {
+            "count": 39,
+            "main_photo_url": "http://i1.photo.2gis.com/main/branch/15/2111590608244871/common",
+            "subtype": "common",
+            "type": "photo_album"
+          },
+          {
+            "count": 1,
+            "main_photo_url": "http://i7.photo.2gis.com/main/geo/15/2111697980513827/view",
+            "subtype": "view",
+            "type": "photo_album"
+          }
+        ],
+        "id": "2111590608244871_mx8o78622C4H46A361IGGG02Ah72fk47G6G636I5G43H5BH1udcn568546G7G0I214GJI3GJ7wseuv18787C9256B9H545J33",
+        "links": {
+          "database_entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(61.667852 56.123279,61.484954 55.140148)"
+                ],
+                "points": [
+                  "POINT(61.484954 55.140148)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.484971 55.140237,61.484954 55.140148)"
+                ]
+              },
+              "id": "2112106002397683",
+              "is_primary": true,
+              "is_visible_on_map": true
+            }
+          ],
+          "entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(61.667852 56.123279,61.484954 55.140148)"
+                ],
+                "points": [
+                  "POINT(61.484954 55.140148)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.484971 55.140237,61.484954 55.140148)"
+                ]
+              },
+              "id": "2112106002397683",
+              "is_primary": true,
+              "is_visible_on_map": true
+            }
+          ],
+          "nearest_parking": [
+            {
+              "id": "70030076163005219"
+            },
+            {
+              "id": "2112118908122489"
+            },
+            {
+              "id": "70030076150598886"
+            },
+            {
+              "id": "70030076150601602"
+            },
+            {
+              "id": "2112118908122386"
+            },
+            {
+              "id": "70030076150298871"
+            },
+            {
+              "id": "70030076171038939"
+            },
+            {
+              "id": "70030076150299239"
+            }
+          ],
+          "nearest_stations": [
+            {
+              "distance": 850,
+              "id": "2111848341673019",
+              "name": "Станкомаш",
+              "route_types": [
+                "shuttle_bus"
+              ]
+            }
+          ]
+        },
+        "locale": "ru_RU",
+        "name": "Миравтотехники, центр автотехники, запчастей и сервиса",
+        "name_ex": {
+          "extension": "центр автотехники, запчастей и сервиса",
+          "primary": "Миравтотехники"
+        },
+        "org": {
+          "branch_count": 1,
+          "id": "2111599196415152",
+          "name": "Миравтотехники, центр автотехники, запчастей и сервиса"
+        },
+        "point": {
+          "lat": 55.140138999999998,
+          "lon": 61.484952999999997
+        },
+        "region_id": "15",
+        "reviews": {
+          "general_rating": 3,
+          "general_review_count": 2,
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "rating": 3,
+              "recommendation_count": 1,
+              "review_count": 2,
+              "tag": "flamp"
+            }
+          ],
+          "org_rating": 3,
+          "org_review_count": 2,
+          "rating": 3,
+          "recommendation_count": 1,
+          "review_count": 2
+        },
+        "rubrics": [
+          {
+            "alias": "prodazha_gruzovykh_avtomobilejj",
+            "id": "428",
+            "kind": "primary",
+            "name": "Продажа грузовых автомобилей",
+            "parent_id": "12",
+            "short_id": 428
+          },
+          {
+            "alias": "avtozapchasti_dlya_gruzovykh_avtomobilejj",
+            "id": "1141",
+            "kind": "primary",
+            "name": "Автозапчасти для грузовых автомобилей",
+            "parent_id": "42903",
+            "short_id": 1141
+          },
+          {
+            "alias": "selkhoztekhnika_vspomogatelnye_ustrojjstva",
+            "id": "3236",
+            "kind": "primary",
+            "name": "Сельхозтехника / Вспомогательные устройства",
+            "parent_id": "12",
+            "short_id": 3236
+          },
+          {
+            "alias": "spectekhnika_vspomogatelnye_ustrojjstva",
+            "id": "432",
+            "kind": "primary",
+            "name": "Спецтехника / Вспомогательные устройства",
+            "parent_id": "12",
+            "short_id": 432
+          },
+          {
+            "alias": "remont_gruzovykh_avtomobilejj",
+            "id": "20989",
+            "kind": "primary",
+            "name": "Ремонт грузовых автомобилей",
+            "parent_id": "42903",
+            "short_id": 20989
+          },
+          {
+            "alias": "gorno_shakhtnoe_oborudovanie",
+            "id": "513",
+            "kind": "primary",
+            "name": "Горно-шахтное оборудование",
+            "parent_id": "15",
+            "short_id": 513
+          },
+          {
+            "alias": "zapchasti_dlya_spectekhniki",
+            "id": "8466",
+            "kind": "primary",
+            "name": "Запчасти для спецтехники",
+            "parent_id": "42903",
+            "short_id": 8466
+          },
+          {
+            "alias": "avtoremont_i_tekhobsluzhivanie_sto",
+            "id": "9041",
+            "kind": "primary",
+            "name": "Авторемонт и техобслуживание (СТО)",
+            "parent_id": "42903",
+            "short_id": 9041
+          },
+          {
+            "alias": "remont_khodovojj_chasti_avtomobilya",
+            "id": "7691",
+            "kind": "additional",
+            "name": "Ремонт ходовой части автомобиля",
+            "parent_id": "42903",
+            "short_id": 7691
+          },
+          {
+            "alias": "remont_spectekhniki",
+            "id": "7757",
+            "kind": "additional",
+            "name": "Ремонт спецтехники",
+            "parent_id": "42903",
+            "short_id": 7757
+          },
+          {
+            "alias": "avtopricepy",
+            "id": "110482",
+            "kind": "additional",
+            "name": "Автоприцепы",
+            "parent_id": "42903",
+            "short_id": 110482
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "08:00",
+                "to": "17:00"
+              }
+            ]
+          }
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "432",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      },
+      {
+        "address": {
+          "building_id": "2111697980514237",
+          "components": [
+            {
+              "number": "11а",
+              "street": "Троицкий тракт",
+              "street_id": "2111801059705027",
+              "type": "street_number"
+            }
+          ],
+          "postcode": "454053"
+        },
+        "address_comment": "1 этаж",
+        "address_name": "Троицкий тракт, 11а",
+        "adm_div": [
+          {
+            "id": "1267655302447186",
+            "name": "Челябинская область",
+            "type": "region"
+          },
+          {
+            "id": "70030076118168023",
+            "name": "Челябинский городской округ",
+            "type": "district_area"
+          },
+          {
+            "city_alias": "chelyabinsk",
+            "flags": {
+              "is_default": true,
+              "is_district_area_center": true,
+              "is_region_center": true
+            },
+            "id": "2111685095587875",
+            "is_default": true,
+            "name": "Челябинск",
+            "type": "city"
+          },
+          {
+            "id": "2111672210685954",
+            "name": "Советский район",
+            "type": "district"
+          }
+        ],
+        "context": {},
+        "external_content": [
+          {
+            "count": 18,
+            "main_photo_url": "http://i8.photo.2gis.com/main/branch/15/2111591606802528/common",
+            "subtype": "common",
+            "type": "photo_album"
+          }
+        ],
+        "id": "2111591606802528_mx8o78622C4H46A461IGGG0aAh72fk47G6G636I5G4AH5CH1udcn568546G7G0I214GJI3GJ7wseuv18787C781484H545J3f",
+        "links": {
+          "database_entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(62.385824 55.137626,61.386162 55.111639)"
+                ],
+                "points": [
+                  "POINT(61.386162 55.111639)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.386319 55.111643,61.386162 55.111639)"
+                ]
+              },
+              "id": "70030076163530912",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "entrances": [
+            {
+              "geometry": {
+                "normals": [
+                  "LINESTRING(62.385824 55.137626,61.386162 55.111639)"
+                ],
+                "points": [
+                  "POINT(61.386162 55.111639)"
+                ],
+                "vectors": [
+                  "LINESTRING(61.386319 55.111643,61.386162 55.111639)"
+                ]
+              },
+              "id": "70030076163530912",
+              "is_primary": false,
+              "is_visible_on_map": true
+            }
+          ],
+          "nearest_parking": [
+            {
+              "id": "2112118905768294"
+            },
+            {
+              "id": "70030076161426225"
+            },
+            {
+              "id": "70030076177923440"
+            },
+            {
+              "id": "70030076161425397"
+            },
+            {
+              "id": "2112118905768297"
+            },
+            {
+              "id": "70030076168657078"
+            },
+            {
+              "id": "70030076168656727"
+            },
+            {
+              "id": "2112118913330907"
+            },
+            {
+              "id": "70030076168657101"
+            }
+          ],
+          "nearest_stations": [
+            {
+              "distance": 140,
+              "id": "2111848304345240",
+              "name": "Рынок Привоз",
+              "route_types": [
+                "bus",
+                "shuttle_bus"
+              ]
+            }
+          ]
+        },
+        "locale": "ru_RU",
+        "name": "СДМ 74, торговая фирма",
+        "name_ex": {
+          "extension": "торговая фирма",
+          "primary": "СДМ 74"
+        },
+        "org": {
+          "branch_count": 1,
+          "id": "2111600296554707",
+          "name": "СДМ 74, торговая фирма"
+        },
+        "point": {
+          "lat": 55.111637999999999,
+          "lon": 61.386145999999997
+        },
+        "region_id": "15",
+        "reviews": {
+          "general_rating": 5,
+          "general_review_count": 1,
+          "is_reviewable": true,
+          "is_reviewable_on_flamp": true,
+          "items": [
+            {
+              "is_reviewable": true,
+              "tag": "2gis_reviews"
+            },
+            {
+              "is_reviewable": true,
+              "tag": "flamp"
+            }
+          ],
+          "org_rating": 5,
+          "org_review_count": 1
+        },
+        "rubrics": [
+          {
+            "alias": "spectekhnika_vspomogatelnye_ustrojjstva",
+            "id": "432",
+            "kind": "primary",
+            "name": "Спецтехника / Вспомогательные устройства",
+            "parent_id": "12",
+            "short_id": 432
+          },
+          {
+            "alias": "avtozapchasti_dlya_gruzovykh_avtomobilejj",
+            "id": "1141",
+            "kind": "primary",
+            "name": "Автозапчасти для грузовых автомобилей",
+            "parent_id": "42903",
+            "short_id": 1141
+          },
+          {
+            "alias": "zapchasti_dlya_spectekhniki",
+            "id": "8466",
+            "kind": "primary",
+            "name": "Запчасти для спецтехники",
+            "parent_id": "42903",
+            "short_id": 8466
+          },
+          {
+            "alias": "remont_spectekhniki",
+            "id": "7757",
+            "kind": "primary",
+            "name": "Ремонт спецтехники",
+            "parent_id": "42903",
+            "short_id": 7757
+          }
+        ],
+        "schedule": {
+          "Fri": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Mon": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Thu": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Tue": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "17:00"
+              }
+            ]
+          },
+          "Wed": {
+            "working_hours": [
+              {
+                "from": "09:00",
+                "to": "17:00"
+              }
+            ]
+          }
+        },
+        "segment_id": "0",
+        "stat": {
+          "adst": 1575796800,
+          "is_advertised": false,
+          "match_type": 2,
+          "rubr": "432",
+          "source_type": 2
+        },
+        "timezone_offset": 300,
+        "type": "branch"
+      }
+    ],
+    "request_type": "discovery",
+    "search_attributes": {
+      "advertisers": [],
+      "context_rubrics": [
+        "432",
+        "1156"
+      ],
+      "dgis_output_type": 2,
+      "dgis_project_id": "15",
+      "dgis_search_type": 2,
+      "drag_bound": [
+        {
+          "latitude": 55.44781263110218,
+          "longitude": 60.90001416192359
+        },
+        {
+          "latitude": 54.87289084926569,
+          "longitude": 60.90001416192359
+        },
+        {
+          "latitude": 54.87289084926569,
+          "longitude": 61.90638601289655
+        },
+        {
+          "latitude": 55.44781263110218,
+          "longitude": 61.90638601289655
+        }
+      ],
+      "geo_restriction": true,
+      "has_geo_restriction": true,
+      "is_auto_open_best_result": false,
+      "is_confident_best_result": false,
+      "is_partial": false,
+      "nearby": false,
+      "out_viewport": [
+        {
+          "latitude": 55.29973973482319,
+          "longitude": 61.05232317310523
+        },
+        {
+          "latitude": 55.02096374554468,
+          "longitude": 61.05232317310523
+        },
+        {
+          "latitude": 55.02096374554468,
+          "longitude": 61.75407700171491
+        },
+        {
+          "latitude": 55.29973973482319,
+          "longitude": 61.75407700171491
+        }
+      ],
+      "stat": {
+        "adst": 1575796800,
+        "lang": "ru_RU"
+      }
+    },
+    "search_type": 2,
+    "total": 658
+  }
+}

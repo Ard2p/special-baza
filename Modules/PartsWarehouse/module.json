@@ -1,0 +1,14 @@
+{
+    "name": "PartsWarehouse",
+    "alias": "partswarehouse",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\PartsWarehouse\\Providers\\PartsWarehouseServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

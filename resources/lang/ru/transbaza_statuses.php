@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'proposal_block'                            => 'Заблокирован',
+    'proposal_cancel'                           => 'Отказ',
+    'proposal_close'                            => 'Отказ',
+    'proposal_done'                             => 'Выполнена',
+    'proposal_end'                              => 'Успешно',
+    'proposal_expired'                          => 'Просрочена',
+    'proposal_fire'                             => 'Горящая',
+    'proposal_in_work'                          => 'В работе',
+    'proposal_open'                             => 'Открыта',
+    'proposal_reject_no_free_machineries'       => 'Нет свободной техники',
+    'proposal_reject_no_machineries'            => 'Нет такой техники',
+    'proposal_reject_no_payment_transferred'    => 'Не поступила предоплата',
+    'proposal_reject_other'                     => 'Другое...',
+    'proposal_reject_wrong_region'              => 'Другой регион',
+    'proposal_reject_contract_fail'             => 'Договор не подписан.',
+    'proposal_reject_timeout'                   => 'Отказ сделки Авито',
+    'proposal_reject_contractor_not_found'      => 'Отказ сделки Авито (не нашли исполнителя)',
+    'proposal_reject_bad_price'                 => 'Отказ сделки Авито (не устроила цена)',
+    'proposal_reject_avito_customer'                 => 'Отказ сделки Авито (заказчик в приложении)',
+    'proposal_reject_ignore'                    => 'Отказ сделки Авито (баер отменил\игнор)',
+    'proposal_reject_impossible'                => 'Отказ сделки Авито (невозможно выполнить заказ)',
+    'proposal_reject_avito'                     => 'Отказ сделки Авито (отказ Авито)',
+];

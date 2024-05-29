@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'article_title'             => 'Articoli',
+    'breadcrumb_article'        => 'Articoli',
+    'breadcrumb_home'           => 'Pagina iniziale',
+    'breadcrumb_news'           => 'Notizie',
+    'find_orders'               => 'Trova ordini',
+    'form_enter_email'          => 'Inserisci la posta',
+    'form_enter_name'           => 'Inserisci il nome',
+    'form_your_email'           => 'La tua email',
+    'form_your_name'            => 'il tuo nome',
+    'form_your_phone'           => 'Telefono',
+    'form_your_phone_number'    => 'Numero di telefono',
+    'home_link'                 => 'Pagina iniziale',
+    'join_social'               => 'Unisciti a noi nei social network',
+    'more'                      => 'Più dettagli',
+    'news'                      => 'Notizie',
+    'news_title'                => 'Notizie',
+    'order_machineries'         => 'Ordinare l\'attrezzatura',
+    'payment_methods'           => 'Accettiamo pagamenti',
+    'youtube_for_contractor'    => 'Per l\'esecutore',
+    'youtube_for_customer'      => 'Per il cliente',
+    'youtube_start'             => 'Introduttivo',
+];

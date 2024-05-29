@@ -1,0 +1,895 @@
+[
+  {
+    "id": "1",
+    "name": "ABG"
+  },
+  {
+    "id": "2",
+    "name": "Ammann"
+  },
+  {
+    "id": "3",
+    "name": "Atlas Copco"
+  },
+  {
+    "id": "4",
+    "name": "Bauer"
+  },
+  {
+    "id": "5",
+    "name": "Bomag"
+  },
+  {
+    "id": "6",
+    "name": "CAMC"
+  },
+  {
+    "id": "7",
+    "name": "Caterpillar"
+  },
+  {
+    "id": "8",
+    "name": "Cifa"
+  },
+  {
+    "id": "9",
+    "name": "Daewoo"
+  },
+  {
+    "id": "10",
+    "name": "Dynapac"
+  },
+  {
+    "id": "11",
+    "name": "Extec"
+  },
+  {
+    "id": "12",
+    "name": "Goma"
+  },
+  {
+    "id": "13",
+    "name": "HBM-Nobas"
+  },
+  {
+    "id": "14",
+    "name": "Hamm"
+  },
+  {
+    "id": "15",
+    "name": "Hanjin"
+  },
+  {
+    "id": "16",
+    "name": "Hyundai"
+  },
+  {
+    "id": "17",
+    "name": "Isuzu"
+  },
+  {
+    "id": "18",
+    "name": "JCB"
+  },
+  {
+    "id": "19",
+    "name": "Jekko"
+  },
+  {
+    "id": "20",
+    "name": "Kanglim"
+  },
+  {
+    "id": "21",
+    "name": "Kia"
+  },
+  {
+    "id": "22",
+    "name": "Komatsu"
+  },
+  {
+    "id": "23",
+    "name": "LGMG"
+  },
+  {
+    "id": "24",
+    "name": "MAN"
+  },
+  {
+    "id": "25",
+    "name": "Mecbo"
+  },
+  {
+    "id": "26",
+    "name": "Mercedes-Benz"
+  },
+  {
+    "id": "27",
+    "name": "Mitsubishi Fuso"
+  },
+  {
+    "id": "28",
+    "name": "O&K"
+  },
+  {
+    "id": "29",
+    "name": "Piccini"
+  },
+  {
+    "id": "30",
+    "name": "Potain"
+  },
+  {
+    "id": "31",
+    "name": "Putzmeister"
+  },
+  {
+    "id": "32",
+    "name": "SDLG"
+  },
+  {
+    "id": "33",
+    "name": "Scania"
+  },
+  {
+    "id": "34",
+    "name": "Schwing"
+  },
+  {
+    "id": "35",
+    "name": "Secmair"
+  },
+  {
+    "id": "36",
+    "name": "Shacman (Shaanxi)"
+  },
+  {
+    "id": "37",
+    "name": "Shantui"
+  },
+  {
+    "id": "38",
+    "name": "Soilmec"
+  },
+  {
+    "id": "39",
+    "name": "Straightline"
+  },
+  {
+    "id": "40",
+    "name": "Sumitomo"
+  },
+  {
+    "id": "41",
+    "name": "Terex"
+  },
+  {
+    "id": "42",
+    "name": "Tesab"
+  },
+  {
+    "id": "43",
+    "name": "Tigarbo"
+  },
+  {
+    "id": "44",
+    "name": "Vermeer"
+  },
+  {
+    "id": "45",
+    "name": "Vibromax"
+  },
+  {
+    "id": "46",
+    "name": "Vogele"
+  },
+  {
+    "id": "47",
+    "name": "Volvo"
+  },
+  {
+    "id": "48",
+    "name": "XGMA"
+  },
+  {
+    "id": "49",
+    "name": "\u0410\u043c\u043a\u043e\u0434\u043e\u0440"
+  },
+  {
+    "id": "50",
+    "name": "\u0411\u0420\u041c\u0417"
+  },
+  {
+    "id": "51",
+    "name": "\u0411\u0430\u0448\u0435\u043d\u043d\u044b\u0435 \u043a\u0440\u0430\u043d\u044b"
+  },
+  {
+    "id": "52",
+    "name": "\u0413\u0410\u0417"
+  },
+  {
+    "id": "53",
+    "name": "\u0414\u0417"
+  },
+  {
+    "id": "54",
+    "name": "\u0414\u043e\u0440\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u0430\u0448"
+  },
+  {
+    "id": "55",
+    "name": "\u0417\u0418\u041b"
+  },
+  {
+    "id": "56",
+    "name": "\u041a\u0430\u043c\u0410\u0417"
+  },
+  {
+    "id": "57",
+    "name": "\u041c\u0410\u0417"
+  },
+  {
+    "id": "58",
+    "name": "\u0420\u0414\u041a"
+  },
+  {
+    "id": "59",
+    "name": "\u0420\u0430\u0441\u043a\u0430\u0442"
+  },
+  {
+    "id": "60",
+    "name": "\u0421\u041a\u0413"
+  },
+  {
+    "id": "61",
+    "name": "\u0421\u0442\u0440\u043e\u0439\u043c\u0430\u0448"
+  },
+  {
+    "id": "62",
+    "name": "\u0422\u0417\u0410"
+  },
+  {
+    "id": "63",
+    "name": "\u0423\u0440\u0430\u043b"
+  },
+  {
+    "id": "64",
+    "name": "\u0427\u0422\u0417"
+  },
+  {
+    "id": "65",
+    "name": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0435\u0446"
+  },
+  {
+    "id": "66",
+    "name": "ASTRA"
+  },
+  {
+    "id": "67",
+    "name": "Aichi"
+  },
+  {
+    "id": "68",
+    "name": "Atmos"
+  },
+  {
+    "id": "69",
+    "name": "BBURG"
+  },
+  {
+    "id": "70",
+    "name": "BMS"
+  },
+  {
+    "id": "71",
+    "name": "Banut"
+  },
+  {
+    "id": "72",
+    "name": "Baukema"
+  },
+  {
+    "id": "73",
+    "name": "Bell"
+  },
+  {
+    "id": "74",
+    "name": "Blaw-Knox"
+  },
+  {
+    "id": "75",
+    "name": "Breining"
+  },
+  {
+    "id": "76",
+    "name": "Brinkmann"
+  },
+  {
+    "id": "77",
+    "name": "Brokk"
+  },
+  {
+    "id": "78",
+    "name": "Carmix"
+  },
+  {
+    "id": "79",
+    "name": "Casagrande"
+  },
+  {
+    "id": "80",
+    "name": "Case"
+  },
+  {
+    "id": "81",
+    "name": "DAF"
+  },
+  {
+    "id": "82",
+    "name": "Davino"
+  },
+  {
+    "id": "83",
+    "name": "Demag"
+  },
+  {
+    "id": "84",
+    "name": "Ding Sheng"
+  },
+  {
+    "id": "85",
+    "name": "DitchWitch"
+  },
+  {
+    "id": "86",
+    "name": "DongFeng"
+  },
+  {
+    "id": "87",
+    "name": "Doosan"
+  },
+  {
+    "id": "88",
+    "name": "Everdigm"
+  },
+  {
+    "id": "89",
+    "name": "FAW"
+  },
+  {
+    "id": "90",
+    "name": "FMGru"
+  },
+  {
+    "id": "91",
+    "name": "Ferguson"
+  },
+  {
+    "id": "92",
+    "name": "Fintec"
+  },
+  {
+    "id": "93",
+    "name": "Fiori"
+  },
+  {
+    "id": "94",
+    "name": "Ford"
+  },
+  {
+    "id": "95",
+    "name": "Forward"
+  },
+  {
+    "id": "96",
+    "name": "Furukawa"
+  },
+  {
+    "id": "97",
+    "name": "Gayk"
+  },
+  {
+    "id": "98",
+    "name": "Geax"
+  },
+  {
+    "id": "99",
+    "name": "Graco"
+  },
+  {
+    "id": "100",
+    "name": "Hania"
+  },
+  {
+    "id": "101",
+    "name": "Hanlyma"
+  },
+  {
+    "id": "102",
+    "name": "Hanta"
+  },
+  {
+    "id": "103",
+    "name": "Hartl"
+  },
+  {
+    "id": "104",
+    "name": "Hino"
+  },
+  {
+    "id": "105",
+    "name": "Hitachi"
+  },
+  {
+    "id": "106",
+    "name": "HongJian"
+  },
+  {
+    "id": "107",
+    "name": "Hongda"
+  },
+  {
+    "id": "108",
+    "name": "Howo"
+  },
+  {
+    "id": "109",
+    "name": "Huatong"
+  },
+  {
+    "id": "110",
+    "name": "IFA"
+  },
+  {
+    "id": "111",
+    "name": "IHC Fundex"
+  },
+  {
+    "id": "112",
+    "name": "IHI"
+  },
+  {
+    "id": "113",
+    "name": "IVECO"
+  },
+  {
+    "id": "114",
+    "name": "Ingersoll Rand"
+  },
+  {
+    "id": "115",
+    "name": "JUNJIN"
+  },
+  {
+    "id": "116",
+    "name": "JaNo"
+  },
+  {
+    "id": "117",
+    "name": "John Deere"
+  },
+  {
+    "id": "118",
+    "name": "Junttan"
+  },
+  {
+    "id": "119",
+    "name": "KCP"
+  },
+  {
+    "id": "120",
+    "name": "Kaeser"
+  },
+  {
+    "id": "121",
+    "name": "Kawasaki"
+  },
+  {
+    "id": "122",
+    "name": "Kenworth"
+  },
+  {
+    "id": "123",
+    "name": "Kleemann"
+  },
+  {
+    "id": "124",
+    "name": "Komplet"
+  },
+  {
+    "id": "125",
+    "name": "Liebherr"
+  },
+  {
+    "id": "126",
+    "name": "Linden"
+  },
+  {
+    "id": "127",
+    "name": "Linnhoff & Henne"
+  },
+  {
+    "id": "128",
+    "name": "LiuGong"
+  },
+  {
+    "id": "129",
+    "name": "Lonking"
+  },
+  {
+    "id": "130",
+    "name": "Lutong"
+  },
+  {
+    "id": "131",
+    "name": "MDT (Mc DRILL TECHNOLOGY)"
+  },
+  {
+    "id": "132",
+    "name": "Mack"
+  },
+  {
+    "id": "133",
+    "name": "Madrog"
+  },
+  {
+    "id": "134",
+    "name": "Marini"
+  },
+  {
+    "id": "135",
+    "name": "Maximus"
+  },
+  {
+    "id": "136",
+    "name": "McCloskey"
+  },
+  {
+    "id": "137",
+    "name": "Merlo"
+  },
+  {
+    "id": "138",
+    "name": "Metso Minerals"
+  },
+  {
+    "id": "139",
+    "name": "Mitsuber"
+  },
+  {
+    "id": "140",
+    "name": "Moelven"
+  },
+  {
+    "id": "141",
+    "name": "Morooka"
+  },
+  {
+    "id": "142",
+    "name": "Nigata"
+  },
+  {
+    "id": "143",
+    "name": "Nissan"
+  },
+  {
+    "id": "144",
+    "name": "Nordberg"
+  },
+  {
+    "id": "145",
+    "name": "Orteco"
+  },
+  {
+    "id": "146",
+    "name": "Peterbilt"
+  },
+  {
+    "id": "147",
+    "name": "Rammax"
+  },
+  {
+    "id": "148",
+    "name": "Renault"
+  },
+  {
+    "id": "149",
+    "name": "Resta"
+  },
+  {
+    "id": "150",
+    "name": "Ricomag"
+  },
+  {
+    "id": "151",
+    "name": "Rubble Master"
+  },
+  {
+    "id": "152",
+    "name": "SEM"
+  },
+  {
+    "id": "153",
+    "name": "Sakai"
+  },
+  {
+    "id": "154",
+    "name": "Sandvik"
+  },
+  {
+    "id": "155",
+    "name": "Sany"
+  },
+  {
+    "id": "156",
+    "name": "Sennebogen"
+  },
+  {
+    "id": "157",
+    "name": "Sermac"
+  },
+  {
+    "id": "158",
+    "name": "Soosan"
+  },
+  {
+    "id": "159",
+    "name": "Starke"
+  },
+  {
+    "id": "160",
+    "name": "Sunward"
+  },
+  {
+    "id": "161",
+    "name": "Tamrock"
+  },
+  {
+    "id": "162",
+    "name": "Tatra"
+  },
+  {
+    "id": "163",
+    "name": "Tesmec"
+  },
+  {
+    "id": "164",
+    "name": "Tiangong"
+  },
+  {
+    "id": "165",
+    "name": "TopTec"
+  },
+  {
+    "id": "166",
+    "name": "Universal HDD"
+  },
+  {
+    "id": "167",
+    "name": "Wacker Neuson"
+  },
+  {
+    "id": "168",
+    "name": "Wirtgen"
+  },
+  {
+    "id": "169",
+    "name": "XCMG"
+  },
+  {
+    "id": "170",
+    "name": "Yanmar"
+  },
+  {
+    "id": "171",
+    "name": "Yutong"
+  },
+  {
+    "id": "172",
+    "name": "Zemag"
+  },
+  {
+    "id": "173",
+    "name": "Zoomlion"
+  },
+  {
+    "id": "174",
+    "name": "\u0410\u041a\u041c\u0422 \u041a\u043e\u043c\u0438\u043d\u0432\u0435\u0441\u0442"
+  },
+  {
+    "id": "175",
+    "name": "\u0410\u0441\u0444-\u041a"
+  },
+  {
+    "id": "176",
+    "name": "\u0411\u0415\u041b\u0410\u0417"
+  },
+  {
+    "id": "177",
+    "name": "\u0411\u0435\u0446\u0435\u043c\u0430"
+  },
+  {
+    "id": "178",
+    "name": "\u0411\u0440\u044f\u043d\u0441\u043a\u0438\u0439 \u0430\u0440\u0441\u0435\u043d\u0430\u043b"
+  },
+  {
+    "id": "179",
+    "name": "\u0413\u0415\u041c\u041c\u0410\u0428"
+  },
+  {
+    "id": "180",
+    "name": "\u0413\u0421"
+  },
+  {
+    "id": "181",
+    "name": "\u0413\u0430\u043b\u0438\u0447\u0430\u043d\u0438\u043d"
+  },
+  {
+    "id": "182",
+    "name": "\u0413\u0435\u043e\u043c\u0430\u0448"
+  },
+  {
+    "id": "183",
+    "name": "\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c"
+  },
+  {
+    "id": "184",
+    "name": "\u0414\u0438\u0437\u0435\u043b\u044c-\u0422\u0421"
+  },
+  {
+    "id": "185",
+    "name": "\u0414\u043e\u0440\u043c\u0430\u0448"
+  },
+  {
+    "id": "186",
+    "name": "\u0414\u043e\u0440\u043c\u0430\u0448\u0438\u043d\u0430"
+  },
+  {
+    "id": "187",
+    "name": "\u0415\u0432\u0440\u043e\u043c\u0430\u0448"
+  },
+  {
+    "id": "188",
+    "name": "\u0417\u0414\u0421"
+  },
+  {
+    "id": "189",
+    "name": "\u0417\u0418\u0424"
+  },
+  {
+    "id": "190",
+    "name": "\u0418\u0432\u0430\u043d\u043e\u0432\u0435\u0446"
+  },
+  {
+    "id": "191",
+    "name": "\u0418\u0432\u044d\u043d\u0435\u0440\u0433\u043e\u043c\u0430\u0448"
+  },
+  {
+    "id": "192",
+    "name": "\u0418\u0440\u043c\u0430\u0448"
+  },
+  {
+    "id": "193",
+    "name": "\u041a\u0420\u0410\u042f\u041d"
+  },
+  {
+    "id": "194",
+    "name": "\u041a\u043b\u0438\u043d\u0446\u044b"
+  },
+  {
+    "id": "195",
+    "name": "\u041a\u0440\u0410\u0417"
+  },
+  {
+    "id": "196",
+    "name": "\u041a\u0443\u0440\u0433\u0430\u043d \u0414\u043e\u0440\u043c\u0430\u0448"
+  },
+  {
+    "id": "197",
+    "name": "\u041c\u041a\u0413"
+  },
+  {
+    "id": "198",
+    "name": "\u041c\u0422\u0417"
+  },
+  {
+    "id": "199",
+    "name": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c-\u0421"
+  },
+  {
+    "id": "200",
+    "name": "\u041c\u043e\u0410\u0417"
+  },
+  {
+    "id": "201",
+    "name": "\u041c\u043e\u0433\u0438\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434 \u0421\u0442\u0440\u043e\u043c\u043c\u0430\u0448\u0438\u043d\u0430"
+  },
+  {
+    "id": "202",
+    "name": "\u041f\u0422\u041a"
+  },
+  {
+    "id": "203",
+    "name": "\u041f\u0430\u0440\u0442\u043d\u0435\u0440"
+  },
+  {
+    "id": "204",
+    "name": "\u041f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0435 \u0414\u043e\u0440\u043e\u0436\u043d\u0438\u043a"
+  },
+  {
+    "id": "205",
+    "name": "\u0420\u0421\u041c (\u0420\u0443\u0441\u0441\u043a\u0438\u0435 \u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u041c\u0430\u0448\u0438\u043d\u044b)"
+  },
+  {
+    "id": "206",
+    "name": "\u0420\u0430\u041c\u0417"
+  },
+  {
+    "id": "207",
+    "name": "\u0421\u0410\u0421\u0422\u0410"
+  },
+  {
+    "id": "208",
+    "name": "\u0421\u0411\u0422"
+  },
+  {
+    "id": "209",
+    "name": "\u0421\u043f\u0435\u0446\u0441\u0442\u0440\u043e\u0439\u043c\u0430\u0448"
+  },
+  {
+    "id": "210",
+    "name": "\u0421\u0442\u0440\u043e\u0439\u0434\u043e\u0440\u043c\u0430\u0448"
+  },
+  {
+    "id": "211",
+    "name": "\u0421\u0442\u0440\u043e\u0439\u043c\u0430\u0448-\u0426\u0435\u043d\u0442\u0440"
+  },
+  {
+    "id": "212",
+    "name": "\u0422\u0430\u0439\u0437\u0435\u0440"
+  },
+  {
+    "id": "213",
+    "name": "\u0422\u0435\u0445\u0441\u0442\u0440\u043e\u0439\u043c\u0430\u0448"
+  },
+  {
+    "id": "214",
+    "name": "\u0423\u0413\u0411"
+  },
+  {
+    "id": "215",
+    "name": "\u0423\u0440\u0430\u043b\u0421\u043f\u0435\u0446\u0422\u0440\u0430\u043d\u0441"
+  },
+  {
+    "id": "216",
+    "name": "\u0423\u0440\u0430\u043b\u0441\u043f\u0435\u0446\u0431\u0443\u0440\u043c\u0430\u0448"
+  },
+  {
+    "id": "217",
+    "name": "\u0425\u0422\u0417"
+  },
+  {
+    "id": "218",
+    "name": "\u0427\u0415\u0422\u0420\u0410"
+  },
+  {
+    "id": "219",
+    "name": "\u0427\u041c\u0417"
+  },
+  {
+    "id": "220",
+    "name": "\u0427\u0421\u0414\u041c"
+  },
+  {
+    "id": "221",
+    "name": "\u0427\u0435\u043b\u043f\u0440\u043e\u043c"
+  },
+  {
+    "id": "222",
+    "name": "\u042e\u0440\u0433\u0438\u043d\u0435\u0446"
+  },
+  {
+    "id": "223",
+    "name": "\u042f\u0441\u0438\u043d\u043e\u0432\u0430\u0442\u0441\u043a\u0438\u0439 \u041c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0417\u0430\u0432\u043e\u0434"
+  }
+]
+

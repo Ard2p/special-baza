@@ -1,0 +1,2 @@
+{{$message}}
+<button type="button" aria-label="Войти в систему" class="customSwalBtn" data-url="{!! ($url ?? route('login', ['redirect_back' => request()->fullUrl()])) !!}" id="_auth_scroll">Войти в систему</button>

@@ -1,0 +1,1 @@
+<button class="btn btn-warning export" data-type="{{$type}}" data-table="{{$table}}">Excel</button>

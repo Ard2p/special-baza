@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'add_bid'                   => 'To add a bet',
+    'address'                   => 'Address:',
+    'auction_over'              => 'The auction is over.',
+    'bid'                       => 'Bet',
+    'brand'                     => 'Brand:',
+    'cant_add_bidd'             => 'You will be able to add another bet, once someone exceeds yours.',
+    'current_bid'               => 'The current bet is:',
+    'date_end'                  => 'End date:',
+    'loading'                   => 'Loading...',
+    'min'                       => 'At least',
+    'no_bid'                    => 'No bets!',
+    'region'                    => 'Region:',
+    'start_sum'                 => 'Starting price:',
+    'time'                      => 'Time',
+    'timer'                     => 'Time till the end of the auction:',
+    'user'                      => 'User',
+    'users_online'              => 'Online users on this auction:',
+    'validate_add_bid'          => 'Bet is added.',
+    'validate_end_auction'      => 'You can\'t add your bet now, the auction is over.',
+    'validate_incorrect_sum'    => 'The amount is less than acceptable!',
+    'validate_last_bid'         => 'You can\'t add your bet now, the last bet is yours.',
+    'validate_no_auth'          => 'You are not authorized to participate in the auction',
+    'your_bid'                  => 'Your bet',
+];

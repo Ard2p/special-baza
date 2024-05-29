@@ -1,0 +1,15 @@
+{
+    "name": "FMSAPI",
+    "alias": "fmsapi",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\FMSAPI\\Providers\\FMSAPIServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
+

@@ -1,0 +1,13 @@
+{
+  "type": "events",
+  "action": "create",
+  "data": {
+    "id": "",
+    "date_from": "",
+    "date_to": "",
+    "type": "order",
+    "order_id": "",
+    "vehicle_id": "",
+    "contractor_id": ""
+  }
+}

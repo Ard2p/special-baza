@@ -1,0 +1,5614 @@
+{
+  "items": [
+    {
+      "type": "business",
+      "requestId": "1629789683292861-2890366795-man1-7370-man-addrs-nmeta-new-8031",
+      "analyticsId": "1",
+      "title": "Прокат инструмента Мастер",
+      "description": "просп. Вячеслава Клыкова, 8, Курск",
+      "address": "просп. Вячеслава Клыкова, 8, Курск",
+      "coordinates": [
+        36.139628,
+        51.725363
+      ],
+      "displayCoordinates": [
+        36.139628,
+        51.725363
+      ],
+      "bounds": [
+        [
+          36.135523,
+          51.72281343
+        ],
+        [
+          36.143733,
+          51.72791243
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=56400393413",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9NTY0MDAzOTM0MTM=",
+      "id": "56400393413",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__10201970",
+          "name": "Микрорайон Родники",
+          "distance": "120 м",
+          "distanceValue": 124.591,
+          "coordinates": [
+            36.13964654,
+            51.726164181
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201971",
+          "name": "Проспект Вячеслава Клыкова",
+          "distance": "410 м",
+          "distanceValue": 407.023,
+          "coordinates": [
+            36.136224985,
+            51.723278628
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201967",
+          "name": "Аллея подводников",
+          "distance": "460 м",
+          "distanceValue": 458.331,
+          "coordinates": [
+            36.141854,
+            51.728317
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10206059",
+          "name": "Суворовская улица",
+          "distance": "1,1 км",
+          "distanceValue": 1122.3,
+          "coordinates": [
+            36.150716968,
+            51.724462353
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201964",
+          "name": "Улица Косухина",
+          "distance": "1,3 км",
+          "distanceValue": 1318.14,
+          "coordinates": [
+            36.13121,
+            51.732483
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 29,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4043748/2a0000017665c74020a2569943bd2fb4e2b2/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4043748/2a0000017665c74020a2569943bd2fb4e2b2/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3905724/2a000001762cb590a71b6453a550c18cb141/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2442526/2a000001762cb1bee63e55194a949c47a76f/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3933982/2a000001762cb19ba303990a75def2b5dde7/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3935166/2a000001762cb1acca236c9bcfd1da09e456/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2442526/2a000001763c1bc140a4d5535d5a56da65a1/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3798254/2a000001763c1c9e6665d22a86462a9a1323/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2044663/2a000001763c336ec7765d3232d288af0102/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3522550/2a000001762cb1e2fcc2c8d19f16bb39526c/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1938795/2a000001762cb241942e62b31fe5fa98107e/%s"
+          }
+        ]
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "87114154101",
+            "uri": "ymapsbm1://org?oid=87114154101",
+            "logId": "87114154101",
+            "title": "Всеинструменты.ру",
+            "rating": 4.8,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1775373/2a0000016a69c079cd04cc1ec8fbb703e8f8/%s",
+            "categories": [],
+            "seoname": "vseinstrumenty_ru",
+            "coordinates": [
+              36.182919,
+              51.725856
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "215569016050",
+            "uri": "ymapsbm1://org?oid=215569016050",
+            "logId": "215569016050",
+            "title": "Кувалда.ру",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a000001750744a8a9e38a59fb9a2bf42af5/%s",
+            "categories": [],
+            "seoname": "kuvalda_ru",
+            "coordinates": [
+              36.179737,
+              51.70765
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "87511051357",
+            "uri": "ymapsbm1://org?oid=87511051357",
+            "logId": "87511051357",
+            "title": "Дядько",
+            "rating": 4.2,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/2805836/2a00000173c8bdcbb34fbddf0f942fb3e0de/%s",
+            "categories": [],
+            "seoname": "dyadko",
+            "coordinates": [
+              36.139637,
+              51.754709
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "235217735414",
+            "uri": "ymapsbm1://org?oid=235217735414",
+            "logId": "235217735414",
+            "title": "Всеинструменты.ру",
+            "rating": 4.2,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4802381/2a000001775a37950ad3d958e2667464085f/%s",
+            "categories": [],
+            "seoname": "vseinstrumenty_ru",
+            "coordinates": [
+              36.139923,
+              51.665873
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1289319015_713796004_23_1592737908",
+        "direction": [
+          114.1,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            36.1389430233,
+            51.725553021
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1289319015_713796004_23_1592737908&size=500%2C240&azimuth=114.1&tilt=10&api_key=maps&signature=bRW5QHMPkE5TIudI8oWAr55kQgQUysg3vXW1s_bEKdA="
+      },
+      "shortTitle": "Прокат инструмента Мастер",
+      "additionalAddress": "подъезд №3, этаж цокольный",
+      "fullAddress": "Россия, Курск, проспект Вячеслава Клыкова, 8",
+      "country": "Россия",
+      "postalCode": "305005",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 20,
+        "ratingValue": 4.699999809265137,
+        "reviewCount": 17
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184108219",
+          "name": "Пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "184107551",
+          "name": "аренда строительной и спецтехники",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "Аренда спецтехники"
+        },
+        {
+          "id": "184107571",
+          "name": "электро- и бензоинструмент",
+          "class": "hypermarket",
+          "seoname": "electric_and_gas_powered_tools",
+          "pluralName": "Электро- и бензоинструменты"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (950) 872-86-72",
+          "type": "phone"
+        },
+        {
+          "number": "+7 (951) 327-39-39",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "types_of_equipment",
+          "value": [
+            {
+              "id": "tool_rental",
+              "name": "инструмент"
+            },
+            {
+              "id": "construction_equipment_rental",
+              "name": "строительное оборудование"
+            }
+          ],
+          "name": "виды техники",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "cost_hiring",
+          "value": "250–10000 ₽",
+          "name": "стоимость проката",
+          "type": "text",
+          "important": false
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "car_park",
+          "value": true,
+          "name": "парковка",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "tool_brand",
+          "value": [
+            {
+              "id": "black_and_decker",
+              "name": "Black and Decker"
+            },
+            {
+              "id": "bosch_tool",
+              "name": "Bosch"
+            },
+            {
+              "id": "dewalt",
+              "name": "DeWALT"
+            },
+            {
+              "id": "hitachi_tool",
+              "name": "Hitachi"
+            },
+            {
+              "id": "makita_tool",
+              "name": "Makita"
+            },
+            {
+              "id": "stihl_tool",
+              "name": "Stihl"
+            },
+            {
+              "id": "zubr_tool_",
+              "name": "Зубр"
+            },
+            {
+              "id": "karcher_tool",
+              "name": "Kärcher"
+            },
+            {
+              "id": "fiolent_tool",
+              "name": "ФИОЛЕНТ"
+            },
+            {
+              "id": "interskol_tool",
+              "name": "ИНТЕРСКОЛ"
+            },
+            {
+              "id": "resanta_tool",
+              "name": "Ресанта"
+            }
+          ],
+          "name": "марка инструмента",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "blowers",
+          "value": true,
+          "name": "воздуходувки",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Инфраструктура отеля",
+          "featureIds": [
+            "car_park"
+          ]
+        },
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": true,
+        "closed_for_quarantine": false,
+        "closed_for_visitors": false
+      },
+      "seoname": "prokat_instrumenta_master",
+      "geoId": 216997,
+      "compositeAddress": {
+        "locality": "Курск",
+        "street": "проспект Вячеслава Клыкова",
+        "house": "8"
+      },
+      "workingTimeText": "пн-сб 09:00–19:00; вс 10:00–17:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 19:00",
+        "shortText": "До 19:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "viber",
+          "href": "https://viber.click/79508728672"
+        },
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/krepeg79507970"
+        },
+        {
+          "type": "whatsapp",
+          "href": "https://wa.me/79508728672"
+        }
+      ],
+      "urls": [
+        "https://vk.link/krepeg79507970"
+      ],
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1938795/2a000001763c35902d2f51816ff00f72bd02/%s"
+        }
+      },
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 19:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 19:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 19:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "9.4",
+          "property": [
+            {
+              "key": "value",
+              "value": "9.4"
+            },
+            {
+              "key": "value_5",
+              "value": "4.7"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 70061296,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "topObjects": {
+        "hasPhotos": true,
+        "rubric": "other",
+        "categories": [
+          {
+            "categoryName": "popular",
+            "categoryItems": [
+              {
+                "title": "Пылесос 60л",
+                "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/4472294/2a0000017665aceace4fdec1ad970402168f/medium",
+                "price": "500",
+                "currency": "₽"
+              },
+              {
+                "title": "Плиткорез 200мм",
+                "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/4472294/2a000001773f25d8c23164c17cc7dcf7990b/medium",
+                "price": "400",
+                "currency": "₽"
+              },
+              {
+                "title": "Пила дисковая",
+                "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2773996/2a0000017665ac9428d16b9154e3ce8b75d0/medium",
+                "price": "400",
+                "currency": "₽"
+              }
+            ]
+          }
+        ],
+        "fullObjectsCount": 12
+      },
+      "posts": {
+        "count": 1,
+        "items": []
+      },
+      "region": {
+        "id": 8,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10705,
+          8
+        ],
+        "seoname": "kursk",
+        "bounds": [
+          [
+            36.0713025,
+            51.63157578770792
+          ],
+          [
+            36.3139915,
+            51.82893078770792
+          ]
+        ],
+        "longitude": 36.192647,
+        "latitude": 51.730361,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Курск",
+          "dative": "Курску",
+          "directional": "",
+          "genitive": "Курска",
+          "instrumental": "Курском",
+          "locative": "",
+          "nominative": "Курск",
+          "preposition": "в",
+          "prepositional": "Курске"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Курск",
+          "type": "region",
+          "url": "https://yandex.ru/maps/8/kursk/",
+          "region": {
+            "center": [
+              36.192647,
+              51.730361
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/8/kursk/catalog/",
+          "region": {
+            "id": 8,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10705,
+              8
+            ],
+            "seoname": "kursk",
+            "bounds": [
+              [
+                36.0713025,
+                51.63157578770792
+              ],
+              [
+                36.3139915,
+                51.82893078770792
+              ]
+            ],
+            "longitude": 36.192647,
+            "latitude": 51.730361,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Курск",
+              "dative": "Курску",
+              "directional": "",
+              "genitive": "Курска",
+              "instrumental": "Курском",
+              "locative": "",
+              "nominative": "Курск",
+              "preposition": "в",
+              "prepositional": "Курске"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184108219",
+            "name": "Пункт проката",
+            "class": "fallback services",
+            "seoname": "appliance_rental",
+            "pluralName": "Пункты проката"
+          },
+          "name": "Пункты проката",
+          "type": "category",
+          "url": "https://yandex.ru/maps/8/kursk/category/appliance_rental/184108219/"
+        },
+        {
+          "name": "Прокат инструмента Мастер",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/prokat_instrumenta_master/56400393413/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629789683292861-2890366795-man1-7370-man-addrs-nmeta-new-8031",
+      "analyticsId": "2",
+      "title": "Кладовка",
+      "description": "ул. Александра Невского, 13ВК2, Курск",
+      "address": "ул. Александра Невского, 13ВК2, Курск",
+      "coordinates": [
+        36.188211,
+        51.724368
+      ],
+      "displayCoordinates": [
+        36.188211,
+        51.724368
+      ],
+      "bounds": [
+        [
+          36.1841055,
+          51.72181843
+        ],
+        [
+          36.1923165,
+          51.72691743
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=132020450588",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTMyMDIwNDUwNTg4",
+      "id": "132020450588",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__10202009",
+          "name": "Улица Добролюбова",
+          "distance": "210 м",
+          "distanceValue": 209.792,
+          "coordinates": [
+            36.187481287,
+            51.725350582
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202005",
+          "name": "Площадь Добролюбова",
+          "distance": "230 м",
+          "distanceValue": 229.755,
+          "coordinates": [
+            36.188320516,
+            51.72293374
+          ],
+          "type": "common"
+        },
+        {
+          "id": "3124838827",
+          "name": "Улица Красной Армии",
+          "distance": "250 м",
+          "distanceValue": 248.613,
+          "coordinates": [
+            36.187006768,
+            51.725193351
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202354",
+          "name": "Улица Сонина",
+          "distance": "350 м",
+          "distanceValue": 351.536,
+          "coordinates": [
+            36.190761458,
+            51.724440644
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202015",
+          "name": "Центральный рынок",
+          "distance": "540 м",
+          "distanceValue": 537.375,
+          "coordinates": [
+            36.185521213,
+            51.727501323
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 4,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4043748/2a00000176a9ad2632bb9205ffff07989c32/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4043748/2a00000176a9ad2632bb9205ffff07989c32/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1433431/2a00000168fb4ba7c51d09fe3b931a58f880/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1970665/2a0000016fb79508dbd996886bdc07b80f08/%s"
+          }
+        ]
+      },
+      "entrances": [
+        {
+          "coordinates": [
+            36.188204,
+            51.724366
+          ],
+          "azimuth": 62.3947469556492,
+          "tilt": 0
+        }
+      ],
+      "routePoint": {
+        "context": "djF8MzYuMTg4MjA0LDUxLjcyNDM2Nnw,"
+      },
+      "relatedAdverts": {
+        "nearbyOnMap": [
+          {
+            "type": "similar",
+            "id": "215569016050",
+            "uri": "ymapsbm1://org?oid=215569016050",
+            "logId": "215569016050",
+            "title": "Кувалда.ру",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a000001750744a8a9e38a59fb9a2bf42af5/%s",
+            "categories": [],
+            "seoname": "kuvalda_ru",
+            "coordinates": [
+              36.179737,
+              51.70765
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "87114154101",
+            "uri": "ymapsbm1://org?oid=87114154101",
+            "logId": "87114154101",
+            "title": "Всеинструменты.ру",
+            "rating": 4.8,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1775373/2a0000016a69c079cd04cc1ec8fbb703e8f8/%s",
+            "categories": [],
+            "seoname": "vseinstrumenty_ru",
+            "coordinates": [
+              36.182919,
+              51.725856
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1688667676",
+            "uri": "ymapsbm1://org?oid=1688667676",
+            "logId": "1688667676",
+            "title": "Авангард Ом",
+            "rating": 3.7,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/2799320/2a00000170353f793ab2a111e11356f9d7b5/%s",
+            "categories": [],
+            "seoname": "avangard_om",
+            "coordinates": [
+              36.188327,
+              51.721759
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "235217735414",
+            "uri": "ymapsbm1://org?oid=235217735414",
+            "logId": "235217735414",
+            "title": "Всеинструменты.ру",
+            "rating": 4.2,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4802381/2a000001775a37950ad3d958e2667464085f/%s",
+            "categories": [],
+            "seoname": "vseinstrumenty_ru",
+            "coordinates": [
+              36.139923,
+              51.665873
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "87511051357",
+            "uri": "ymapsbm1://org?oid=87511051357",
+            "logId": "87511051357",
+            "title": "Дядько",
+            "rating": 4.2,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/2805836/2a00000173c8bdcbb34fbddf0f942fb3e0de/%s",
+            "categories": [],
+            "seoname": "dyadko",
+            "coordinates": [
+              36.139637,
+              51.754709
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          }
+        ],
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "87114154101",
+            "uri": "ymapsbm1://org?oid=87114154101",
+            "logId": "87114154101",
+            "title": "Всеинструменты.ру",
+            "rating": 4.8,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1775373/2a0000016a69c079cd04cc1ec8fbb703e8f8/%s",
+            "categories": [],
+            "seoname": "vseinstrumenty_ru",
+            "coordinates": [
+              36.182919,
+              51.725856
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "215569016050",
+            "uri": "ymapsbm1://org?oid=215569016050",
+            "logId": "215569016050",
+            "title": "Кувалда.ру",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a000001750744a8a9e38a59fb9a2bf42af5/%s",
+            "categories": [],
+            "seoname": "kuvalda_ru",
+            "coordinates": [
+              36.179737,
+              51.70765
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "87511051357",
+            "uri": "ymapsbm1://org?oid=87511051357",
+            "logId": "87511051357",
+            "title": "Дядько",
+            "rating": 4.2,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/2805836/2a00000173c8bdcbb34fbddf0f942fb3e0de/%s",
+            "categories": [],
+            "seoname": "dyadko",
+            "coordinates": [
+              36.139637,
+              51.754709
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "235217735414",
+            "uri": "ymapsbm1://org?oid=235217735414",
+            "logId": "235217735414",
+            "title": "Всеинструменты.ру",
+            "rating": 4.2,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4802381/2a000001775a37950ad3d958e2667464085f/%s",
+            "categories": [],
+            "seoname": "vseinstrumenty_ru",
+            "coordinates": [
+              36.139923,
+              51.665873
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1289617366_713805159_23_1592750011",
+        "direction": [
+          -116.6,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            36.1889579618,
+            51.7245999455
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1289617366_713805159_23_1592750011&size=500%2C240&azimuth=-116.6&tilt=10&api_key=maps&signature=nMbmls7sqQ8gD4qDHJZFyErSz6ZafOjjrk9hTT1JjPc="
+      },
+      "shortTitle": "Кладовка",
+      "additionalAddress": "этаж 1",
+      "fullAddress": "Россия, Курск, улица Александра Невского, 13Вк2",
+      "country": "Россия",
+      "postalCode": "305001",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 4,
+        "ratingValue": 4.099999904632568,
+        "reviewCount": 3
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184108219",
+          "name": "Пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "184107567",
+          "name": "строительный инструмент",
+          "class": "hypermarket",
+          "seoname": "construction_tool",
+          "pluralName": "Строительные инструменты"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (904) 524-60-90",
+          "type": "phone"
+        }
+      ],
+      "featureGroups": [],
+      "businessProperties": {
+        "has_verified_owner": false
+      },
+      "seoname": "kladovka",
+      "geoId": 216997,
+      "compositeAddress": {
+        "locality": "Курск",
+        "street": "улица Александра Невского",
+        "house": "13ВК2"
+      },
+      "workingTimeText": "пн-пт 09:00–18:00; сб 10:00–15:00",
+      "workingTime": [
+        null,
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 15,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 18:00",
+        "shortText": "До 18:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/kbo3455"
+        }
+      ],
+      "urls": [
+        "http://kbo3455.business.site/"
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 18:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 18:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 18:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "8.2",
+          "property": [
+            {
+              "key": "value",
+              "value": "8.2"
+            },
+            {
+              "key": "value_5",
+              "value": "4.1"
+            }
+          ]
+        }
+      ],
+      "region": {
+        "id": 8,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10705,
+          8
+        ],
+        "seoname": "kursk",
+        "bounds": [
+          [
+            36.0713025,
+            51.63157578770792
+          ],
+          [
+            36.3139915,
+            51.82893078770792
+          ]
+        ],
+        "longitude": 36.192647,
+        "latitude": 51.730361,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Курск",
+          "dative": "Курску",
+          "directional": "",
+          "genitive": "Курска",
+          "instrumental": "Курском",
+          "locative": "",
+          "nominative": "Курск",
+          "preposition": "в",
+          "prepositional": "Курске"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Курск",
+          "type": "region",
+          "url": "https://yandex.ru/maps/8/kursk/",
+          "region": {
+            "center": [
+              36.192647,
+              51.730361
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/8/kursk/catalog/",
+          "region": {
+            "id": 8,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10705,
+              8
+            ],
+            "seoname": "kursk",
+            "bounds": [
+              [
+                36.0713025,
+                51.63157578770792
+              ],
+              [
+                36.3139915,
+                51.82893078770792
+              ]
+            ],
+            "longitude": 36.192647,
+            "latitude": 51.730361,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Курск",
+              "dative": "Курску",
+              "directional": "",
+              "genitive": "Курска",
+              "instrumental": "Курском",
+              "locative": "",
+              "nominative": "Курск",
+              "preposition": "в",
+              "prepositional": "Курске"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184108219",
+            "name": "Пункт проката",
+            "class": "fallback services",
+            "seoname": "appliance_rental",
+            "pluralName": "Пункты проката"
+          },
+          "name": "Пункты проката",
+          "type": "category",
+          "url": "https://yandex.ru/maps/8/kursk/category/appliance_rental/184108219/"
+        },
+        {
+          "name": "Кладовка",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/kladovka/132020450588/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629789683292861-2890366795-man1-7370-man-addrs-nmeta-new-8031",
+      "analyticsId": "3",
+      "title": "Прокат инструмента",
+      "description": "ул. Кутузова, 3, Курск",
+      "address": "ул. Кутузова, 3, Курск",
+      "coordinates": [
+        36.18881,
+        51.71275
+      ],
+      "displayCoordinates": [
+        36.18881,
+        51.71275
+      ],
+      "bounds": [
+        [
+          36.1847045,
+          51.71019993
+        ],
+        [
+          36.1929155,
+          51.71529993
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=33688119102",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MzM2ODgxMTkxMDI=",
+      "id": "33688119102",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__10201998",
+          "name": "Улица Кутузова",
+          "distance": "300 м",
+          "distanceValue": 300.196,
+          "coordinates": [
+            36.186652,
+            51.712358
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202316",
+          "name": "Школа № 12",
+          "distance": "990 м",
+          "distanceValue": 989.584,
+          "coordinates": [
+            36.198644131,
+            51.715233964
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202093",
+          "name": "Улица 9-го Января",
+          "distance": "1,1 км",
+          "distanceValue": 1110.56,
+          "coordinates": [
+            36.192623902,
+            51.720650554
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202638",
+          "name": "Улица Белинского",
+          "distance": "1,6 км",
+          "distanceValue": 1609.21,
+          "coordinates": [
+            36.182066181,
+            51.723112017
+          ],
+          "type": "common"
+        }
+      ],
+      "panorama": {
+        "id": "1289616653_713918441_23_1592922740",
+        "direction": [
+          -162.1,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            36.1888384388,
+            51.7128045009
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1289616653_713918441_23_1592922740&size=500%2C240&azimuth=-162.1&tilt=10&api_key=maps&signature=HEySqawsaESSgdj2Skr-zQ2mStm1ZifW_Yl3xVtz5Ro="
+      },
+      "shortTitle": "Прокат инструмента",
+      "fullAddress": "Россия, Курск, улица Кутузова, 3",
+      "country": "Россия",
+      "postalCode": "305019",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 0,
+        "ratingValue": 0,
+        "reviewCount": 0
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184107551",
+          "name": "Аренда строительной и спецтехники",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "Аренда спецтехники"
+        }
+      ],
+      "featureGroups": [],
+      "businessProperties": {
+        "has_verified_owner": false
+      },
+      "seoname": "prokat_instrumenta",
+      "geoId": 217286,
+      "compositeAddress": {
+        "locality": "Курск",
+        "street": "улица Кутузова",
+        "house": "3"
+      },
+      "region": {
+        "id": 8,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10705,
+          8
+        ],
+        "seoname": "kursk",
+        "bounds": [
+          [
+            36.0713025,
+            51.63157578770792
+          ],
+          [
+            36.3139915,
+            51.82893078770792
+          ]
+        ],
+        "longitude": 36.192647,
+        "latitude": 51.730361,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Курск",
+          "dative": "Курску",
+          "directional": "",
+          "genitive": "Курска",
+          "instrumental": "Курском",
+          "locative": "",
+          "nominative": "Курск",
+          "preposition": "в",
+          "prepositional": "Курске"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Курск",
+          "type": "region",
+          "url": "https://yandex.ru/maps/8/kursk/",
+          "region": {
+            "center": [
+              36.192647,
+              51.730361
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/8/kursk/catalog/",
+          "region": {
+            "id": 8,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10705,
+              8
+            ],
+            "seoname": "kursk",
+            "bounds": [
+              [
+                36.0713025,
+                51.63157578770792
+              ],
+              [
+                36.3139915,
+                51.82893078770792
+              ]
+            ],
+            "longitude": 36.192647,
+            "latitude": 51.730361,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Курск",
+              "dative": "Курску",
+              "directional": "",
+              "genitive": "Курска",
+              "instrumental": "Курском",
+              "locative": "",
+              "nominative": "Курск",
+              "preposition": "в",
+              "prepositional": "Курске"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184107551",
+            "name": "Аренда строительной и спецтехники",
+            "class": "fallback services",
+            "seoname": "construction_and_special_purpose_machines_rental",
+            "pluralName": "Аренда спецтехники"
+          },
+          "name": "Аренда спецтехники",
+          "type": "category",
+          "url": "https://yandex.ru/maps/8/kursk/category/construction_and_special_purpose_machines_rental/184107551/"
+        },
+        {
+          "name": "Прокат инструмента",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/prokat_instrumenta/33688119102/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629789683292861-2890366795-man1-7370-man-addrs-nmeta-new-8031",
+      "analyticsId": "4",
+      "title": "Специнструмент",
+      "description": "Нижняя Луговая ул., 1А, Курск",
+      "address": "Нижняя Луговая ул., 1А, Курск",
+      "coordinates": [
+        36.187086,
+        51.718919
+      ],
+      "displayCoordinates": [
+        36.187086,
+        51.718919
+      ],
+      "bounds": [
+        [
+          36.182981,
+          51.71636893
+        ],
+        [
+          36.191191,
+          51.72146893
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=204395248611",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MjA0Mzk1MjQ4NjEx",
+      "id": "204395248611",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__10201999",
+          "name": "Станкостроительный завод",
+          "distance": "210 м",
+          "distanceValue": 210.241,
+          "coordinates": [
+            36.18787,
+            51.7178
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202003",
+          "name": "Площадь Добролюбова",
+          "distance": "650 м",
+          "distanceValue": 647.482,
+          "coordinates": [
+            36.190088762,
+            51.722583498
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202369",
+          "name": "Улица Гайдара",
+          "distance": "670 м",
+          "distanceValue": 674.527,
+          "coordinates": [
+            36.183654133,
+            51.723843906
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202092",
+          "name": "Улица 9-го Января",
+          "distance": "790 м",
+          "distanceValue": 789.684,
+          "coordinates": [
+            36.1924624,
+            51.7209028
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202638",
+          "name": "Улица Белинского",
+          "distance": "810 м",
+          "distanceValue": 807.399,
+          "coordinates": [
+            36.182066181,
+            51.723112017
+          ],
+          "type": "common"
+        }
+      ],
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "1688667676",
+            "uri": "ymapsbm1://org?oid=1688667676",
+            "logId": "1688667676",
+            "title": "Авангард Ом",
+            "rating": 3.7,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/2799320/2a00000170353f793ab2a111e11356f9d7b5/%s",
+            "categories": [],
+            "seoname": "avangard_om",
+            "coordinates": [
+              36.188327,
+              51.721759
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "147548754204",
+            "uri": "ymapsbm1://org?oid=147548754204",
+            "logId": "147548754204",
+            "title": "Арсслайн",
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/2701558/2a00000174e25704f6ac4b1805d9dd4e40c4/%s",
+            "categories": [],
+            "seoname": "arsslayn",
+            "coordinates": [
+              36.187248,
+              51.757865
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1289609988_713857527_23_1592748175",
+        "direction": [
+          -120.2,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            36.1877211641,
+            51.7191475641
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1289609988_713857527_23_1592748175&size=500%2C240&azimuth=-120.2&tilt=10&api_key=maps&signature=HiJZSGrGvz3EP7C4g5EqYBS6NX8FOrUnx6o5-VM-Y0o="
+      },
+      "shortTitle": "Специнструмент",
+      "fullAddress": "Россия, Курск, Нижняя Луговая улица, 1А",
+      "country": "Россия",
+      "postalCode": "305023",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 0,
+        "ratingValue": 0,
+        "reviewCount": 0
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184106862",
+          "name": "Промышленное оборудование",
+          "class": "fallback services",
+          "seoname": "industrial_equipment",
+          "pluralName": "Промышленное оборудование"
+        },
+        {
+          "id": "184106542",
+          "name": "инструментальная промышленность",
+          "class": "industrial enterprise",
+          "seoname": "tool_industry",
+          "pluralName": "Инструментальная промышленность"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (950) 876-00-33",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "cutting_tools",
+          "value": true,
+          "name": "режущий инструмент",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "abrasive_tool",
+          "value": true,
+          "name": "абразивный инструмент",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [],
+      "businessProperties": {
+        "has_verified_owner": false
+      },
+      "seoname": "spetsinstrument",
+      "geoId": 216997,
+      "compositeAddress": {
+        "locality": "Курск",
+        "street": "Нижняя Луговая улица",
+        "house": "1А"
+      },
+      "workingTimeText": "пн-сб 08:00–18:00",
+      "workingTime": [
+        null,
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 18:00",
+        "shortText": "До 18:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "urls": [
+        "http://www.mettools.ru/"
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 18:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 18:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 18:00"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 63148231,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 8,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10705,
+          8
+        ],
+        "seoname": "kursk",
+        "bounds": [
+          [
+            36.0713025,
+            51.63157578770792
+          ],
+          [
+            36.3139915,
+            51.82893078770792
+          ]
+        ],
+        "longitude": 36.192647,
+        "latitude": 51.730361,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Курск",
+          "dative": "Курску",
+          "directional": "",
+          "genitive": "Курска",
+          "instrumental": "Курском",
+          "locative": "",
+          "nominative": "Курск",
+          "preposition": "в",
+          "prepositional": "Курске"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Курск",
+          "type": "region",
+          "url": "https://yandex.ru/maps/8/kursk/",
+          "region": {
+            "center": [
+              36.192647,
+              51.730361
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/8/kursk/catalog/",
+          "region": {
+            "id": 8,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10705,
+              8
+            ],
+            "seoname": "kursk",
+            "bounds": [
+              [
+                36.0713025,
+                51.63157578770792
+              ],
+              [
+                36.3139915,
+                51.82893078770792
+              ]
+            ],
+            "longitude": 36.192647,
+            "latitude": 51.730361,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Курск",
+              "dative": "Курску",
+              "directional": "",
+              "genitive": "Курска",
+              "instrumental": "Курском",
+              "locative": "",
+              "nominative": "Курск",
+              "preposition": "в",
+              "prepositional": "Курске"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184106862",
+            "name": "Промышленное оборудование",
+            "class": "fallback services",
+            "seoname": "industrial_equipment",
+            "pluralName": "Промышленное оборудование"
+          },
+          "name": "Промышленное оборудование",
+          "type": "category",
+          "url": "https://yandex.ru/maps/8/kursk/category/industrial_equipment/184106862/"
+        },
+        {
+          "name": "Специнструмент",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/spetsinstrument/204395248611/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629789683292861-2890366795-man1-7370-man-addrs-nmeta-new-8031",
+      "analyticsId": "5",
+      "title": "Айкью Тул",
+      "description": "3-я Песковская ул., 12, микрорайон Пески, Курск",
+      "address": "3-я Песковская ул., 12, микрорайон Пески, Курск",
+      "coordinates": [
+        36.168334,
+        51.702642
+      ],
+      "displayCoordinates": [
+        36.168334,
+        51.702642
+      ],
+      "bounds": [
+        [
+          36.164229,
+          51.70009093
+        ],
+        [
+          36.172439,
+          51.70519293
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=77805113942",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9Nzc4MDUxMTM5NDI=",
+      "id": "77805113942",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__10201890",
+          "name": "Улица Энгельса",
+          "distance": "480 м",
+          "distanceValue": 476.064,
+          "coordinates": [
+            36.166353805,
+            51.704996057
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201886",
+          "name": "Сумская улица",
+          "distance": "520 м",
+          "distanceValue": 524.811,
+          "coordinates": [
+            36.164376,
+            51.704953
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202688",
+          "name": "Типография",
+          "distance": "650 м",
+          "distanceValue": 647.829,
+          "coordinates": [
+            36.163126411,
+            51.705614748
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201893",
+          "name": "Налоговая инспекция",
+          "distance": "850 м",
+          "distanceValue": 854.529,
+          "coordinates": [
+            36.161955,
+            51.700691
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201985",
+          "name": "Заводская улица",
+          "distance": "1,3 км",
+          "distanceValue": 1272.42,
+          "coordinates": [
+            36.155018787,
+            51.707428212
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 26,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4303674/2a0000017ae2434e8f6a86a90830bdfad79c/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4303674/2a0000017ae2434e8f6a86a90830bdfad79c/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3518606/2a0000017ae243e018d183c71bcc9ae19e1e/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4456415/2a0000017ae243cc38337f93986907d49bd4/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4456415/2a0000017ae2440a99b219af5635be597a8d/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4504251/2a0000017ae245bb6a21eee9d029394d767a/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4280929/2a0000017ae244b59a6ffe9030317ea39224/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4079855/2a0000017ae245e1764e013dfb6fc721550d/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4255939/2a0000017ae244467d9d02d9de21383b4d8d/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4219774/2a0000017ae244c9ead9eb2653ef151fe2ae/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4737312/2a0000017ae2454d7322f107953252b00481/%s"
+          }
+        ]
+      },
+      "entrances": [
+        {
+          "coordinates": [
+            36.168203,
+            51.702586
+          ],
+          "azimuth": 201.643968430863,
+          "tilt": 0
+        }
+      ],
+      "routePoint": {
+        "context": "djF8MzYuMTY4MjAzLDUxLjcwMjU4NnwzNi4xNjgxODQsNTEuNzAyNDQsNzc4MDUxMTM5NDJfMF8sMQ,,"
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "215569016050",
+            "uri": "ymapsbm1://org?oid=215569016050",
+            "logId": "215569016050",
+            "title": "Кувалда.ру",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a000001750744a8a9e38a59fb9a2bf42af5/%s",
+            "categories": [],
+            "seoname": "kuvalda_ru",
+            "coordinates": [
+              36.179737,
+              51.70765
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "87114154101",
+            "uri": "ymapsbm1://org?oid=87114154101",
+            "logId": "87114154101",
+            "title": "Всеинструменты.ру",
+            "rating": 4.8,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1775373/2a0000016a69c079cd04cc1ec8fbb703e8f8/%s",
+            "categories": [],
+            "seoname": "vseinstrumenty_ru",
+            "coordinates": [
+              36.182919,
+              51.725856
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "235217735414",
+            "uri": "ymapsbm1://org?oid=235217735414",
+            "logId": "235217735414",
+            "title": "Всеинструменты.ру",
+            "rating": 4.2,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4802381/2a000001775a37950ad3d958e2667464085f/%s",
+            "categories": [],
+            "seoname": "vseinstrumenty_ru",
+            "coordinates": [
+              36.139923,
+              51.665873
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "87511051357",
+            "uri": "ymapsbm1://org?oid=87511051357",
+            "logId": "87511051357",
+            "title": "Дядько",
+            "rating": 4.2,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/2805836/2a00000173c8bdcbb34fbddf0f942fb3e0de/%s",
+            "categories": [],
+            "seoname": "dyadko",
+            "coordinates": [
+              36.139637,
+              51.754709
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1701485668",
+            "uri": "ymapsbm1://org?oid=1701485668",
+            "logId": "1701485668",
+            "title": "Фтг Атмосфера",
+            "rating": 3.9,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4303674/2a0000017a13f26e59ea6b4e76dda404f9c7/%s",
+            "categories": [],
+            "seoname": "fabrika_tekhnicheskikh_gazov_atmosfera",
+            "coordinates": [
+              36.137814,
+              51.659155
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1289486979_714012134_23_1592727287",
+        "direction": [
+          117.9,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            36.1671002366,
+            51.7030464863
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1289486979_714012134_23_1592727287&size=500%2C240&azimuth=117.9&tilt=10&api_key=maps&signature=uztOvSw6H20H4QaXdJWcQ1z-bntICULlIJvtMuHgXg4="
+      },
+      "shortTitle": "Айкью Тул",
+      "additionalAddress": "этаж 2, офис 4",
+      "fullAddress": "Россия, Курск, микрорайон Пески, 3-я Песковская улица, 12",
+      "country": "Россия",
+      "postalCode": "305023",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 12,
+        "ratingValue": 4.300000190734863,
+        "reviewCount": 8
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184107567",
+          "name": "Строительный инструмент",
+          "class": "hypermarket",
+          "seoname": "construction_tool",
+          "pluralName": "Строительные инструменты"
+        },
+        {
+          "id": "184107571",
+          "name": "электро- и бензоинструмент",
+          "class": "hypermarket",
+          "seoname": "electric_and_gas_powered_tools",
+          "pluralName": "Электро- и бензоинструменты"
+        },
+        {
+          "id": "184106884",
+          "name": "сварочное оборудование и материалы",
+          "class": "fallback services",
+          "seoname": "welding_equipment_and_materials",
+          "pluralName": "Сварочное оборудование"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (4712) 77-72-03",
+          "type": "phone",
+          "info": "Многоканальный"
+        },
+        {
+          "number": "+7 (904) 523-93-00",
+          "type": "phone",
+          "info": "Для мобильной связи"
+        }
+      ],
+      "features": [
+        {
+          "id": "perforator repair",
+          "value": true,
+          "name": "ремонт перфораторов",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "delivery",
+          "value": true,
+          "name": "доставка",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "guarantee",
+          "value": true,
+          "name": "гарантия",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "blowers",
+          "value": true,
+          "name": "воздуходувки",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "payment_method",
+          "value": [
+            {
+              "id": "prepayment",
+              "name": "предоплата"
+            },
+            {
+              "id": "postpay",
+              "name": "постоплата"
+            },
+            {
+              "id": "cash",
+              "name": "наличными"
+            },
+            {
+              "id": "payment_card",
+              "name": "оплата картой"
+            },
+            {
+              "id": "wire_transfer",
+              "name": "банковским переводом"
+            },
+            {
+              "id": "cashless_payment",
+              "name": "безналичная"
+            }
+          ],
+          "name": "способ оплаты",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "tool_brand",
+          "value": [
+            {
+              "id": "bosch_tool",
+              "name": "Bosch"
+            },
+            {
+              "id": "dewalt",
+              "name": "DeWALT"
+            },
+            {
+              "id": "hitachi_tool",
+              "name": "Hitachi"
+            },
+            {
+              "id": "makita_tool",
+              "name": "Makita"
+            },
+            {
+              "id": "metabo_tool",
+              "name": "Metabo"
+            },
+            {
+              "id": "zubr_tool_",
+              "name": "Зубр"
+            },
+            {
+              "id": "fubag_tool",
+              "name": "FUBAG"
+            },
+            {
+              "id": "aeg_tool",
+              "name": "AEG"
+            },
+            {
+              "id": "huter_tool",
+              "name": "Huter"
+            },
+            {
+              "id": "vihr_tool",
+              "name": "Вихрь"
+            },
+            {
+              "id": "resanta_tool",
+              "name": "Ресанта"
+            }
+          ],
+          "name": "марка инструмента",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "promotions",
+          "value": [
+            {
+              "id": "discounts",
+              "name": "скидки"
+            },
+            {
+              "id": "promotions",
+              "name": "акции"
+            },
+            {
+              "id": "special_offers",
+              "name": "спецпредложения"
+            }
+          ],
+          "name": "акции",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "pickup",
+          "value": true,
+          "name": "самовывоз",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "cutting_tools",
+          "value": true,
+          "name": "режущий инструмент",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "tool_repair",
+          "value": [
+            {
+              "id": "repair_grinders",
+              "name": "ремонт болгарки"
+            },
+            {
+              "id": "screwdriver_repair",
+              "name": "ремонт шуруповерта"
+            },
+            {
+              "id": "repair_of_drill",
+              "name": "ремонт дрели"
+            },
+            {
+              "id": "jigsaw_repair",
+              "name": "ремонт лобзиков"
+            },
+            {
+              "id": "rotary_hammer_repair_",
+              "name": "ремонт перфоратора"
+            },
+            {
+              "id": "angle_grinder_repair_",
+              "name": "ремонт УШМ"
+            },
+            {
+              "id": "welding_equipment_repair",
+              "name": "ремонт сварочного оборудования"
+            },
+            {
+              "id": "repair_of_blowers",
+              "name": "ремонт воздуходувок"
+            }
+          ],
+          "name": "ремонт инструмента",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "repair_of_power_tools",
+          "value": true,
+          "name": "ремонт электроинструмента",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "repairs",
+          "value": true,
+          "name": "ремонт",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": true,
+        "geoproduct_poi_color": "#60A8F0",
+        "closed_for_quarantine": false,
+        "closed_for_visitors": false,
+        "geoproduct_poi_label_color": "#428FDB"
+      },
+      "seoname": "aykyu_tul",
+      "geoId": 217293,
+      "compositeAddress": {
+        "locality": "Курск",
+        "street": "3-я Песковская улица",
+        "house": "12"
+      },
+      "workingTimeText": "пн-пт 09:00–18:00, перерыв 12:00–13:00",
+      "workingTime": [
+        null,
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 12,
+              "minutes": 0
+            }
+          },
+          {
+            "from": {
+              "hours": 13,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 12,
+              "minutes": 0
+            }
+          },
+          {
+            "from": {
+              "hours": 13,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 12,
+              "minutes": 0
+            }
+          },
+          {
+            "from": {
+              "hours": 13,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 12,
+              "minutes": 0
+            }
+          },
+          {
+            "from": {
+              "hours": 13,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 12,
+              "minutes": 0
+            }
+          },
+          {
+            "from": {
+              "hours": 13,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        null
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 18:00",
+        "shortText": "До 18:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "viber",
+          "href": "https://viber.click/89045239300"
+        },
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/iqtool"
+        },
+        {
+          "type": "whatsapp",
+          "href": "https://wa.me/89045239300"
+        }
+      ],
+      "urls": [
+        "http://iqtool.ru/"
+      ],
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1987173/2a00000171b2dc93f56e338b7a9b877aed70/%s"
+        }
+      },
+      "references": [
+        {
+          "id": "4217902819",
+          "scope": "nyak"
+        }
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 18:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 18:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 18:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "8.6",
+          "property": [
+            {
+              "key": "value",
+              "value": "8.6"
+            },
+            {
+              "key": "value_5",
+              "value": "4.3"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 59347123,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "posts": {
+        "count": 4,
+        "items": []
+      },
+      "region": {
+        "id": 8,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10705,
+          8
+        ],
+        "seoname": "kursk",
+        "bounds": [
+          [
+            36.0713025,
+            51.63157578770792
+          ],
+          [
+            36.3139915,
+            51.82893078770792
+          ]
+        ],
+        "longitude": 36.192647,
+        "latitude": 51.730361,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Курск",
+          "dative": "Курску",
+          "directional": "",
+          "genitive": "Курска",
+          "instrumental": "Курском",
+          "locative": "",
+          "nominative": "Курск",
+          "preposition": "в",
+          "prepositional": "Курске"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Курск",
+          "type": "region",
+          "url": "https://yandex.ru/maps/8/kursk/",
+          "region": {
+            "center": [
+              36.192647,
+              51.730361
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/8/kursk/catalog/",
+          "region": {
+            "id": 8,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10705,
+              8
+            ],
+            "seoname": "kursk",
+            "bounds": [
+              [
+                36.0713025,
+                51.63157578770792
+              ],
+              [
+                36.3139915,
+                51.82893078770792
+              ]
+            ],
+            "longitude": 36.192647,
+            "latitude": 51.730361,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Курск",
+              "dative": "Курску",
+              "directional": "",
+              "genitive": "Курска",
+              "instrumental": "Курском",
+              "locative": "",
+              "nominative": "Курск",
+              "preposition": "в",
+              "prepositional": "Курске"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184107567",
+            "name": "Строительный инструмент",
+            "class": "hypermarket",
+            "seoname": "construction_tool",
+            "pluralName": "Строительные инструменты"
+          },
+          "name": "Строительные инструменты",
+          "type": "category",
+          "url": "https://yandex.ru/maps/8/kursk/category/construction_tool/184107567/"
+        },
+        {
+          "name": "Айкью Тул",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/aykyu_tul/77805113942/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629789683292861-2890366795-man1-7370-man-addrs-nmeta-new-8031",
+      "analyticsId": "6",
+      "title": "ВышеКрыши",
+      "description": "Борзеновский пер., 42, Курск",
+      "address": "Борзеновский пер., 42, Курск",
+      "coordinates": [
+        36.207262,
+        51.72374
+      ],
+      "displayCoordinates": [
+        36.207262,
+        51.72374
+      ],
+      "bounds": [
+        [
+          36.2031565,
+          51.72119043
+        ],
+        [
+          36.2113675,
+          51.72628943
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=76800632632",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9NzY4MDA2MzI2MzI=",
+      "id": "76800632632",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__10202102",
+          "name": "Кривецкий мост",
+          "distance": "470 м",
+          "distanceValue": 471.2,
+          "coordinates": [
+            36.208805,
+            51.721222
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202098",
+          "name": "Полевая улица",
+          "distance": "960 м",
+          "distanceValue": 960.408,
+          "coordinates": [
+            36.20021938,
+            51.717081637
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202308",
+          "name": "Васильевский переулок",
+          "distance": "1 км",
+          "distanceValue": 1047.23,
+          "coordinates": [
+            36.20675,
+            51.716008
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202354",
+          "name": "Улица Сонина",
+          "distance": "1,7 км",
+          "distanceValue": 1717.9,
+          "coordinates": [
+            36.190761458,
+            51.724440644
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202018",
+          "name": "Знаменский собор",
+          "distance": "2,4 км",
+          "distanceValue": 2378.48,
+          "coordinates": [
+            36.192723267,
+            51.728140635
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 16,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2815220/2a00000172273cb58a90ba30900bfe3f0d6f/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2815220/2a00000172273cb58a90ba30900bfe3f0d6f/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2359468/2a00000172273fcb51bf894a05809080fc5d/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2761244/2a000001722740b2bc8a293c1a3411599fcf/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2378041/2a0000017260d769f0ff1f90d08b789703f5/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2776652/2a000001722742f6bb849d7569250a681227/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3733076/2a000001795ab03e77819fc63f6b8816ce78/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2447509/2a0000017227414e52fc0eef9432a71c3035/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1870294/2a0000017260d6b0b5249dd251f18af6d72b/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2815220/2a00000172273d2ed1c8ef7fc0e1df4a1c53/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2419289/2a0000017227437c4866a14c2f5d943e0f13/%s"
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1289725321_713812868_23_1593006088",
+        "direction": [
+          124.77052,
+          5.188967
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            36.207055,
+            51.723797
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1289725321_713812868_23_1593006088&size=500%2C240&azimuth=124.77052&tilt=5.188967&api_key=maps&signature=BNigaM2V0qtOPpobHmsq-enkpBi_7jVmQsCvjiCyNjo="
+      },
+      "shortTitle": "ВышеКрыши",
+      "additionalAddress": "Координаты по Яндекс карте: 51.72376, 36.20729",
+      "fullAddress": "Россия, Курск, Борзеновский переулок, 42",
+      "country": "Россия",
+      "postalCode": "305031",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 0,
+        "ratingValue": 0,
+        "reviewCount": 0
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184107585",
+          "name": "Городское благоустройство",
+          "class": "fallback services",
+          "seoname": "urban_landscaping",
+          "pluralName": "Городское благоустройство"
+        },
+        {
+          "id": "184108265",
+          "name": "студия ландшафтного дизайна",
+          "class": "fallback services",
+          "seoname": "landscape_design_studio",
+          "pluralName": "Ландшафтный дизайн"
+        },
+        {
+          "id": "184107551",
+          "name": "аренда строительной и спецтехники",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "Аренда спецтехники"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (951) 332-20-33",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "types_of_equipment",
+          "value": [
+            {
+              "id": "autotowers",
+              "name": "автовышки"
+            },
+            {
+              "id": "tool_rental",
+              "name": "инструмент"
+            },
+            {
+              "id": "handling_equipment_1",
+              "name": "погрузочно-разгрузочное оборудование"
+            },
+            {
+              "id": "special_vehicles",
+              "name": "спецавтотехника"
+            },
+            {
+              "id": "excavators",
+              "name": "экскаваторы"
+            }
+          ],
+          "name": "виды техники",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "arrangement_of_fountains_and_water_bodies",
+          "value": true,
+          "name": "фонтаны и водоемы",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "design of the fountains",
+          "value": true,
+          "name": "проектирование фонтанов",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "automatic irrigation systems",
+          "value": true,
+          "name": "системы автоматического полива",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "removing_trees",
+          "value": true,
+          "name": "спил и удаление деревьев",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "payment_method",
+          "value": [
+            {
+              "id": "prepayment",
+              "name": "предоплата"
+            },
+            {
+              "id": "cash",
+              "name": "наличными"
+            },
+            {
+              "id": "payment_card",
+              "name": "оплата картой"
+            },
+            {
+              "id": "wire_transfer",
+              "name": "банковским переводом"
+            }
+          ],
+          "name": "способ оплаты",
+          "type": "enum",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": false,
+        "closed_for_quarantine": false,
+        "closed_for_visitors": false
+      },
+      "seoname": "vyshekryshi",
+      "geoId": 217286,
+      "compositeAddress": {
+        "locality": "Курск",
+        "street": "Борзеновский переулок",
+        "house": "42"
+      },
+      "workingTimeText": "ежедневно, круглосуточно",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Круглосуточно",
+        "shortText": "24 ч",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "telegram",
+          "href": "https://t.me/OlegMaltsev"
+        }
+      ],
+      "urls": [
+        "http://vk46.ru/"
+      ],
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2405086/2a0000017227325ae5e3bb450f7f6a7a95f2/%s"
+        }
+      },
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "24 ч",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "24 ч"
+            },
+            {
+              "key": "text",
+              "value": "Круглосуточно"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 62441023,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "posts": {
+        "count": 2,
+        "items": []
+      },
+      "region": {
+        "id": 8,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10705,
+          8
+        ],
+        "seoname": "kursk",
+        "bounds": [
+          [
+            36.0713025,
+            51.63157578770792
+          ],
+          [
+            36.3139915,
+            51.82893078770792
+          ]
+        ],
+        "longitude": 36.192647,
+        "latitude": 51.730361,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Курск",
+          "dative": "Курску",
+          "directional": "",
+          "genitive": "Курска",
+          "instrumental": "Курском",
+          "locative": "",
+          "nominative": "Курск",
+          "preposition": "в",
+          "prepositional": "Курске"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Курск",
+          "type": "region",
+          "url": "https://yandex.ru/maps/8/kursk/",
+          "region": {
+            "center": [
+              36.192647,
+              51.730361
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/8/kursk/catalog/",
+          "region": {
+            "id": 8,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10705,
+              8
+            ],
+            "seoname": "kursk",
+            "bounds": [
+              [
+                36.0713025,
+                51.63157578770792
+              ],
+              [
+                36.3139915,
+                51.82893078770792
+              ]
+            ],
+            "longitude": 36.192647,
+            "latitude": 51.730361,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Курск",
+              "dative": "Курску",
+              "directional": "",
+              "genitive": "Курска",
+              "instrumental": "Курском",
+              "locative": "",
+              "nominative": "Курск",
+              "preposition": "в",
+              "prepositional": "Курске"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184107585",
+            "name": "Городское благоустройство",
+            "class": "fallback services",
+            "seoname": "urban_landscaping",
+            "pluralName": "Городское благоустройство"
+          },
+          "name": "Городское благоустройство",
+          "type": "category",
+          "url": "https://yandex.ru/maps/8/kursk/category/urban_landscaping/184107585/"
+        },
+        {
+          "name": "ВышеКрыши",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/vyshekryshi/76800632632/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629789683292861-2890366795-man1-7370-man-addrs-nmeta-new-8031",
+      "analyticsId": "7",
+      "title": "Авто-спецтехника",
+      "description": "2-я ул. Новосёловка, 3Д, Курск",
+      "address": "2-я ул. Новосёловка, 3Д, Курск",
+      "coordinates": [
+        36.221132,
+        51.727269
+      ],
+      "displayCoordinates": [
+        36.221132,
+        51.727269
+      ],
+      "bounds": [
+        [
+          36.2170265,
+          51.72471943
+        ],
+        [
+          36.2252375,
+          51.72981843
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=1677201754",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTY3NzIwMTc1NA==",
+      "id": "1677201754",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__10202107",
+          "name": "1-я Стрелецкая улица",
+          "distance": "350 м",
+          "distanceValue": 351.251,
+          "coordinates": [
+            36.22335365,
+            51.729699914
+          ],
+          "type": "common"
+        },
+        {
+          "id": "station__lh_9655349",
+          "name": "472 км",
+          "distance": "520 м",
+          "distanceValue": 516.891,
+          "coordinates": [
+            36.22513,
+            51.729274
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202292",
+          "name": "Улица Чайковского",
+          "distance": "1,8 км",
+          "distanceValue": 1823.07,
+          "coordinates": [
+            36.231002117,
+            51.737985771
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202308",
+          "name": "Васильевский переулок",
+          "distance": "2,1 км",
+          "distanceValue": 2136.43,
+          "coordinates": [
+            36.20675,
+            51.716008
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 6,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2006773/2a0000016b561314d6e45260e36d3af8b744/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2006773/2a0000016b561314d6e45260e36d3af8b744/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1666174/2a0000016c9bc5c39dcec6d3d43877c799c6/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1881734/2a0000016b56131b364584d7ea90b56c6b31/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2363990/2a0000017b1d48eeba2e756e27eb2341746c/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/374295/2a0000015b337d323eddf68c5b65be39f4fb/%s"
+          }
+        ]
+      },
+      "entrances": [
+        {
+          "coordinates": [
+            36.22116,
+            51.727289
+          ],
+          "azimuth": 302.100074509321,
+          "tilt": 0
+        }
+      ],
+      "routePoint": {
+        "context": "djF8MzYuMjIxMTYsNTEuNzI3Mjg5fA,,"
+      },
+      "panorama": {
+        "id": "1289807366_713778140_23_1592999096",
+        "direction": [
+          125.7,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            36.2208092134,
+            51.7274128463
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1289807366_713778140_23_1592999096&size=500%2C240&azimuth=125.7&tilt=10&api_key=maps&signature=xIYYdaQUIquVjeYi13iXbW5RChS8QhhtTAvrtespWgc="
+      },
+      "shortTitle": "Авто-Спецтехника",
+      "fullAddress": "Россия, Курск, 2-я улица Новосёловка, 3Д",
+      "country": "Россия",
+      "postalCode": "305031",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 9,
+        "ratingValue": 4,
+        "reviewCount": 2
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184106906",
+          "name": "Складское оборудование",
+          "class": "fallback services",
+          "seoname": "warehouse_equipment",
+          "pluralName": "Складское оборудование"
+        },
+        {
+          "id": "184107551",
+          "name": "аренда строительной и спецтехники",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "Аренда спецтехники"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (4712) 77-02-50",
+          "type": "phone"
+        },
+        {
+          "number": "+7 (4712) 77-02-40",
+          "type": "phone"
+        }
+      ],
+      "featureGroups": [],
+      "businessProperties": {
+        "has_verified_owner": false
+      },
+      "seoname": "avto_spetstekhnika",
+      "geoId": 217286,
+      "compositeAddress": {
+        "locality": "Курск",
+        "street": "2-я улица Новосёловка",
+        "house": "3Д"
+      },
+      "workingTimeText": "пн-пт 09:00–18:00",
+      "workingTime": [
+        null,
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        null
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 18:00",
+        "shortText": "До 18:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "urls": [
+        "http://www.ast46.ru/"
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 18:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 18:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 18:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "8",
+          "property": [
+            {
+              "key": "value",
+              "value": "8"
+            },
+            {
+              "key": "value_5",
+              "value": "4"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 63512359,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 8,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10705,
+          8
+        ],
+        "seoname": "kursk",
+        "bounds": [
+          [
+            36.0713025,
+            51.63157578770792
+          ],
+          [
+            36.3139915,
+            51.82893078770792
+          ]
+        ],
+        "longitude": 36.192647,
+        "latitude": 51.730361,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Курск",
+          "dative": "Курску",
+          "directional": "",
+          "genitive": "Курска",
+          "instrumental": "Курском",
+          "locative": "",
+          "nominative": "Курск",
+          "preposition": "в",
+          "prepositional": "Курске"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Курск",
+          "type": "region",
+          "url": "https://yandex.ru/maps/8/kursk/",
+          "region": {
+            "center": [
+              36.192647,
+              51.730361
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/8/kursk/catalog/",
+          "region": {
+            "id": 8,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10705,
+              8
+            ],
+            "seoname": "kursk",
+            "bounds": [
+              [
+                36.0713025,
+                51.63157578770792
+              ],
+              [
+                36.3139915,
+                51.82893078770792
+              ]
+            ],
+            "longitude": 36.192647,
+            "latitude": 51.730361,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Курск",
+              "dative": "Курску",
+              "directional": "",
+              "genitive": "Курска",
+              "instrumental": "Курском",
+              "locative": "",
+              "nominative": "Курск",
+              "preposition": "в",
+              "prepositional": "Курске"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184106906",
+            "name": "Складское оборудование",
+            "class": "fallback services",
+            "seoname": "warehouse_equipment",
+            "pluralName": "Складское оборудование"
+          },
+          "name": "Складское оборудование",
+          "type": "category",
+          "url": "https://yandex.ru/maps/8/kursk/category/warehouse_equipment/184106906/"
+        },
+        {
+          "name": "Авто-спецтехника",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/avto_spetstekhnika/1677201754/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629789683292861-2890366795-man1-7370-man-addrs-nmeta-new-8031",
+      "analyticsId": "8",
+      "title": "Шоу-Мастер",
+      "description": "ул. Щепкина, 4Б, Курск",
+      "address": "ул. Щепкина, 4Б, Курск",
+      "coordinates": [
+        36.175834,
+        51.725215
+      ],
+      "displayCoordinates": [
+        36.175834,
+        51.725215
+      ],
+      "bounds": [
+        [
+          36.1717285,
+          51.72266543
+        ],
+        [
+          36.1799395,
+          51.72776443
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=1034221853",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTAzNDIyMTg1Mw==",
+      "id": "1034221853",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__10202013",
+          "name": "Кинотеатр Щепкина",
+          "distance": "260 м",
+          "distanceValue": 264.996,
+          "coordinates": [
+            36.176792,
+            51.724014
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202370",
+          "name": "Дружининская улица",
+          "distance": "520 м",
+          "distanceValue": 519.868,
+          "coordinates": [
+            36.180139017,
+            51.722566225
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202012",
+          "name": "Улица Павлуновского",
+          "distance": "630 м",
+          "distanceValue": 630.748,
+          "coordinates": [
+            36.171809323,
+            51.722502436
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202371",
+          "name": "Чумаковская улица",
+          "distance": "640 м",
+          "distanceValue": 642.43,
+          "coordinates": [
+            36.17766067,
+            51.721487556
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202644",
+          "name": "Центральный рынок",
+          "distance": "790 м",
+          "distanceValue": 785.935,
+          "coordinates": [
+            36.184085054,
+            51.727353641
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 4,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1886119/2a00000169da6ddbb6953e07fb3b61558eb2/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1886119/2a00000169da6ddbb6953e07fb3b61558eb2/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1592431/2a00000170f7c105400e8df2b968feba02c4/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/374295/2a0000015b337caa1adabb80f56ed46daaf6/%s"
+          }
+        ]
+      },
+      "entrances": [
+        {
+          "coordinates": [
+            36.175597,
+            51.725982
+          ],
+          "azimuth": 60.2244333000889,
+          "tilt": 0
+        },
+        {
+          "coordinates": [
+            36.176137,
+            51.725411
+          ],
+          "azimuth": 60.224419853645,
+          "tilt": 0
+        },
+        {
+          "coordinates": [
+            36.176105,
+            51.725458
+          ],
+          "azimuth": 60.22462163107201,
+          "tilt": 0
+        },
+        {
+          "coordinates": [
+            36.176043,
+            51.725513
+          ],
+          "azimuth": 60.2244197784193,
+          "tilt": 0
+        }
+      ],
+      "routePoint": {
+        "context": "djF8MzYuMTc1NTk3LDUxLjcyNTk4MjszNi4xNzYxMzcsNTEuNzI1NDExOzM2LjE3NjEwNSw1MS43MjU0NTg7MzYuMTc2MDQzLDUxLjcyNTUxM3w,"
+      },
+      "panorama": {
+        "id": "1289543998_713797439_23_1592751201",
+        "direction": [
+          -110.3,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            36.1766586707,
+            51.7254036794
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1289543998_713797439_23_1592751201&size=500%2C240&azimuth=-110.3&tilt=10&api_key=maps&signature=uGt6wf8h3A76yQIxsU3b7sTB9bZGuI65IQ03hLqNKq4="
+      },
+      "shortTitle": "Шоу-Мастер",
+      "additionalAddress": "этаж 2",
+      "fullAddress": "Россия, Курск, улица Щепкина, 4Б",
+      "country": "Россия",
+      "postalCode": "305016",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 5,
+        "ratingValue": 4,
+        "reviewCount": 2
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184106894",
+          "name": "Звуковое и световое оборудование",
+          "class": "fallback services",
+          "seoname": "sound_and_lighting_equipment",
+          "pluralName": "Звуковое и световое оборудование"
+        },
+        {
+          "id": "184105910",
+          "name": "музыкальный магазин",
+          "class": "malls",
+          "seoname": "music_store",
+          "pluralName": "Музыкальные магазины"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (4712) 31-02-72",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "payment_method",
+          "value": [
+            {
+              "id": "cash",
+              "name": "наличными"
+            },
+            {
+              "id": "payment_card",
+              "name": "оплата картой"
+            }
+          ],
+          "name": "способ оплаты",
+          "type": "enum",
+          "important": false
+        }
+      ],
+      "featureGroups": [],
+      "businessProperties": {
+        "has_verified_owner": false,
+        "level": "1"
+      },
+      "seoname": "shou_master",
+      "geoId": 216997,
+      "compositeAddress": {
+        "locality": "Курск",
+        "street": "улица Щепкина",
+        "house": "4Б"
+      },
+      "workingTimeText": "ежедневно, 10:00–22:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 22:00",
+        "shortText": "До 22:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/club72699683"
+        }
+      ],
+      "urls": [
+        "http://шоумастер-курск.рф/"
+      ],
+      "references": [
+        {
+          "id": "4012000770",
+          "scope": "nyak"
+        }
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 22:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 22:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 22:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "8",
+          "property": [
+            {
+              "key": "value",
+              "value": "8"
+            },
+            {
+              "key": "value_5",
+              "value": "4"
+            }
+          ]
+        }
+      ],
+      "region": {
+        "id": 8,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10705,
+          8
+        ],
+        "seoname": "kursk",
+        "bounds": [
+          [
+            36.0713025,
+            51.63157578770792
+          ],
+          [
+            36.3139915,
+            51.82893078770792
+          ]
+        ],
+        "longitude": 36.192647,
+        "latitude": 51.730361,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Курск",
+          "dative": "Курску",
+          "directional": "",
+          "genitive": "Курска",
+          "instrumental": "Курском",
+          "locative": "",
+          "nominative": "Курск",
+          "preposition": "в",
+          "prepositional": "Курске"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Курск",
+          "type": "region",
+          "url": "https://yandex.ru/maps/8/kursk/",
+          "region": {
+            "center": [
+              36.192647,
+              51.730361
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/8/kursk/catalog/",
+          "region": {
+            "id": 8,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10705,
+              8
+            ],
+            "seoname": "kursk",
+            "bounds": [
+              [
+                36.0713025,
+                51.63157578770792
+              ],
+              [
+                36.3139915,
+                51.82893078770792
+              ]
+            ],
+            "longitude": 36.192647,
+            "latitude": 51.730361,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Курск",
+              "dative": "Курску",
+              "directional": "",
+              "genitive": "Курска",
+              "instrumental": "Курском",
+              "locative": "",
+              "nominative": "Курск",
+              "preposition": "в",
+              "prepositional": "Курске"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184106894",
+            "name": "Звуковое и световое оборудование",
+            "class": "fallback services",
+            "seoname": "sound_and_lighting_equipment",
+            "pluralName": "Звуковое и световое оборудование"
+          },
+          "name": "Звуковое и световое оборудование",
+          "type": "category",
+          "url": "https://yandex.ru/maps/8/kursk/category/sound_and_lighting_equipment/184106894/"
+        },
+        {
+          "name": "Шоу-Мастер",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/shou_master/1034221853/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629789683292861-2890366795-man1-7370-man-addrs-nmeta-new-8031",
+      "analyticsId": "9",
+      "title": "Аренда автокрана",
+      "description": "3-й Суворовский пер., 4, Курск",
+      "address": "3-й Суворовский пер., 4, Курск",
+      "coordinates": [
+        36.155205,
+        51.726752
+      ],
+      "displayCoordinates": [
+        36.155205,
+        51.726752
+      ],
+      "bounds": [
+        [
+          36.1511,
+          51.72420243
+        ],
+        [
+          36.15931,
+          51.72930143
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=201657536513",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MjAxNjU3NTM2NTEz",
+      "id": "201657536513",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__10202625",
+          "name": "4-й Суворовский переулок",
+          "distance": "57 м",
+          "distanceValue": 57.9997,
+          "coordinates": [
+            36.1556059,
+            51.7266006
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201868",
+          "name": "Улица Большевиков",
+          "distance": "380 м",
+          "distanceValue": 378.94,
+          "coordinates": [
+            36.159518831,
+            51.727351949
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543275281",
+          "name": "Зелёная улица",
+          "distance": "670 м",
+          "distanceValue": 674.049,
+          "coordinates": [
+            36.157097074,
+            51.729924682
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201968",
+          "name": "Аллея Подводников",
+          "distance": "1,3 км",
+          "distanceValue": 1276.08,
+          "coordinates": [
+            36.142846077,
+            51.728387195
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 12,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1618837/2a00000168af5cf2e80c93c2aec5037fda55/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1618837/2a00000168af5cf2e80c93c2aec5037fda55/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1042100/2a00000168af5ceec3640e8f81456f33f471/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1485972/2a000001688ac34419e6a4fd0479a4102cbc/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1439437/2a00000168af5ce47e7de2a5bcc157882399/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1627037/2a00000168af5cea1ea74f3c6ff126859244/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1622057/2a000001691a95f270cf26dc8fddc1fc2dd2/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1042100/2a000001691a9604504ccf8ea3a0fc1f575f/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1627037/2a00000168af5ce4bd52b23dbd8b4a68a02f/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1491998/2a00000167ff52f4314f08ca34a252b602b0/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1194602/2a00000168af5cef2a32bb63a7da8a78ee1e/%s"
+          }
+        ]
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "118341412192",
+            "uri": "ymapsbm1://org?oid=118341412192",
+            "logId": "118341412192",
+            "title": "Бетонный завод №4",
+            "rating": 4.4,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1871013/2a0000016d916cdf400eb2265c44cdc2c753/%s",
+            "categories": [],
+            "seoname": "betonny_zavod_4",
+            "coordinates": [
+              36.091253,
+              51.653057
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1289418744_713788782_23_1592724012",
+        "direction": [
+          -32.3,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            36.1556614096,
+            51.7263048763
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1289418744_713788782_23_1592724012&size=500%2C240&azimuth=-32.3&tilt=10&api_key=maps&signature=mAEinbxo9G5CVeKG52yDvQk76HyPX_rjn4CqiBsfwH4="
+      },
+      "shortTitle": "Кран46",
+      "fullAddress": "Россия, Курск, 3-й Суворовский переулок, 4",
+      "country": "Россия",
+      "postalCode": "305016",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 0,
+        "ratingValue": 0,
+        "reviewCount": 0
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184107551",
+          "name": "Аренда строительной и спецтехники",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "Аренда спецтехники"
+        },
+        {
+          "id": "184106610",
+          "name": "подъёмное оборудование",
+          "class": "fallback services",
+          "seoname": "lifting_equipment",
+          "pluralName": "Подъёмное оборудование"
+        },
+        {
+          "id": "184106622",
+          "name": "спецтехника и спецавтомобили",
+          "class": "fallback services",
+          "seoname": "special_equipment_special_vehicles",
+          "pluralName": "Спецтехника"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (904) 525-04-40",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "cranes",
+          "value": true,
+          "name": "подъёмные краны",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "repairs",
+          "value": true,
+          "name": "ремонт",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": false
+      },
+      "seoname": "arenda_avtokrana",
+      "geoId": 216997,
+      "compositeAddress": {
+        "locality": "Курск",
+        "street": "3-й Суворовский переулок",
+        "house": "4"
+      },
+      "workingTimeText": "ежедневно, круглосуточно",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 0,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 0,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Круглосуточно",
+        "shortText": "24 ч",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/crane046"
+        }
+      ],
+      "urls": [
+        "https://kran46.ru/"
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "24 ч",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "24 ч"
+            },
+            {
+              "key": "text",
+              "value": "Круглосуточно"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 63399835,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 8,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10705,
+          8
+        ],
+        "seoname": "kursk",
+        "bounds": [
+          [
+            36.0713025,
+            51.63157578770792
+          ],
+          [
+            36.3139915,
+            51.82893078770792
+          ]
+        ],
+        "longitude": 36.192647,
+        "latitude": 51.730361,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Курск",
+          "dative": "Курску",
+          "directional": "",
+          "genitive": "Курска",
+          "instrumental": "Курском",
+          "locative": "",
+          "nominative": "Курск",
+          "preposition": "в",
+          "prepositional": "Курске"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Курск",
+          "type": "region",
+          "url": "https://yandex.ru/maps/8/kursk/",
+          "region": {
+            "center": [
+              36.192647,
+              51.730361
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/8/kursk/catalog/",
+          "region": {
+            "id": 8,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10705,
+              8
+            ],
+            "seoname": "kursk",
+            "bounds": [
+              [
+                36.0713025,
+                51.63157578770792
+              ],
+              [
+                36.3139915,
+                51.82893078770792
+              ]
+            ],
+            "longitude": 36.192647,
+            "latitude": 51.730361,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Курск",
+              "dative": "Курску",
+              "directional": "",
+              "genitive": "Курска",
+              "instrumental": "Курском",
+              "locative": "",
+              "nominative": "Курск",
+              "preposition": "в",
+              "prepositional": "Курске"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184107551",
+            "name": "Аренда строительной и спецтехники",
+            "class": "fallback services",
+            "seoname": "construction_and_special_purpose_machines_rental",
+            "pluralName": "Аренда спецтехники"
+          },
+          "name": "Аренда спецтехники",
+          "type": "category",
+          "url": "https://yandex.ru/maps/8/kursk/category/construction_and_special_purpose_machines_rental/184107551/"
+        },
+        {
+          "name": "Аренда автокрана",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/arenda_avtokrana/201657536513/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629789683292861-2890366795-man1-7370-man-addrs-nmeta-new-8031",
+      "analyticsId": "10",
+      "title": "Аренда инструмента",
+      "description": "ул. Энгельса, 134А, Курск",
+      "address": "ул. Энгельса, 134А, Курск",
+      "coordinates": [
+        36.162069,
+        51.697153
+      ],
+      "displayCoordinates": [
+        36.162069,
+        51.697153
+      ],
+      "bounds": [
+        [
+          36.157964,
+          51.69460143
+        ],
+        [
+          36.166174,
+          51.69970443
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=225411895502",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MjI1NDExODk1NTAy",
+      "id": "225411895502",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__10201891",
+          "name": "Налоговая инспекция",
+          "distance": "500 м",
+          "distanceValue": 496.461,
+          "coordinates": [
+            36.1613487,
+            51.7001806
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201896",
+          "name": "Соловьиная роща",
+          "distance": "790 м",
+          "distanceValue": 791.909,
+          "coordinates": [
+            36.157433,
+            51.693649
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201890",
+          "name": "Улица Энгельса",
+          "distance": "1,1 км",
+          "distanceValue": 1134.11,
+          "coordinates": [
+            36.166353805,
+            51.704996057
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201887",
+          "name": "Сумская улица",
+          "distance": "1,2 км",
+          "distanceValue": 1170.82,
+          "coordinates": [
+            36.164014163,
+            51.705097913
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10202688",
+          "name": "Типография",
+          "distance": "1,2 км",
+          "distanceValue": 1173.47,
+          "coordinates": [
+            36.163126411,
+            51.705614748
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 4,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/953593/2a00000161bf5b01ab43b3d8a44d699affa9/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/953593/2a00000161bf5b01ab43b3d8a44d699affa9/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/933207/2a00000161bf61f9c559c13bb46f9f7e20e3/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/750075/2a00000161bf5aa94d074f108fd4222aa14a/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/963534/2a00000161bf5c41eeba6aaf0a352f8c0fa8/%s"
+          }
+        ]
+      },
+      "shortTitle": "Ремонт инструмента",
+      "additionalAddress": "ГВК 34",
+      "fullAddress": "Россия, Курск, улица Энгельса, 134А",
+      "country": "Россия",
+      "postalCode": "305023",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 0,
+        "ratingValue": 0,
+        "reviewCount": 0
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184107551",
+          "name": "Аренда строительной и спецтехники",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "Аренда спецтехники"
+        },
+        {
+          "id": "184108219",
+          "name": "пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "184107046",
+          "name": "ремонт электрооборудования",
+          "class": "fallback services",
+          "seoname": "electrical_equipment_repairs",
+          "pluralName": "Ремонт электрооборудования"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (4712) 55-11-13",
+          "type": "phone"
+        },
+        {
+          "number": "+7 (951) 317-53-17",
+          "type": "phone"
+        }
+      ],
+      "featureGroups": [],
+      "businessProperties": {
+        "has_verified_owner": false
+      },
+      "seoname": "arenda_instrumenta",
+      "geoId": 217293,
+      "compositeAddress": {
+        "locality": "Курск",
+        "street": "улица Энгельса",
+        "house": "134А"
+      },
+      "workingTimeText": "ежедневно, 10:00–16:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 16,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 16,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 16,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 16,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 16,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 16,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 16,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 16:00",
+        "shortText": "До 16:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/prokat_instrum"
+        }
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 16:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 16:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 16:00"
+            }
+          ]
+        }
+      ],
+      "underSeparator": true,
+      "region": {
+        "id": 8,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10705,
+          8
+        ],
+        "seoname": "kursk",
+        "bounds": [
+          [
+            36.0713025,
+            51.63157578770792
+          ],
+          [
+            36.3139915,
+            51.82893078770792
+          ]
+        ],
+        "longitude": 36.192647,
+        "latitude": 51.730361,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Курск",
+          "dative": "Курску",
+          "directional": "",
+          "genitive": "Курска",
+          "instrumental": "Курском",
+          "locative": "",
+          "nominative": "Курск",
+          "preposition": "в",
+          "prepositional": "Курске"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Курск",
+          "type": "region",
+          "url": "https://yandex.ru/maps/8/kursk/",
+          "region": {
+            "center": [
+              36.192647,
+              51.730361
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/8/kursk/catalog/",
+          "region": {
+            "id": 8,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10705,
+              8
+            ],
+            "seoname": "kursk",
+            "bounds": [
+              [
+                36.0713025,
+                51.63157578770792
+              ],
+              [
+                36.3139915,
+                51.82893078770792
+              ]
+            ],
+            "longitude": 36.192647,
+            "latitude": 51.730361,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Курск",
+              "dative": "Курску",
+              "directional": "",
+              "genitive": "Курска",
+              "instrumental": "Курском",
+              "locative": "",
+              "nominative": "Курск",
+              "preposition": "в",
+              "prepositional": "Курске"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184107551",
+            "name": "Аренда строительной и спецтехники",
+            "class": "fallback services",
+            "seoname": "construction_and_special_purpose_machines_rental",
+            "pluralName": "Аренда спецтехники"
+          },
+          "name": "Аренда спецтехники",
+          "type": "category",
+          "url": "https://yandex.ru/maps/8/kursk/category/construction_and_special_purpose_machines_rental/184107551/"
+        },
+        {
+          "name": "Аренда инструмента",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/arenda_instrumenta/225411895502/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629789683292861-2890366795-man1-7370-man-addrs-nmeta-new-8031",
+      "analyticsId": "11",
+      "title": "Инструмент 46",
+      "description": "ул. Павлуновского, 133/4, Курск",
+      "address": "ул. Павлуновского, 133/4, Курск",
+      "coordinates": [
+        36.156235,
+        51.738354
+      ],
+      "displayCoordinates": [
+        36.156235,
+        51.738354
+      ],
+      "bounds": [
+        [
+          36.15213,
+          51.73580493
+        ],
+        [
+          36.16034,
+          51.74090293
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=1120410398",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTEyMDQxMDM5OA==",
+      "id": "1120410398",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__10201858",
+          "name": "Аэродромная улица",
+          "distance": "580 м",
+          "distanceValue": 580.186,
+          "coordinates": [
+            36.152939557,
+            51.735427782
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201822",
+          "name": "Поликлиника № 5",
+          "distance": "590 м",
+          "distanceValue": 592.111,
+          "coordinates": [
+            36.152156826,
+            51.74254501
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201861",
+          "name": "Горгаз",
+          "distance": "630 м",
+          "distanceValue": 631.037,
+          "coordinates": [
+            36.151802594,
+            51.735220512
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10201817",
+          "name": "Завод Прибор",
+          "distance": "990 м",
+          "distanceValue": 987.349,
+          "coordinates": [
+            36.147453268,
+            51.742269926
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 10,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/247136/2a0000015b17cfdff53536285305220bb7a4/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/247136/2a0000015b17cfdff53536285305220bb7a4/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/223006/2a0000015b17cfd2d67e26cd159d16aa009d/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/247136/2a0000015b16798d37d77fee68fd560881ad/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/200322/2a0000015b167994522b6db0e42891607dc6/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/247136/2a0000015b17cfd9d3563b1ade2259a5a339/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/216588/2a0000015b16799b9ce5a610b6b935c3c0dd/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4464784/2a0000017766f7bb6fd9ef3a0999653c07e6/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1992662/2a0000016e15e99927f1dd38cfc6f0802465/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/374295/2a0000015b17cfccf80375cead9b581abef5/%s"
+          }
+        ]
+      },
+      "entrances": [
+        {
+          "coordinates": [
+            36.156199,
+            51.738354
+          ],
+          "azimuth": 248.36434326513512,
+          "tilt": 0
+        }
+      ],
+      "routePoint": {
+        "context": "djF8MzYuMTU2MTk5LDUxLjczODM1NHw,"
+      },
+      "panorama": {
+        "id": "1289421462_713673970_23_1593089101",
+        "direction": [
+          36.7,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            36.1561169368,
+            51.7382559955
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1289421462_713673970_23_1593089101&size=500%2C240&azimuth=36.7&tilt=10&api_key=maps&signature=mybLXOdNWZUZjCIrmpnY00W1uflFcgIAYwurap8vRGM="
+      },
+      "shortTitle": "Инструмент 46",
+      "fullAddress": "Россия, Курск, улица Павлуновского, 133/4",
+      "country": "Россия",
+      "postalCode": "305040",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 17,
+        "ratingValue": 2.5999999046325684,
+        "reviewCount": 7
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184107567",
+          "name": "Строительный инструмент",
+          "class": "hypermarket",
+          "seoname": "construction_tool",
+          "pluralName": "Строительные инструменты"
+        },
+        {
+          "id": "184107551",
+          "name": "аренда строительной и спецтехники",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "Аренда спецтехники"
+        },
+        {
+          "id": "184107569",
+          "name": "строительные леса",
+          "class": "fallback services",
+          "seoname": "scaffolding",
+          "pluralName": "Строительные леса"
+        },
+        {
+          "id": "184107571",
+          "name": "электро- и бензоинструмент",
+          "class": "hypermarket",
+          "seoname": "electric_and_gas_powered_tools",
+          "pluralName": "Электро- и бензоинструменты"
+        },
+        {
+          "id": "184107583",
+          "name": "алмазная резка",
+          "class": "fallback services",
+          "seoname": "diamond_cutting",
+          "pluralName": "Алмазная резка"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (910) 214-17-77",
+          "type": "phone"
+        },
+        {
+          "number": "+7 (4712) 74-50-34",
+          "type": "phone"
+        }
+      ],
+      "featureGroups": [],
+      "businessProperties": {
+        "has_verified_owner": false,
+        "geoproduct_poi_color": "#60A8F0",
+        "geoproduct_poi_label_color": "#428FDB"
+      },
+      "seoname": "instrument_46",
+      "geoId": 216997,
+      "compositeAddress": {
+        "locality": "Курск",
+        "street": "улица Павлуновского",
+        "house": "133/4"
+      },
+      "workingTimeText": "пн-пт 09:00–17:30; сб 09:00–15:00",
+      "workingTime": [
+        null,
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 17,
+              "minutes": 30
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 15,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 17:30",
+        "shortText": "До 17:30",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "urls": [
+        "http://www.instrument46.ru/"
+      ],
+      "references": [
+        {
+          "id": "4236377639",
+          "scope": "nyak"
+        }
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 17:30",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 17:30"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 17:30"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "5.2",
+          "property": [
+            {
+              "key": "value",
+              "value": "5.2"
+            },
+            {
+              "key": "value_5",
+              "value": "2.6"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 58022164,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "underSeparator": true,
+      "region": {
+        "id": 8,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10705,
+          8
+        ],
+        "seoname": "kursk",
+        "bounds": [
+          [
+            36.0713025,
+            51.63157578770792
+          ],
+          [
+            36.3139915,
+            51.82893078770792
+          ]
+        ],
+        "longitude": 36.192647,
+        "latitude": 51.730361,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Курск",
+          "dative": "Курску",
+          "directional": "",
+          "genitive": "Курска",
+          "instrumental": "Курском",
+          "locative": "",
+          "nominative": "Курск",
+          "preposition": "в",
+          "prepositional": "Курске"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Курск",
+          "type": "region",
+          "url": "https://yandex.ru/maps/8/kursk/",
+          "region": {
+            "center": [
+              36.192647,
+              51.730361
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/8/kursk/catalog/",
+          "region": {
+            "id": 8,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10705,
+              8
+            ],
+            "seoname": "kursk",
+            "bounds": [
+              [
+                36.0713025,
+                51.63157578770792
+              ],
+              [
+                36.3139915,
+                51.82893078770792
+              ]
+            ],
+            "longitude": 36.192647,
+            "latitude": 51.730361,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Курск",
+              "dative": "Курску",
+              "directional": "",
+              "genitive": "Курска",
+              "instrumental": "Курском",
+              "locative": "",
+              "nominative": "Курск",
+              "preposition": "в",
+              "prepositional": "Курске"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184107567",
+            "name": "Строительный инструмент",
+            "class": "hypermarket",
+            "seoname": "construction_tool",
+            "pluralName": "Строительные инструменты"
+          },
+          "name": "Строительные инструменты",
+          "type": "category",
+          "url": "https://yandex.ru/maps/8/kursk/category/construction_tool/184107567/"
+        },
+        {
+          "name": "Инструмент 46",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/instrument_46/1120410398/",
+          "currentPage": true
+        }
+      ]
+    }
+  ]
+}

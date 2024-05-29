@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/dispatcher",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Dispatcher\\Providers\\DispatcherServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Dispatcher\\": ""
+        }
+    }
+}

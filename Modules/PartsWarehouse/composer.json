@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/partswarehouse",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\PartsWarehouse\\Providers\\PartsWarehouseServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\PartsWarehouse\\": ""
+        }
+    }
+}

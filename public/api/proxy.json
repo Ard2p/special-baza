@@ -1,0 +1,427 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "API для партнеров TRANSBAZA.\n",
+    "version" : "1.0.0",
+    "title" : "TRANSBAZA API",
+    "contact" : {
+      "email" : "info@trans-baza.ru"
+    }
+  },
+  "tags" : [ {
+    "name" : "Авторизация"
+  }, {
+    "name" : "Справочники",
+    "description" : "Описание работы со справочниками системы."
+  }, {
+    "name" : "Техника",
+    "description" : "Описание работы техники"
+  } ],
+  "paths" : {
+    "/login" : {
+      "post" : {
+        "tags" : [ "Авторизация" ],
+        "summary" : "Получение Bearer токена",
+        "description" : "Получение Bearer токена.",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "in" : "body",
+          "name" : "auth",
+          "description" : "Тело авторизации",
+          "required" : true,
+          "schema" : {
+            "type" : "object",
+            "required" : [ "login password" ],
+            "properties" : {
+              "login" : {
+                "type" : "string"
+              },
+              "password" : {
+                "type" : "string"
+              }
+            }
+          }
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "OK",
+            "schema" : {
+              "$ref" : "#/definitions/Auth"
+            }
+          }
+        }
+      }
+    },
+    "/categories" : {
+      "get" : {
+        "tags" : [ "Справочники" ],
+        "summary" : "Получение типов техники",
+        "description" : "Возвращает все категории техники в системе.",
+        "responses" : {
+          "200" : {
+            "description" : "OK",
+            "schema" : {
+              "type" : "array",
+              "items" : {
+                "$ref" : "#/definitions/Category"
+              }
+            }
+          }
+        },
+        "security" : [ {
+          "Bearer" : [ ]
+        } ]
+      }
+    },
+    "/brands" : {
+      "get" : {
+        "tags" : [ "Справочники" ],
+        "summary" : "Получение брендов",
+        "description" : "Возвращает все бренды техники в системе.",
+        "responses" : {
+          "200" : {
+            "description" : "OK",
+            "schema" : {
+              "type" : "array",
+              "items" : {
+                "$ref" : "#/definitions/Brand"
+              }
+            }
+          }
+        },
+        "security" : [ {
+          "Bearer" : [ ]
+        } ]
+      }
+    },
+    "/regions" : {
+      "get" : {
+        "tags" : [ "Справочники" ],
+        "summary" : "Получение регионов",
+        "description" : "Возвращает все регионы системы.",
+        "responses" : {
+          "200" : {
+            "description" : "OK",
+            "schema" : {
+              "type" : "array",
+              "items" : {
+                "$ref" : "#/definitions/Region"
+              }
+            }
+          }
+        },
+        "security" : [ {
+          "Bearer" : [ ]
+        } ]
+      }
+    },
+    "/regions/{region_id}" : {
+      "get" : {
+        "tags" : [ "Справочники" ],
+        "summary" : "Получить регион по ID",
+        "description" : "Получение региона.",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "region_id",
+          "in" : "path",
+          "description" : "ID необходимого региона.",
+          "required" : true,
+          "type" : "integer",
+          "format" : "int64"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Данные региона",
+            "schema" : {
+              "$ref" : "#/definitions/Region"
+            }
+          },
+          "404" : {
+            "description" : "Регион не найден"
+          }
+        },
+        "security" : [ {
+          "Bearer" : [ ]
+        } ]
+      }
+    },
+    "/regions/{region_id}/cities" : {
+      "get" : {
+        "tags" : [ "Справочники" ],
+        "summary" : "Получить города в регионе",
+        "description" : "Получение данных городов.",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "region_id",
+          "in" : "path",
+          "description" : "ID необходимого региона.",
+          "required" : true,
+          "type" : "integer",
+          "format" : "int64"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Данные городов в регионе",
+            "schema" : {
+              "type" : "array",
+              "items" : {
+                "$ref" : "#/definitions/City"
+              }
+            }
+          },
+          "404" : {
+            "description" : "Регион не найден"
+          }
+        },
+        "security" : [ {
+          "Bearer" : [ ]
+        } ]
+      }
+    },
+    "/regions/{region_id}/cities/{city_id}" : {
+      "get" : {
+        "tags" : [ "Справочники" ],
+        "summary" : "Получить город в регионе по ID",
+        "description" : "Получение данных города.",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "region_id",
+          "in" : "path",
+          "description" : "ID необходимого региона.",
+          "required" : true,
+          "type" : "integer",
+          "format" : "int64"
+        }, {
+          "name" : "city_id",
+          "in" : "path",
+          "description" : "ID необходимого города.",
+          "required" : true,
+          "type" : "integer",
+          "format" : "int64"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Данные городов в регионе",
+            "schema" : {
+              "$ref" : "#/definitions/City"
+            }
+          },
+          "404" : {
+            "description" : "Регион не найден"
+          }
+        },
+        "security" : [ {
+          "Bearer" : [ ]
+        } ]
+      }
+    },
+    "/vehicles" : {
+      "get" : {
+        "tags" : [ "Техника" ],
+        "summary" : "Получение всех созданных единиц техники",
+        "produces" : [ "application/json" ],
+        "responses" : {
+          "200" : {
+            "description" : "Список техники",
+            "schema" : {
+              "type" : "array",
+              "items" : {
+                "$ref" : "#/definitions/Vehicle"
+              }
+            }
+          }
+        },
+        "security" : [ {
+          "Bearer" : [ ]
+        } ]
+      }
+    },
+    "/vehicles/{vehicle_id}" : {
+      "get" : {
+        "tags" : [ "Техника" ],
+        "summary" : "Получение техники",
+        "description" : "Получение данных техники",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "vehicle_id",
+          "in" : "path",
+          "description" : "ID техники",
+          "required" : true,
+          "type" : "integer",
+          "format" : "int64"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Успешно",
+            "schema" : {
+              "$ref" : "#/definitions/Vehicle"
+            }
+          },
+          "404" : {
+            "description" : "Техника не найдена"
+          }
+        },
+        "security" : [ {
+          "Bearer" : [ ]
+        } ]
+      }
+    },
+    "/vehicles/{vehicle_id}/create-order" : {
+      "get" : {
+        "tags" : [ "Техника" ],
+        "summary" : "Получение реферальной ссылки для заказа техники",
+        "description" : "переход к оформлению заказа",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "vehicle_id",
+          "in" : "path",
+          "description" : "ID техники",
+          "required" : true,
+          "type" : "integer",
+          "format" : "int64"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Ссылка для перехода к оформлению заказа",
+            "schema" : {
+              "$ref" : "#/definitions/Vehicle"
+            }
+          },
+          "404" : {
+            "description" : "Техника не найдена"
+          }
+        },
+        "security" : [ {
+          "Bearer" : [ ]
+        } ]
+      }
+    }
+  },
+  "securityDefinitions" : {
+    "Bearer" : {
+      "type" : "apiKey",
+      "name" : "Authorization",
+      "in" : "header"
+    }
+  },
+  "definitions" : {
+    "Vehicle" : {
+      "type" : "object",
+      "properties" : {
+        "region_id" : {
+          "type" : "integer"
+        },
+        "city_id" : {
+          "type" : "integer"
+        },
+        "category_id" : {
+          "type" : "integer"
+        },
+        "machine_type" : {
+          "type" : "string",
+          "enum" : [ "machine", "equipment" ]
+        },
+        "brand_id" : {
+          "type" : "integer"
+        },
+        "licence_plate" : {
+          "type" : "string",
+          "description" : "Гос номер техники. Уникален в пределах системы."
+        },
+        "shift_duration" : {
+          "type" : "integer",
+          "description" : "Длительность рабочей смены (в часах)"
+        },
+        "rent_price" : {
+          "type" : "integer",
+          "description" : "Стоимость аренды за час в копейках."
+        },
+        "shift_rent_price" : {
+          "type" : "integer",
+          "description" : "Стоимость аренды за смену в копейках."
+        },
+        "photo" : {
+          "type" : "array",
+          "items" : {
+            "type" : "string",
+            "description" : "Массив ссылок на фотографии техники."
+          }
+        },
+        "coordinates" : {
+          "type" : "string",
+          "description" : "Координаты Lat,Lng"
+        }
+      }
+    },
+    "Auth" : {
+      "type" : "object",
+      "properties" : {
+        "token" : {
+          "type" : "string"
+        },
+        "expires" : {
+          "description" : "Время жизни токена (сек.)",
+          "type" : "integer"
+        }
+      }
+    },
+    "Brand" : {
+      "type" : "object",
+      "properties" : {
+        "id" : {
+          "type" : "integer",
+          "format" : "int64"
+        },
+        "name" : {
+          "type" : "string"
+        }
+      }
+    },
+    "Region" : {
+      "type" : "object",
+      "properties" : {
+        "id" : {
+          "type" : "integer",
+          "format" : "int64"
+        },
+        "name" : {
+          "type" : "string"
+        }
+      }
+    },
+    "City" : {
+      "type" : "object",
+      "properties" : {
+        "id" : {
+          "type" : "integer",
+          "format" : "int64"
+        },
+        "name" : {
+          "type" : "string"
+        },
+        "region_id" : {
+          "type" : "integer",
+          "format" : "int64"
+        }
+      }
+    },
+    "Category" : {
+      "type" : "object",
+      "properties" : {
+        "id" : {
+          "type" : "integer",
+          "format" : "int64"
+        },
+        "name" : {
+          "type" : "string"
+        },
+        "type" : {
+          "type" : "string"
+        }
+      }
+    }
+  },
+  "schemes" : [ "https" ],
+  "host" : "virtserver.swaggerhub.com",
+  "basePath" : "/5TRAFE/PROXY/1.0.0"
+}

@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'add_bid'                   => 'Aggiungi una tariffa',
+    'address'                   => 'L\'indirizzo:',
+    'auction_over'              => 'Asta conclusa.',
+    'bid'                       => 'Vota',
+    'brand'                     => 'Marca:',
+    'cant_add_bidd'             => 'Potrai aggiungere la prossima offerta dopo che qualcuno supera la tua.',
+    'current_bid'               => 'Offerta corrente:',
+    'date_end'                  => 'Data di scadenza:',
+    'loading'                   => 'Caricamento in corso...',
+    'min'                       => 'Minimo',
+    'no_bid'                    => 'Nessuna scommessa!',
+    'region'                    => 'Provincia',
+    'start_sum'                 => 'Prezzo di partenza:',
+    'time'                      => 'Tempo',
+    'timer'                     => 'Fino alla fine dell\'asta a sinistra:',
+    'user'                      => 'Utente',
+    'users_online'              => 'Utenti online in questa asta:',
+    'validate_add_bid'          => 'Scommessa aggiunta.',
+    'validate_end_auction'      => 'Al momento non puoi piazzare una scommessa. Perché Asta conclusa.',
+    'validate_incorrect_sum'    => 'L\'importo è inferiore all\'importo consentito!',
+    'validate_last_bid'         => 'Al momento non puoi piazzare una scommessa. Perché la tua ultima offerta.',
+    'validate_no_auth'          => 'Non sei autorizzato a partecipare all\'asta',
+    'your_bid'                  => 'La tua offerta',
+];

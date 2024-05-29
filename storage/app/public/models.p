@@ -1,0 +1,223 @@
+ABG
+Ammann
+Atlas Copco
+Bauer
+Bomag
+CAMC
+Caterpillar
+Cifa
+Daewoo
+Dynapac
+Extec
+Goma
+HBM-Nobas
+Hamm
+Hanjin
+Hyundai
+Isuzu
+JCB
+Jekko
+Kanglim
+Kia
+Komatsu
+LGMG
+MAN
+Mecbo
+Mercedes-Benz
+Mitsubishi Fuso
+O&K
+Piccini
+Potain
+Putzmeister
+SDLG
+Scania
+Schwing
+Secmair
+Shacman (Shaanxi)
+Shantui
+Soilmec
+Straightline
+Sumitomo
+Terex
+Tesab
+Tigarbo
+Vermeer
+Vibromax
+Vogele
+Volvo
+XGMA
+Амкодор
+БРМЗ
+Башенные краны
+ГАЗ
+ДЗ
+Дорэлектромаш
+ЗИЛ
+КамАЗ
+МАЗ
+РДК
+Раскат
+СКГ
+Строймаш
+ТЗА
+Урал
+ЧТЗ
+Челябинец
+ASTRA
+Aichi
+Atmos
+BBURG
+BMS
+Banut
+Baukema
+Bell
+Blaw-Knox
+Breining
+Brinkmann
+Brokk
+Carmix
+Casagrande
+Case
+DAF
+Davino
+Demag
+Ding Sheng
+DitchWitch
+DongFeng
+Doosan
+Everdigm
+FAW
+FMGru
+Ferguson
+Fintec
+Fiori
+Ford
+Forward
+Furukawa
+Gayk
+Geax
+Graco
+Hania
+Hanlyma
+Hanta
+Hartl
+Hino
+Hitachi
+HongJian
+Hongda
+Howo
+Huatong
+IFA
+IHC Fundex
+IHI
+IVECO
+Ingersoll Rand
+JUNJIN
+JaNo
+John Deere
+Junttan
+KCP
+Kaeser
+Kawasaki
+Kenworth
+Kleemann
+Komplet
+Liebherr
+Linden
+Linnhoff & Henne
+LiuGong
+Lonking
+Lutong
+MDT (Mc DRILL TECHNOLOGY)
+Mack
+Madrog
+Marini
+Maximus
+McCloskey
+Merlo
+Metso Minerals
+Mitsuber
+Moelven
+Morooka
+Nigata
+Nissan
+Nordberg
+Orteco
+Peterbilt
+Rammax
+Renault
+Resta
+Ricomag
+Rubble Master
+SEM
+Sakai
+Sandvik
+Sany
+Sennebogen
+Sermac
+Soosan
+Starke
+Sunward
+Tamrock
+Tatra
+Tesmec
+Tiangong
+TopTec
+Universal HDD
+Wacker Neuson
+Wirtgen
+XCMG
+Yanmar
+Yutong
+Zemag
+Zoomlion
+АКМТ Коминвест
+Асф-К
+БЕЛАЗ
+Бецема
+Брянский арсенал
+ГЕММАШ
+ГС
+Галичанин
+Геомаш
+Горизонталь
+Дизель-ТС
+Дормаш
+Дормашина
+Евромаш
+ЗДС
+ЗИФ
+Ивановец
+Ивэнергомаш
+Ирмаш
+КРАЯН
+Клинцы
+КрАЗ
+Курган Дормаш
+МКГ
+МТЗ
+Магистраль-С
+МоАЗ
+Могилевский завод Строммашина
+ПТК
+Партнер
+Предприятие Дорожник
+РСМ (Русские Строительные Машины)
+РаМЗ
+САСТА
+СБТ
+Спецстроймаш
+Стройдормаш
+Строймаш-Центр
+Тайзер
+Техстроймаш
+УГБ
+УралСпецТранс
+Уралспецбурмаш
+ХТЗ
+ЧЕТРА
+ЧМЗ
+ЧСДМ
+Челпром
+Юргинец
+Ясиноватский Машиностроительный Завод

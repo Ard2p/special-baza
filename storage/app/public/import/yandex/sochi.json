@@ -1,0 +1,6199 @@
+{
+  "items": [
+    {
+      "type": "business",
+      "requestId": "1629790878201701-897515794-sas1-6138-sas-addrs-nmeta-new-8031",
+      "analyticsId": "1",
+      "title": "Аренда Инструмента 'Проф_Центр'",
+      "description": "ул. Следопытов, 3, Сочи, Россия",
+      "address": "ул. Следопытов, 3, Сочи, Россия",
+      "coordinates": [
+        39.766882,
+        43.579334
+      ],
+      "displayCoordinates": [
+        39.766882,
+        43.579334
+      ],
+      "bounds": [
+        [
+          39.7627765,
+          43.57634943
+        ],
+        [
+          39.7709875,
+          43.58231843
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=1675225878",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTY3NTIyNTg3OA==",
+      "id": "1675225878",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__9973563",
+          "name": "Школа",
+          "distance": "180 м",
+          "distanceValue": 178.681,
+          "coordinates": [
+            39.765887136,
+            43.580481794
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10210658",
+          "name": "Мост",
+          "distance": "580 м",
+          "distanceValue": 581.803,
+          "coordinates": [
+            39.763749817,
+            43.575934552
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10105814",
+          "name": "Лаура-Сочи",
+          "distance": "890 м",
+          "distanceValue": 887.071,
+          "coordinates": [
+            39.761365083,
+            43.58342819
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973566",
+          "name": "Источник",
+          "distance": "890 м",
+          "distanceValue": 894.918,
+          "coordinates": [
+            39.761169869,
+            43.573710939
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 73,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a00000176766619d2e8e5c89a31fd721401/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a00000176766619d2e8e5c89a31fd721401/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2068435/2a0000016e938a21418465f2b05c8fee7094/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4079181/2a000001767665cfcab03ff682b961ebc17c/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3766813/2a0000017676633642c90662eac12314dc0a/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1923723/2a00000176766328bd7dfa931ef8c8a93cb4/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2408669/2a000001767663e54c3a322cc44d86859cc0/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3923004/2a000001767663b04771910b9ac5882daa0d/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3629247/2a000001767665b9de86466bf04a9625561f/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3954938/2a0000017676666e208db26b09f20fb95429/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3926074/2a0000017676662f2f777a7a0c9284ca5842/%s"
+          }
+        ]
+      },
+      "entrances": [
+        {
+          "coordinates": [
+            39.767011,
+            43.579284
+          ],
+          "azimuth": 177.191437919765,
+          "tilt": 0
+        }
+      ],
+      "routePoint": {
+        "context": "djF8MzkuNzY3MDExLDQzLjU3OTI4NHwzOS43NjcwMzksNDMuNTc5MTE1LDE2NzUyMjU4NzhfMF8sMC45NDszOS43NjY2NjMsNDMuNTc5MTQsMTY3NTIyNTg3OF8xLDAuMDY,"
+      },
+      "panorama": {
+        "id": "1310958547_785922566_23_1597905838",
+        "direction": [
+          87.9,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            39.7665523209,
+            43.579325174
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1310958547_785922566_23_1597905838&size=500%2C240&azimuth=87.9&tilt=10&api_key=maps&signature=Mg1KCMZLMVnZEs3FPgaY_0EB5EzkjeYORw3aOIHUtDU="
+      },
+      "shortTitle": "Аренда Инструмента в Сочи",
+      "fullAddress": "Россия, Краснодарский край, Сочи, улица Следопытов, 3",
+      "country": "Россия",
+      "postalCode": "354002",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 73,
+        "ratingValue": 4.699999809265137,
+        "reviewCount": 41
+      },
+      "sources": [
+        {
+          "id": "better_stay_home_etc",
+          "name": "Яндекс",
+          "href": "https://yandex.ru/doma"
+        },
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184108219",
+          "name": "Пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "184107567",
+          "name": "строительный инструмент",
+          "class": "hypermarket",
+          "seoname": "construction_tool",
+          "pluralName": "Строительные инструменты"
+        },
+        {
+          "id": "184107551",
+          "name": "аренда строительной и спецтехники",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "Аренда спецтехники"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (862) 277-71-93",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "spare parts for construction tools",
+          "value": true,
+          "name": "запчасти для строительного инструмента",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "types_of_equipment",
+          "value": [
+            {
+              "id": "road_and_municipal_vehicles",
+              "name": "дорожная и коммунальная  техника"
+            },
+            {
+              "id": "tool_rental",
+              "name": "инструмент"
+            },
+            {
+              "id": "handling_equipment_1",
+              "name": "погрузочно-разгрузочное оборудование"
+            },
+            {
+              "id": "construction_equipment_rental",
+              "name": "строительное оборудование"
+            },
+            {
+              "id": "jigarrang",
+              "name": "буроямы"
+            }
+          ],
+          "name": "виды техники",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "cost_hiring",
+          "value": "120–5000 ₽",
+          "name": "стоимость проката",
+          "type": "text",
+          "important": false
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "car_park",
+          "value": true,
+          "name": "парковка",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "delivery",
+          "value": true,
+          "name": "доставка",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "cutting_tools",
+          "value": true,
+          "name": "режущий инструмент",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Инфраструктура отеля",
+          "featureIds": [
+            "car_park"
+          ]
+        },
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": true,
+        "closed_for_visitors": false
+      },
+      "seoname": "arenda_instrumenta_prof_tsentr_",
+      "geoId": 239,
+      "compositeAddress": {
+        "locality": "Сочи",
+        "street": "улица Следопытов",
+        "house": "3"
+      },
+      "workingTimeText": "ежедневно, 08:30–19:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 30
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 30
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 30
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 30
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 30
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 30
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 30
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 19:00",
+        "shortText": "До 19:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "ok",
+          "href": "https://ok.ru/group/56761486147673"
+        },
+        {
+          "type": "viber",
+          "href": "https://viber.click/89284451221"
+        },
+        {
+          "type": "whatsapp",
+          "href": "https://wa.me/89284451221"
+        },
+        {
+          "type": "instagram",
+          "href": "https://www.instagram.com/vse_naprokat_"
+        }
+      ],
+      "urls": [
+        "https://vse-naprokat.com/?utm_campaign=yandexmap_add&utm_content=link_website&utm_medium=yandexmap&utm_source=yandexmap&utm_term=transition"
+      ],
+      "advert": {
+        "title": "Аренда Инструмента в Сочи и Адлере",
+        "text": "Наш самый большой пункт Аренды инструмента в Сочи и Адлере! Огромный ассортимент",
+        "url": "https://vse-naprokat.com/?utm_source=yandexmap&utm_medium=text_add",
+        "disclaimers": [],
+        "photo": "https://avatars.mds.yandex.net/get-tycoon/1534598/2a000001725017c0a397d113c2b5399b6662/priority-headline-main-narrow",
+        "logo": "https://avatars.mds.yandex.net/get-tycoon/474201/2a000001788c6c7f7595ab9da7a056221305/priority-headline-logo",
+        "actionButtons": [
+          {
+            "type": "url",
+            "title": "Посмотреть каталог",
+            "value": "https://vse-naprokat.com/?utm_source=yandexmap&utm_medium=button"
+          }
+        ],
+        "highlighted": true,
+        "products": [
+          {
+            "title": "Аренда виброплит",
+            "img": "https://avatars.mds.yandex.net/get-tycoon/474201/2a000001788c7a36cee3afc3de69ace6702c/priority-product",
+            "price": "1 200 р.",
+            "url": "https://vse-naprokat.com/vibroplity-vibronogi?utm_source=yandexmap&utm_medium=hit_product"
+          },
+          {
+            "title": "Аренда отбойного молотка 14 шт",
+            "img": "https://avatars.mds.yandex.net/get-tycoon/479792/2a0000017250d980a46afc59fdbbeb6f45f7/priority-product",
+            "price": "800 р.",
+            "url": "https://vse-naprokat.com/otbojnye-molotki?utm_source=yandexmap&utm_medium=hit_product"
+          },
+          {
+            "title": "Аренда перфораторов - 12 шт",
+            "img": "https://avatars.mds.yandex.net/get-tycoon/474201/2a0000017250dffd91d4850fc398ff8f15c8/priority-product",
+            "price": "350 р.",
+            "url": "https://vse-naprokat.com/perforatory-otbojnye-molotki-s?utm_source=yandexmap&utm_medium=hit_product"
+          },
+          {
+            "title": "Аренда бензореза - 3 шт",
+            "img": "https://avatars.mds.yandex.net/get-tycoon/398420/2a0000017250f0247e96d6dac640e8c6f5ac/priority-product",
+            "price": "3 000 р.",
+            "url": "https://vse-naprokat.com/benzorezy-shvonarezchiki?utm_source=yandexmap&utm_medium=hit_product"
+          },
+          {
+            "title": "Аренда шлифмашины для бетона",
+            "img": "https://avatars.mds.yandex.net/get-tycoon/1654178/2a0000017250f272bce2506284682a1476f2/priority-product",
+            "price": "1 600 р.",
+            "url": "https://vse-naprokat.com/shlifmashiny-ushm-s?utm_source=yandexmap&utm_medium=hit_product"
+          },
+          {
+            "title": "Аренда генераторов",
+            "img": "https://avatars.mds.yandex.net/get-tycoon/925637/2a0000017250f7a1a301fb1883dbd20a67b6/priority-product",
+            "price": "1 000 р.",
+            "url": "https://vse-naprokat.com/benzogeneratory-s?utm_source=yandexmap&utm_medium=hit_product"
+          },
+          {
+            "title": "Аренда пылесосов - 7 шт",
+            "img": "https://avatars.mds.yandex.net/get-tycoon/479792/2a0000017250f90cc54bb4dacfd70dec4ae8/priority-product",
+            "price": "700 р.",
+            "url": "https://vse-naprokat.com/pylesosy-s?utm_source=yandexmap&utm_medium=hit_product"
+          },
+          {
+            "title": "Аренда вибраторов бетона 10 шт",
+            "img": "https://avatars.mds.yandex.net/get-tycoon/479792/2a0000017250fcb6cf1381a45ef30835a7a2/priority-product",
+            "price": "800 р.",
+            "url": "https://vse-naprokat.com/vibrooborudovanie-s?utm_source=yandexmap&utm_medium=hit_product"
+          },
+          {
+            "title": "Аренда шлифмашины для паркета",
+            "img": "https://avatars.mds.yandex.net/get-tycoon/474201/2a000001725105d8eccbf48a353def1ac8a7/priority-product",
+            "price": "1 400 р.",
+            "url": "https://vse-naprokat.com/shlifmashiny-ushm-s?utm_source=yandexmap&utm_medium=hit_product"
+          }
+        ]
+      },
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4504251/2a0000017743e8c1d178671689ba59171ae4/%s"
+        }
+      },
+      "references": [
+        {
+          "id": "4116535322",
+          "scope": "nyak"
+        },
+        {
+          "id": "/org/prokat-instrumenta",
+          "scope": "yandex_district"
+        },
+        {
+          "id": "1675225878",
+          "scope": "better_stay_home_etc"
+        }
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 19:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 19:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 19:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "9.4",
+          "property": [
+            {
+              "key": "value",
+              "value": "9.4"
+            },
+            {
+              "key": "value_5",
+              "value": "4.7"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 60092260,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "topObjects": {
+        "hasPhotos": true,
+        "rubric": "other",
+        "categories": [
+          {
+            "categoryName": "popular",
+            "categoryItems": [
+              {
+                "title": "Wacker Neuson МР-12",
+                "description": "За счет малых габаритов (ширина всего 35 см) подходит для  уплотнения грунтов в самых стесненных условиях. Также применяется при укладке холодного асфальта. При установке резиновой подошвы можно уплотнять брусчатку.",
+                "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2510998/2a00000172563e3fa4b6a2f0ca24891d1f20/medium",
+                "price": "1200",
+                "currency": "₽"
+              },
+              {
+                "title": "Красный Маяк ЭПК-1300 - 3м",
+                "description": "предназначен для уплотнения бетонного раствора в процессе заливки. 3 метра",
+                "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1424222/2a0000017256404eecac4ad703c924157d75/medium",
+                "price": "800",
+                "currency": "₽"
+              },
+              {
+                "title": "Аренда пылесоса Karcher NT35",
+                "description": "Профессиональный технический пылесос объемом 35 литров для сбора различного мусора ( строительная пыль, штукатурка, песок и т.д)",
+                "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2413620/2a00000172563f0950d37488411d18048326/medium",
+                "price": "700",
+                "currency": "₽"
+              },
+              {
+                "title": "Аренда отбойного молотка Makita 1213 25Дж",
+                "description": "Демонтаж бетонных и кирпичных стен, устройство дверных и оконных проемов",
+                "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2733259/2a00000172563c67fdb4c3136fa868e801d6/medium",
+                "price": "1100",
+                "currency": "₽"
+              },
+              {
+                "title": "Аренда генератора Makita EG 321 A 3.2 кВт",
+                "description": "Бензиновый генератор Makita EG 321 A предназначен для питания бытовой техники и электроинструмента.",
+                "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1424222/2a0000016e99b4c1af66c9ec1b7a3837c4ef/medium",
+                "price": "1000",
+                "currency": "₽"
+              }
+            ]
+          }
+        ],
+        "fullObjectsCount": 63
+      },
+      "histogramData": {
+        "wednesday": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.012561607481359788,
+          0.015569316314924806,
+          0.014507772020725389,
+          0.013812713256666245,
+          0.013142929356754707,
+          0.011904461013522053,
+          0.012207759383293316,
+          0.012018197902186275,
+          0.011626437507898395,
+          0.011537975483381778,
+          0.009970933906230254,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "sunday": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.006824213319853405,
+          0.01009730822696828,
+          0.010944016175913056,
+          0.011424238594717553,
+          0.011411601162643751,
+          0.01150006318716037,
+          0.011171489953241503,
+          0.010413244028813346,
+          0.010223682547706305,
+          0.010413244028813346,
+          0.009149500821433086,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "friday": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.01388853784910906,
+          0.017212182484519147,
+          0.015796790092253255,
+          0.013433590294452168,
+          0.013130291924680905,
+          0.013926450145330468,
+          0.01295336787564767,
+          0.013079742196385694,
+          0.013193479085049918,
+          0.01402754960192089,
+          0.011083027928724884,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "tuesday": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.014280298243396942,
+          0.017022621003412106,
+          0.015164918488563123,
+          0.013547327183116391,
+          0.012662706937950208,
+          0.012902818147352458,
+          0.012536332617212183,
+          0.012005560470112475,
+          0.012852268419057247,
+          0.013383040566156957,
+          0.010994565904208265,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "monday": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.012106659926702894,
+          0.015468216858334386,
+          0.014141286490585112,
+          0.011904461013522051,
+          0.011866548717300644,
+          0.012675344370024013,
+          0.011500063187160368,
+          0.010185770251484899,
+          0.011929735877669658,
+          0.013420952862378365,
+          0.01136105143434854,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "thursday": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.013825350688740046,
+          0.01756603058258562,
+          0.016087451029950715,
+          0.014242385947175532,
+          0.012662706937950208,
+          0.012018197902186275,
+          0.011209402249462909,
+          0.010640717806141793,
+          0.011740174396562619,
+          0.013939087577404273,
+          0.012902818147352457,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "saturday": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.008707190698849994,
+          0.012801718690762038,
+          0.013585239479337798,
+          0.013218753949197522,
+          0.012612157209654997,
+          0.011942373309743461,
+          0.011639074939972198,
+          0.011146215089093896,
+          0.010703904966510806,
+          0.010906103879691646,
+          0.008770377859219006,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "region": {
+        "id": 239,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10995,
+          239
+        ],
+        "seoname": "sochi",
+        "bounds": [
+          [
+            39.1261495,
+            43.261256799670214
+          ],
+          [
+            40.3199745,
+            43.908055799670215
+          ]
+        ],
+        "longitude": 39.723062,
+        "latitude": 43.585525,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Сочи",
+          "dative": "Сочи",
+          "directional": "",
+          "genitive": "Сочи",
+          "instrumental": "Сочи",
+          "locative": "",
+          "nominative": "Сочи",
+          "preposition": "в",
+          "prepositional": "Сочи"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Сочи",
+          "type": "region",
+          "url": "https://yandex.ru/maps/239/sochi/",
+          "region": {
+            "center": [
+              39.723062,
+              43.585525
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/239/sochi/catalog/",
+          "region": {
+            "id": 239,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10995,
+              239
+            ],
+            "seoname": "sochi",
+            "bounds": [
+              [
+                39.1261495,
+                43.261256799670214
+              ],
+              [
+                40.3199745,
+                43.908055799670215
+              ]
+            ],
+            "longitude": 39.723062,
+            "latitude": 43.585525,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Сочи",
+              "dative": "Сочи",
+              "directional": "",
+              "genitive": "Сочи",
+              "instrumental": "Сочи",
+              "locative": "",
+              "nominative": "Сочи",
+              "preposition": "в",
+              "prepositional": "Сочи"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184108219",
+            "name": "Пункт проката",
+            "class": "fallback services",
+            "seoname": "appliance_rental",
+            "pluralName": "Пункты проката"
+          },
+          "name": "Пункты проката",
+          "type": "category",
+          "url": "https://yandex.ru/maps/239/sochi/category/appliance_rental/184108219/"
+        },
+        {
+          "name": "Аренда Инструмента 'Проф_Центр'",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/arenda_instrumenta_prof_tsentr_/1675225878/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629790878201701-897515794-sas1-6138-sas-addrs-nmeta-new-8031",
+      "analyticsId": "2",
+      "title": "Прокат инструмента",
+      "description": "Виноградная ул., 4, Сочи, Россия",
+      "address": "Виноградная ул., 4, Сочи, Россия",
+      "coordinates": [
+        39.715424,
+        43.597352
+      ],
+      "displayCoordinates": [
+        39.715424,
+        43.597352
+      ],
+      "bounds": [
+        [
+          39.7113185,
+          43.59436793
+        ],
+        [
+          39.7195295,
+          43.60033593
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=237948524853",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MjM3OTQ4NTI0ODUz",
+      "id": "237948524853",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__9973415",
+          "name": "Санаторий Сочи",
+          "distance": "200 м",
+          "distanceValue": 198.135,
+          "coordinates": [
+            39.7148327,
+            43.5975469
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973416",
+          "name": "Санаторий Красмашевский",
+          "distance": "320 м",
+          "distanceValue": 319.366,
+          "coordinates": [
+            39.716171946,
+            43.599498175
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973347",
+          "name": "Отель Звёздный",
+          "distance": "1,1 км",
+          "distanceValue": 1127.82,
+          "coordinates": [
+            39.7210984,
+            43.5973051
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973479",
+          "name": "Экспресс-Лайн",
+          "distance": "1,3 км",
+          "distanceValue": 1262.61,
+          "coordinates": [
+            39.722701,
+            43.596001
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973505",
+          "name": "Улица Гагарина / Кинотеатр Родина",
+          "distance": "1,3 км",
+          "distanceValue": 1331.94,
+          "coordinates": [
+            39.722642451,
+            43.600900246
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 42,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1032555/2a0000016270411efac1e8508a03d8725740/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1032555/2a0000016270411efac1e8508a03d8725740/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1678797/2a00000167a1fd26ceb424d10af0983a2a02/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1045589/2a00000167a1fd27f8f6488e59cdada35175/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1426646/2a00000167a1fd3cafccc3d388981e19984c/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1045589/2a00000167a1fda2540175380ca12d9c9a2d/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1483503/2a00000167a1fd68562a238462123046a649/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1678797/2a00000167a1fd764b5d9c7e8e80b6c708b5/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1439437/2a00000167a1fd96d682cc2d843306bcff8a/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1363018/2a00000167a1fd90e13dc130c577e178f191/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1633071/2a00000167a1fd2e20dc7a9c7120f9ed2cfe/%s"
+          }
+        ]
+      },
+      "entrances": [
+        {
+          "coordinates": [
+            39.715424,
+            43.597352
+          ],
+          "azimuth": 322.696028772577,
+          "tilt": 0
+        }
+      ],
+      "routePoint": {
+        "context": "djF8MzkuNzE1NDI0LDQzLjU5NzM1Mnw,"
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "1259800685",
+            "uri": "ymapsbm1://org?oid=1259800685",
+            "logId": "1259800685",
+            "title": "Всеинструменты.ру",
+            "rating": 4.7,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4054675/2a00000174f188f8f8c979295fc131751101/%s",
+            "categories": [],
+            "seoname": "vseinstrumenty_ru",
+            "coordinates": [
+              39.729453,
+              43.5964
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1675225878",
+            "uri": "ymapsbm1://org?oid=1675225878",
+            "logId": "1675225878",
+            "title": "Аренда Инструмента в Сочи",
+            "rating": 4.7,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a00000176766619d2e8e5c89a31fd721401/%s",
+            "categories": [],
+            "seoname": "arenda_instrumenta_prof_tsentr_",
+            "coordinates": [
+              39.766882,
+              43.579334
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1308513146",
+            "uri": "ymapsbm1://org?oid=1308513146",
+            "logId": "1308513146",
+            "title": "5041 Store",
+            "rating": 4.4,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1938323/2a00000178ab682019312ae2d22cf47e3a3b/%s",
+            "categories": [],
+            "seoname": "5041_store",
+            "coordinates": [
+              39.724203,
+              43.588408
+            ],
+            "icon": "malls",
+            "poiColor": "#60A8F0",
+            "poiLabelColor": "#428FDB",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1008075694",
+            "uri": "ymapsbm1://org?oid=1008075694",
+            "logId": "1008075694",
+            "title": "Комфорт",
+            "rating": 4.6,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1363376/2a00000164ff003d98b3d5601a60f5a49ed9/%s",
+            "categories": [],
+            "seoname": "komfort",
+            "coordinates": [
+              39.731607,
+              43.600623
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "225586537293",
+            "uri": "ymapsbm1://org?oid=225586537293",
+            "logId": "225586537293",
+            "title": "Кувалда.ру",
+            "rating": 4,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4365916/2a0000017704ad8d20c2f78e3587ec735866/%s",
+            "categories": [],
+            "seoname": "kuvalda_ru",
+            "coordinates": [
+              39.759828,
+              43.588946
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1310654166_785777127_23_1597758594",
+        "direction": [
+          -13.7,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            39.7155263368,
+            43.5970471428
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1310654166_785777127_23_1597758594&size=500%2C240&azimuth=-13.7&tilt=10&api_key=maps&signature=lT_c-tEk2n6OJQzKuPr1_IM-5K0dTstWsE0QwepC1oQ="
+      },
+      "shortTitle": "Прокат инструмента",
+      "fullAddress": "Россия, Краснодарский край, Сочи, Виноградная улица, 4",
+      "country": "Россия",
+      "postalCode": "354008",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 8,
+        "ratingValue": 4.199999809265137,
+        "reviewCount": 5
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184108219",
+          "name": "Пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "9933541986",
+          "name": "прокат велосипедов",
+          "class": "bike rent",
+          "seoname": "bike_rental",
+          "pluralName": "Велопрокаты"
+        },
+        {
+          "id": "184107571",
+          "name": "электро- и бензоинструмент",
+          "class": "hypermarket",
+          "seoname": "electric_and_gas_powered_tools",
+          "pluralName": "Электро- и бензоинструменты"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (938) 443-45-55",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_strollers",
+              "name": "колясок"
+            },
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            },
+            {
+              "id": "rent_childrens_goods",
+              "name": "детских товаров"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "bicycle_trips",
+          "value": true,
+          "name": "велоэкскурсии",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "repair gasoline powered tools",
+          "value": true,
+          "name": "ремонт бензоинструмента",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "cost_hiring",
+          "value": "500–2000 ₽",
+          "name": "стоимость проката",
+          "type": "text",
+          "important": false
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "range_bike",
+          "value": [
+            {
+              "id": "tandem_bicycles",
+              "name": "тандем"
+            },
+            {
+              "id": "women_bikes",
+              "name": "женские"
+            },
+            {
+              "id": "mountain_bikes",
+              "name": "горные"
+            },
+            {
+              "id": "city_bikes",
+              "name": "городские"
+            },
+            {
+              "id": "children_bicycles",
+              "name": "детские"
+            },
+            {
+              "id": "electric_bicycles",
+              "name": "электровелосипеды"
+            }
+          ],
+          "name": "ассортимент велосипедов",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "price_rental",
+          "value": "400–700 ₽/час",
+          "name": "цена проката",
+          "type": "text",
+          "important": false
+        },
+        {
+          "id": "perforator repair",
+          "value": true,
+          "name": "ремонт перфораторов",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": false
+      },
+      "seoname": "prokat_instrumenta",
+      "geoId": 114801,
+      "compositeAddress": {
+        "locality": "Сочи",
+        "street": "Виноградная улица",
+        "house": "4"
+      },
+      "workingTimeText": "пн-пт 08:00–19:00; сб 09:00–18:00; вс 10:00–16:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 16,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 19:00",
+        "shortText": "До 19:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/tprokat23"
+        }
+      ],
+      "urls": [
+        "http://t-prokat23.ru/"
+      ],
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1489947/2a00000167a20071b11c2a9d260f4758ff06/%s"
+        }
+      },
+      "references": [
+        {
+          "id": "3985125440",
+          "scope": "nyak"
+        }
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 19:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 19:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 19:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "8.4",
+          "property": [
+            {
+              "key": "value",
+              "value": "8.4"
+            },
+            {
+              "key": "value_5",
+              "value": "4.2"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 60017281,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 239,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10995,
+          239
+        ],
+        "seoname": "sochi",
+        "bounds": [
+          [
+            39.1261495,
+            43.261256799670214
+          ],
+          [
+            40.3199745,
+            43.908055799670215
+          ]
+        ],
+        "longitude": 39.723062,
+        "latitude": 43.585525,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Сочи",
+          "dative": "Сочи",
+          "directional": "",
+          "genitive": "Сочи",
+          "instrumental": "Сочи",
+          "locative": "",
+          "nominative": "Сочи",
+          "preposition": "в",
+          "prepositional": "Сочи"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Сочи",
+          "type": "region",
+          "url": "https://yandex.ru/maps/239/sochi/",
+          "region": {
+            "center": [
+              39.723062,
+              43.585525
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/239/sochi/catalog/",
+          "region": {
+            "id": 239,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10995,
+              239
+            ],
+            "seoname": "sochi",
+            "bounds": [
+              [
+                39.1261495,
+                43.261256799670214
+              ],
+              [
+                40.3199745,
+                43.908055799670215
+              ]
+            ],
+            "longitude": 39.723062,
+            "latitude": 43.585525,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Сочи",
+              "dative": "Сочи",
+              "directional": "",
+              "genitive": "Сочи",
+              "instrumental": "Сочи",
+              "locative": "",
+              "nominative": "Сочи",
+              "preposition": "в",
+              "prepositional": "Сочи"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184108219",
+            "name": "Пункт проката",
+            "class": "fallback services",
+            "seoname": "appliance_rental",
+            "pluralName": "Пункты проката"
+          },
+          "name": "Пункты проката",
+          "type": "category",
+          "url": "https://yandex.ru/maps/239/sochi/category/appliance_rental/184108219/"
+        },
+        {
+          "name": "Прокат инструмента",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/prokat_instrumenta/237948524853/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629790878201701-897515794-sas1-6138-sas-addrs-nmeta-new-8031",
+      "analyticsId": "3",
+      "title": "РентБригадир",
+      "description": "Пригородная ул., 23, Сочи, Россия",
+      "address": "Пригородная ул., 23, Сочи, Россия",
+      "coordinates": [
+        39.743786,
+        43.605679
+      ],
+      "displayCoordinates": [
+        39.743786,
+        43.605679
+      ],
+      "bounds": [
+        [
+          39.739681,
+          43.60269593
+        ],
+        [
+          39.747891,
+          43.60866193
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=142192996411",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTQyMTkyOTk2NDEx",
+      "id": "142192996411",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__9981326",
+          "name": "Авторынок",
+          "distance": "700 м",
+          "distanceValue": 704.921,
+          "coordinates": [
+            39.740655497,
+            43.607041911
+          ],
+          "type": "common"
+        },
+        {
+          "id": "4329835940",
+          "name": "Гипермаркет Магнит Семейный",
+          "distance": "750 м",
+          "distanceValue": 750.033,
+          "coordinates": [
+            39.736291379,
+            43.605195288
+          ],
+          "type": "common"
+        },
+        {
+          "id": "3364060395",
+          "name": "Промышленный переулок",
+          "distance": "990 м",
+          "distanceValue": 985.412,
+          "coordinates": [
+            39.736351759,
+            43.603158373
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973365",
+          "name": "Улица Конституции СССР",
+          "distance": "1 км",
+          "distanceValue": 1014.62,
+          "coordinates": [
+            39.734691437,
+            43.606287271
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973659",
+          "name": "ТРЦ Моремолл",
+          "distance": "1,1 км",
+          "distanceValue": 1114.17,
+          "coordinates": [
+            39.73360749,
+            43.606193961
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 94,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1363018/2a0000016782d8c29ceda672a99b340e6232/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1363018/2a0000016782d8c29ceda672a99b340e6232/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1045589/2a0000016782d8e8eba9fb4d23a05fdafbe5/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1551063/2a0000016782d918cf0291b1c200e689f421/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1464052/2a0000016782f2d72f9c057787895f141f6e/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1551063/2a0000016782d9879458b8673109ace2a453/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1047383/2a0000016782f2b5febb92196e7b127aca08/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1429587/2a0000016782dbcded5c53cc558351fef5c6/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1551063/2a0000016782dc0c0aa2755d254e8a270bf9/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/932730/2a0000016782f3457007393fd55cd9f1d493/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/947364/2a0000016782dc28de85d762bd6a520fe4ce/%s"
+          }
+        ]
+      },
+      "entrances": [],
+      "routePoint": {
+        "context": "djF8fDM5Ljc0MzU3OSw0My42MDU2NDQsMTQyMTkyOTk2NDExXzBfLDE,"
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "1675225878",
+            "uri": "ymapsbm1://org?oid=1675225878",
+            "logId": "1675225878",
+            "title": "Аренда Инструмента в Сочи",
+            "rating": 4.7,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a00000176766619d2e8e5c89a31fd721401/%s",
+            "categories": [],
+            "seoname": "arenda_instrumenta_prof_tsentr_",
+            "coordinates": [
+              39.766882,
+              43.579334
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1308513146",
+            "uri": "ymapsbm1://org?oid=1308513146",
+            "logId": "1308513146",
+            "title": "5041 Store",
+            "rating": 4.4,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1938323/2a00000178ab682019312ae2d22cf47e3a3b/%s",
+            "categories": [],
+            "seoname": "5041_store",
+            "coordinates": [
+              39.724203,
+              43.588408
+            ],
+            "icon": "malls",
+            "poiColor": "#60A8F0",
+            "poiLabelColor": "#428FDB",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "144254734213",
+            "uri": "ymapsbm1://org?oid=144254734213",
+            "logId": "144254734213",
+            "title": "Motorentclub",
+            "rating": 5,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4441482/2a0000017903a70f4c0f9d6e3b0a02017bb8/%s",
+            "categories": [],
+            "seoname": "motorentclub",
+            "coordinates": [
+              39.8205,
+              43.534887
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "57371006764",
+            "uri": "ymapsbm1://org?oid=57371006764",
+            "logId": "57371006764",
+            "title": "El-Motopark",
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/5234013/2a0000017b2a4cbebd51d712f18421ce0061/%s",
+            "categories": [],
+            "seoname": "el_motopark",
+            "coordinates": [
+              39.816655,
+              43.533203
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "68643014910",
+            "uri": "ymapsbm1://org?oid=68643014910",
+            "logId": "68643014910",
+            "title": "VeloDraft",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/2755030/2a0000017394f12746b9033e1866b0ae1600/%s",
+            "categories": [],
+            "seoname": "velodraft",
+            "coordinates": [
+              39.895839,
+              43.4695
+            ],
+            "icon": "bike rent",
+            "poiColor": "#9C89FA",
+            "poiLabelColor": "#8477E5",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1310822368_785707245_23_1597996601",
+        "direction": [
+          20.9,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            39.7437235316,
+            43.6055605038
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1310822368_785707245_23_1597996601&size=500%2C240&azimuth=20.9&tilt=10&api_key=maps&signature=v6eUJYSXc0mNBK3iGQ_V9wLeZ_2p2cXN0lkjQge6_d8="
+      },
+      "shortTitle": "РентБригадир",
+      "fullAddress": "Россия, Краснодарский край, Сочи, Пригородная улица, 23",
+      "country": "Россия",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 17,
+        "ratingValue": 4.300000190734863,
+        "reviewCount": 10
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184108219",
+          "name": "Пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "184107551",
+          "name": "аренда строительной и спецтехники",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "Аренда спецтехники"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (862) 225-71-84",
+          "type": "phone"
+        },
+        {
+          "number": "+7 (938) 438-87-58",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_motorcycles",
+              "name": "мототехники"
+            },
+            {
+              "id": "rent_segway",
+              "name": "сигвеев"
+            },
+            {
+              "id": "rent_tourist_equipment",
+              "name": "туристического снаряжения"
+            },
+            {
+              "id": "rent_home_appliances",
+              "name": "бытовой техники"
+            },
+            {
+              "id": "rent_sports_equipment",
+              "name": "спортивного инвентаря"
+            },
+            {
+              "id": "rent_strollers",
+              "name": "колясок"
+            },
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            },
+            {
+              "id": "rent_childrens_goods",
+              "name": "детских товаров"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "types_of_equipment",
+          "value": [
+            {
+              "id": "diamond_drilling_rigs",
+              "name": "алмазные установки"
+            },
+            {
+              "id": "tool_rental",
+              "name": "инструмент"
+            },
+            {
+              "id": "construction_equipment_rental",
+              "name": "строительное оборудование"
+            }
+          ],
+          "name": "виды техники",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "car_park",
+          "value": true,
+          "name": "парковка",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Инфраструктура отеля",
+          "featureIds": [
+            "car_park"
+          ]
+        },
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": false,
+        "closed_for_quarantine": false,
+        "closed_for_visitors": false
+      },
+      "seoname": "rentbrigadir",
+      "geoId": 114801,
+      "compositeAddress": {
+        "locality": "Сочи",
+        "street": "Пригородная улица",
+        "house": "23"
+      },
+      "workingTimeText": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 20:00",
+        "shortText": "До 20:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/id480605772"
+        },
+        {
+          "type": "instagram",
+          "href": "https://www.instagram.com/rentbrigadir_sochi/"
+        }
+      ],
+      "urls": [
+        "https://brigadirprokat23.ru/"
+      ],
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1532977/2a000001678301dc4cd483c605c2571f67ed/%s"
+        }
+      },
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 20:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 20:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 20:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "8.6",
+          "property": [
+            {
+              "key": "value",
+              "value": "8.6"
+            },
+            {
+              "key": "value_5",
+              "value": "4.3"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 58488298,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 239,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10995,
+          239
+        ],
+        "seoname": "sochi",
+        "bounds": [
+          [
+            39.1261495,
+            43.261256799670214
+          ],
+          [
+            40.3199745,
+            43.908055799670215
+          ]
+        ],
+        "longitude": 39.723062,
+        "latitude": 43.585525,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Сочи",
+          "dative": "Сочи",
+          "directional": "",
+          "genitive": "Сочи",
+          "instrumental": "Сочи",
+          "locative": "",
+          "nominative": "Сочи",
+          "preposition": "в",
+          "prepositional": "Сочи"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Сочи",
+          "type": "region",
+          "url": "https://yandex.ru/maps/239/sochi/",
+          "region": {
+            "center": [
+              39.723062,
+              43.585525
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/239/sochi/catalog/",
+          "region": {
+            "id": 239,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10995,
+              239
+            ],
+            "seoname": "sochi",
+            "bounds": [
+              [
+                39.1261495,
+                43.261256799670214
+              ],
+              [
+                40.3199745,
+                43.908055799670215
+              ]
+            ],
+            "longitude": 39.723062,
+            "latitude": 43.585525,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Сочи",
+              "dative": "Сочи",
+              "directional": "",
+              "genitive": "Сочи",
+              "instrumental": "Сочи",
+              "locative": "",
+              "nominative": "Сочи",
+              "preposition": "в",
+              "prepositional": "Сочи"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184108219",
+            "name": "Пункт проката",
+            "class": "fallback services",
+            "seoname": "appliance_rental",
+            "pluralName": "Пункты проката"
+          },
+          "name": "Пункты проката",
+          "type": "category",
+          "url": "https://yandex.ru/maps/239/sochi/category/appliance_rental/184108219/"
+        },
+        {
+          "name": "РентБригадир",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/rentbrigadir/142192996411/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629790878201701-897515794-sas1-6138-sas-addrs-nmeta-new-8031",
+      "analyticsId": "4",
+      "title": "Уровень",
+      "description": "Россия, Краснодарский край, городской округ Сочи, Хостинский район, улица 20 Горнострелковой дивизии, 16",
+      "address": "Россия, Краснодарский край, городской округ Сочи, Хостинский район, улица 20 Горнострелковой дивизии, 16",
+      "coordinates": [
+        39.75547,
+        43.56892
+      ],
+      "displayCoordinates": [
+        39.75547,
+        43.56892
+      ],
+      "bounds": [
+        [
+          39.751365,
+          43.56593493
+        ],
+        [
+          39.759575,
+          43.57190493
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=1699956675",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTY5OTk1NjY3NQ==",
+      "id": "1699956675",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__9973568",
+          "name": "Раздольное",
+          "distance": "15 м",
+          "distanceValue": 15.4406,
+          "coordinates": [
+            39.755525328,
+            43.569053025
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973379",
+          "name": "Школа № 9",
+          "distance": "620 м",
+          "distanceValue": 617.176,
+          "coordinates": [
+            39.754478549,
+            43.565713645
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973359",
+          "name": "Стадион",
+          "distance": "760 м",
+          "distanceValue": 761.717,
+          "coordinates": [
+            39.749578715,
+            43.565178865
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9980830",
+          "name": "По требованию",
+          "distance": "1,2 км",
+          "distanceValue": 1239.15,
+          "coordinates": [
+            39.749491867,
+            43.567972208
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973427",
+          "name": "Детские ясли / Милиция",
+          "distance": "1,4 км",
+          "distanceValue": 1393.91,
+          "coordinates": [
+            39.760177856,
+            43.565083968
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 24,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4012790/2a000001773ebbc1b88e1a3d03512cf0a4d4/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4012790/2a000001773ebbc1b88e1a3d03512cf0a4d4/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4012648/2a0000017759f53a585f01b55f1b3dd9c258/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1594075/2a0000016c0a9954bd5b2c978240b1b8c566/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2366463/2a00000173e0e0f19fedd4daf0145ad65fbe/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2425845/2a00000173e0e0a8414413bda16c2635dca9/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3592340/2a0000017aaf897f998e8fe6a39b4a023a24/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4439632/2a0000017aae9ed7a69d3d211b8275518130/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4398559/2a0000017aae9c2f4c2a3f9427d2f536a950/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4504251/2a0000017aae9bc6e0d4e53d74c037ddcf42/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4365916/2a0000017aae9c706d2b432926b9142863f5/%s"
+          }
+        ]
+      },
+      "entrances": [
+        {
+          "coordinates": [
+            39.755466,
+            43.568922
+          ],
+          "azimuth": 312.756333490948,
+          "tilt": 0
+        }
+      ],
+      "routePoint": {
+        "context": "djF8MzkuNzU1NDY2LDQzLjU2ODkyMnwzOS43NTU1NTQsNDMuNTY5MTYxLDE2OTk5NTY2NzVfMF8sMC45OzM5Ljc1NTAwNSw0My41Njg3MTEsMTY5OTk1NjY3NV8xLDAuMQ,,"
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "1675225878",
+            "uri": "ymapsbm1://org?oid=1675225878",
+            "logId": "1675225878",
+            "title": "Аренда Инструмента в Сочи",
+            "rating": 4.7,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a00000176766619d2e8e5c89a31fd721401/%s",
+            "categories": [],
+            "seoname": "arenda_instrumenta_prof_tsentr_",
+            "coordinates": [
+              39.766882,
+              43.579334
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1008075694",
+            "uri": "ymapsbm1://org?oid=1008075694",
+            "logId": "1008075694",
+            "title": "Комфорт",
+            "rating": 4.6,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1363376/2a00000164ff003d98b3d5601a60f5a49ed9/%s",
+            "categories": [],
+            "seoname": "komfort",
+            "coordinates": [
+              39.731607,
+              43.600623
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "203879136531",
+            "uri": "ymapsbm1://org?oid=203879136531",
+            "logId": "203879136531",
+            "title": "Торговый Дом Хабез-гипс Сочи",
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/5254653/2a0000017b5dbe5286eaf6c95b061d715acd/%s",
+            "categories": [],
+            "seoname": "torgovy_dom_khabez_gips_sochi",
+            "coordinates": [
+              39.730897,
+              43.607282
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1057268572",
+            "uri": "ymapsbm1://org?oid=1057268572",
+            "logId": "1057268572",
+            "title": "Каньон",
+            "rating": 4.9,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1514203/2a000001687955a4fc8974682285ccb9fa06/%s",
+            "categories": [],
+            "seoname": "kanyon",
+            "coordinates": [
+              39.671611,
+              43.662494
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "144254734213",
+            "uri": "ymapsbm1://org?oid=144254734213",
+            "logId": "144254734213",
+            "title": "Motorentclub",
+            "rating": 5,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4441482/2a0000017903a70f4c0f9d6e3b0a02017bb8/%s",
+            "categories": [],
+            "seoname": "motorentclub",
+            "coordinates": [
+              39.8205,
+              43.534887
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1310892231_786006469_23_1597836321",
+        "direction": [
+          172,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            39.7554352357,
+            43.5690990035
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1310892231_786006469_23_1597836321&size=500%2C240&azimuth=172&tilt=10&api_key=maps&signature=WAC2nAqznX4uqTk1Jz7x38tNNboA1K2AruZqeSjz4E4="
+      },
+      "shortTitle": "Уровень",
+      "additionalAddress": "этаж 2",
+      "fullAddress": "Россия, Краснодарский край, городской округ Сочи, Хостинский район, улица 20 Горнострелковой дивизии, 16",
+      "country": "Россия",
+      "postalCode": "354004",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 34,
+        "ratingValue": 4.400000095367432,
+        "reviewCount": 13
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184107753",
+          "name": "Строительный магазин",
+          "class": "hypermarket",
+          "seoname": "building_supplies_store",
+          "pluralName": "Строительные магазины"
+        },
+        {
+          "id": "184108219",
+          "name": "пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "184107046",
+          "name": "ремонт электрооборудования",
+          "class": "fallback services",
+          "seoname": "electrical_equipment_repairs",
+          "pluralName": "Ремонт электрооборудования"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (988) 233-44-52",
+          "type": "phone"
+        },
+        {
+          "number": "+7 (988) 504-51-05",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "car_park",
+          "value": true,
+          "name": "парковка",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "repair_of_power_tools",
+          "value": true,
+          "name": "ремонт электроинструмента",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "promotions",
+          "value": [
+            {
+              "id": "discounts",
+              "name": "скидки"
+            },
+            {
+              "id": "promotions",
+              "name": "акции"
+            },
+            {
+              "id": "special_offers",
+              "name": "спецпредложения"
+            },
+            {
+              "id": "bonuses",
+              "name": "бонусы"
+            },
+            {
+              "id": "gifts",
+              "name": "подарки"
+            }
+          ],
+          "name": "акции",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "pickup",
+          "value": true,
+          "name": "самовывоз",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "tool_repair",
+          "value": [
+            {
+              "id": "repair_grinders",
+              "name": "ремонт болгарки"
+            },
+            {
+              "id": "screwdriver_repair",
+              "name": "ремонт шуруповерта"
+            },
+            {
+              "id": "repair_of_drill",
+              "name": "ремонт дрели"
+            },
+            {
+              "id": "repair_of_trimer",
+              "name": "ремонт тримера"
+            },
+            {
+              "id": "chainsaw_repair",
+              "name": "ремонт бензопилы"
+            },
+            {
+              "id": "repair_of_electric_saws",
+              "name": "ремонт электропилы"
+            },
+            {
+              "id": "jigsaw_repair",
+              "name": "ремонт лобзиков"
+            },
+            {
+              "id": "brushcutter_repair",
+              "name": "ремонт бензокосы"
+            },
+            {
+              "id": "electric_mower_repair",
+              "name": "ремонт электрокосы"
+            },
+            {
+              "id": "gas_sprayer_repair_",
+              "name": "ремонт бензоопрыскивателя"
+            },
+            {
+              "id": "jackhammer_repair_",
+              "name": "ремонт отбойного молотка"
+            },
+            {
+              "id": "rotary_hammer_repair_",
+              "name": "ремонт перфоратора"
+            },
+            {
+              "id": "angle_grinder_repair_",
+              "name": "ремонт УШМ"
+            },
+            {
+              "id": "welding_equipment_repair",
+              "name": "ремонт сварочного оборудования"
+            },
+            {
+              "id": "repair_of_blowers",
+              "name": "ремонт воздуходувок"
+            }
+          ],
+          "name": "ремонт инструмента",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "guarantee",
+          "value": true,
+          "name": "гарантия",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "tool_brand",
+          "value": [
+            {
+              "id": "black_and_decker",
+              "name": "Black and Decker"
+            },
+            {
+              "id": "bosch_tool",
+              "name": "Bosch"
+            },
+            {
+              "id": "dewalt",
+              "name": "DeWALT"
+            },
+            {
+              "id": "hitachi_tool",
+              "name": "Hitachi"
+            },
+            {
+              "id": "husqvarna_tool",
+              "name": "Husqvarna"
+            },
+            {
+              "id": "makita_tool",
+              "name": "Makita"
+            },
+            {
+              "id": "metabo_tool",
+              "name": "Metabo"
+            },
+            {
+              "id": "stihl_tool",
+              "name": "Stihl"
+            },
+            {
+              "id": "zubr_tool_",
+              "name": "Зубр"
+            },
+            {
+              "id": "karcher_tool",
+              "name": "Kärcher"
+            },
+            {
+              "id": "fubag_tool",
+              "name": "FUBAG"
+            },
+            {
+              "id": "interskol_tool",
+              "name": "ИНТЕРСКОЛ"
+            },
+            {
+              "id": "elitech_tool",
+              "name": "ELITECH"
+            },
+            {
+              "id": "felisatti_tool",
+              "name": "FELISATTI"
+            },
+            {
+              "id": "champion_tool",
+              "name": "CHAMPION"
+            },
+            {
+              "id": "vihr_tool",
+              "name": "Вихрь"
+            },
+            {
+              "id": "resanta_tool",
+              "name": "Ресанта"
+            },
+            {
+              "id": "kapro_tool",
+              "name": "KAPRO"
+            }
+          ],
+          "name": "марка инструмента",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "gift_certificate",
+          "value": true,
+          "name": "подарочный сертификат",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "goods delivery",
+          "value": true,
+          "name": "доставка товара",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Инфраструктура отеля",
+          "featureIds": [
+            "car_park"
+          ]
+        },
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": true,
+        "geoproduct_poi_color": "#ABAEB3",
+        "closed_for_quarantine": false,
+        "closed_for_visitors": false,
+        "geoproduct_poi_label_color": "#7A7F85"
+      },
+      "seoname": "uroven",
+      "geoId": 239,
+      "compositeAddress": {
+        "street": "улица 20 Горнострелковой дивизии",
+        "house": "16"
+      },
+      "workingTimeText": "пн-пт 09:00–18:00; сб,вс 09:00–17:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 18:00",
+        "shortText": "До 18:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "whatsapp",
+          "href": "https://wa.me/79885045105"
+        },
+        {
+          "type": "instagram",
+          "href": "https://www.instagram.com/magazinuroven"
+        }
+      ],
+      "urls": [
+        "http://магазин-уровень.рф/"
+      ],
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4797538/2a0000017aae815af65cfd040a77bfc47c18/%s"
+        }
+      },
+      "references": [
+        {
+          "id": "4199960133",
+          "scope": "nyak"
+        }
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 18:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 18:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 18:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "8.8",
+          "property": [
+            {
+              "key": "value",
+              "value": "8.8"
+            },
+            {
+              "key": "value_5",
+              "value": "4.4"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 73713751,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "posts": {
+        "count": 1,
+        "items": []
+      },
+      "region": {
+        "id": 239,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10995,
+          239
+        ],
+        "seoname": "sochi",
+        "bounds": [
+          [
+            39.1261495,
+            43.261256799670214
+          ],
+          [
+            40.3199745,
+            43.908055799670215
+          ]
+        ],
+        "longitude": 39.723062,
+        "latitude": 43.585525,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Сочи",
+          "dative": "Сочи",
+          "directional": "",
+          "genitive": "Сочи",
+          "instrumental": "Сочи",
+          "locative": "",
+          "nominative": "Сочи",
+          "preposition": "в",
+          "prepositional": "Сочи"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Сочи",
+          "type": "region",
+          "url": "https://yandex.ru/maps/239/sochi/",
+          "region": {
+            "center": [
+              39.723062,
+              43.585525
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/239/sochi/catalog/",
+          "region": {
+            "id": 239,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10995,
+              239
+            ],
+            "seoname": "sochi",
+            "bounds": [
+              [
+                39.1261495,
+                43.261256799670214
+              ],
+              [
+                40.3199745,
+                43.908055799670215
+              ]
+            ],
+            "longitude": 39.723062,
+            "latitude": 43.585525,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Сочи",
+              "dative": "Сочи",
+              "directional": "",
+              "genitive": "Сочи",
+              "instrumental": "Сочи",
+              "locative": "",
+              "nominative": "Сочи",
+              "preposition": "в",
+              "prepositional": "Сочи"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184107753",
+            "name": "Строительный магазин",
+            "class": "hypermarket",
+            "seoname": "building_supplies_store",
+            "pluralName": "Строительные магазины"
+          },
+          "name": "Строительные магазины",
+          "type": "category",
+          "url": "https://yandex.ru/maps/239/sochi/category/building_supplies_store/184107753/"
+        },
+        {
+          "name": "Уровень",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/uroven/1699956675/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629790878201701-897515794-sas1-6138-sas-addrs-nmeta-new-8031",
+      "analyticsId": "5",
+      "title": "Прокат инструмента",
+      "description": "ул. Гагарина, 63А, Сочи, Россия",
+      "address": "ул. Гагарина, 63А, Сочи, Россия",
+      "coordinates": [
+        39.728703,
+        43.609341
+      ],
+      "displayCoordinates": [
+        39.728703,
+        43.609341
+      ],
+      "bounds": [
+        [
+          39.724598,
+          43.60635793
+        ],
+        [
+          39.732808,
+          43.61232393
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=226390042152",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MjI2MzkwMDQyMTUy",
+      "id": "226390042152",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__9980763",
+          "name": "Заводская",
+          "distance": "150 м",
+          "distanceValue": 148.84,
+          "coordinates": [
+            39.728242328,
+            43.61039219
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973367",
+          "name": "Торговый дом Бегемот",
+          "distance": "270 м",
+          "distanceValue": 273.485,
+          "coordinates": [
+            39.730537869,
+            43.6095461
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973344",
+          "name": "Хлебозавод",
+          "distance": "340 м",
+          "distanceValue": 337.285,
+          "coordinates": [
+            39.726902805,
+            43.60761236
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973501",
+          "name": "Мясокомбинат",
+          "distance": "740 м",
+          "distanceValue": 743.29,
+          "coordinates": [
+            39.725970184,
+            43.615105381
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973504",
+          "name": "Магазин Быт",
+          "distance": "790 м",
+          "distanceValue": 786.745,
+          "coordinates": [
+            39.7242089,
+            43.6037772
+          ],
+          "type": "common"
+        }
+      ],
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "1675225878",
+            "uri": "ymapsbm1://org?oid=1675225878",
+            "logId": "1675225878",
+            "title": "Аренда Инструмента в Сочи",
+            "rating": 4.7,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a00000176766619d2e8e5c89a31fd721401/%s",
+            "categories": [],
+            "seoname": "arenda_instrumenta_prof_tsentr_",
+            "coordinates": [
+              39.766882,
+              43.579334
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1308513146",
+            "uri": "ymapsbm1://org?oid=1308513146",
+            "logId": "1308513146",
+            "title": "5041 Store",
+            "rating": 4.4,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1938323/2a00000178ab682019312ae2d22cf47e3a3b/%s",
+            "categories": [],
+            "seoname": "5041_store",
+            "coordinates": [
+              39.724203,
+              43.588408
+            ],
+            "icon": "malls",
+            "poiColor": "#60A8F0",
+            "poiLabelColor": "#428FDB",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "144254734213",
+            "uri": "ymapsbm1://org?oid=144254734213",
+            "logId": "144254734213",
+            "title": "Motorentclub",
+            "rating": 5,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4441482/2a0000017903a70f4c0f9d6e3b0a02017bb8/%s",
+            "categories": [],
+            "seoname": "motorentclub",
+            "coordinates": [
+              39.8205,
+              43.534887
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "57371006764",
+            "uri": "ymapsbm1://org?oid=57371006764",
+            "logId": "57371006764",
+            "title": "El-Motopark",
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/5234013/2a0000017b2a4cbebd51d712f18421ce0061/%s",
+            "categories": [],
+            "seoname": "el_motopark",
+            "coordinates": [
+              39.816655,
+              43.533203
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1310733596_785676599_23_1597839351",
+        "direction": [
+          -64.8,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            39.7288419156,
+            43.6092935822
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1310733596_785676599_23_1597839351&size=500%2C240&azimuth=-64.8&tilt=10&api_key=maps&signature=zCrJz74YgDxrRcPiCcvyKAINi4KzstQH1NBTSRoO9bU="
+      },
+      "shortTitle": "Прокат инструмента",
+      "additionalAddress": "этаж 2, офис 82",
+      "fullAddress": "Россия, Краснодарский край, Сочи, улица Гагарина, 63А",
+      "country": "Россия",
+      "postalCode": "354065",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 0,
+        "ratingValue": 0,
+        "reviewCount": 0
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184108219",
+          "name": "Пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (928) 447-76-19",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_strollers",
+              "name": "колясок"
+            },
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            },
+            {
+              "id": "rent_childrens_goods",
+              "name": "детских товаров"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "cost_hiring",
+          "value": "350–1200 ₽",
+          "name": "стоимость проката",
+          "type": "text",
+          "important": false
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "car_park",
+          "value": true,
+          "name": "парковка",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "promotions",
+          "value": [
+            {
+              "id": "discounts",
+              "name": "скидки"
+            }
+          ],
+          "name": "акции",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "payment_method",
+          "value": [
+            {
+              "id": "discount_system",
+              "name": "дисконтная система скидок"
+            },
+            {
+              "id": "prepayment",
+              "name": "предоплата"
+            },
+            {
+              "id": "cash",
+              "name": "наличными"
+            },
+            {
+              "id": "payment_card",
+              "name": "оплата картой"
+            },
+            {
+              "id": "electronic_money",
+              "name": "электронными деньгами"
+            },
+            {
+              "id": "wire_transfer",
+              "name": "банковским переводом"
+            },
+            {
+              "id": "billing_to_mobile_phones",
+              "name": "sms-платеж"
+            },
+            {
+              "id": "cashless_payment",
+              "name": "безналичная"
+            },
+            {
+              "id": "online_payment",
+              "name": "онлайн"
+            }
+          ],
+          "name": "способ оплаты",
+          "type": "enum",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Инфраструктура отеля",
+          "featureIds": [
+            "car_park"
+          ]
+        },
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": false,
+        "closed_for_quarantine": false,
+        "closed_for_visitors": false
+      },
+      "seoname": "prokat_instrumenta",
+      "geoId": 114801,
+      "compositeAddress": {
+        "locality": "Сочи",
+        "street": "улица Гагарина",
+        "house": "63А"
+      },
+      "workingTimeText": "пн-пт 09:00–18:00; сб 10:00–17:00; вс 10:00–16:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 16,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 17,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 18:00",
+        "shortText": "До 18:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "whatsapp",
+          "href": "https://wa.me/79284477619"
+        }
+      ],
+      "references": [
+        {
+          "id": "4340153820",
+          "scope": "nyak"
+        }
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 18:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 18:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 18:00"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 83510335,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 239,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10995,
+          239
+        ],
+        "seoname": "sochi",
+        "bounds": [
+          [
+            39.1261495,
+            43.261256799670214
+          ],
+          [
+            40.3199745,
+            43.908055799670215
+          ]
+        ],
+        "longitude": 39.723062,
+        "latitude": 43.585525,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Сочи",
+          "dative": "Сочи",
+          "directional": "",
+          "genitive": "Сочи",
+          "instrumental": "Сочи",
+          "locative": "",
+          "nominative": "Сочи",
+          "preposition": "в",
+          "prepositional": "Сочи"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Сочи",
+          "type": "region",
+          "url": "https://yandex.ru/maps/239/sochi/",
+          "region": {
+            "center": [
+              39.723062,
+              43.585525
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/239/sochi/catalog/",
+          "region": {
+            "id": 239,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10995,
+              239
+            ],
+            "seoname": "sochi",
+            "bounds": [
+              [
+                39.1261495,
+                43.261256799670214
+              ],
+              [
+                40.3199745,
+                43.908055799670215
+              ]
+            ],
+            "longitude": 39.723062,
+            "latitude": 43.585525,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Сочи",
+              "dative": "Сочи",
+              "directional": "",
+              "genitive": "Сочи",
+              "instrumental": "Сочи",
+              "locative": "",
+              "nominative": "Сочи",
+              "preposition": "в",
+              "prepositional": "Сочи"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184108219",
+            "name": "Пункт проката",
+            "class": "fallback services",
+            "seoname": "appliance_rental",
+            "pluralName": "Пункты проката"
+          },
+          "name": "Пункты проката",
+          "type": "category",
+          "url": "https://yandex.ru/maps/239/sochi/category/appliance_rental/184108219/"
+        },
+        {
+          "name": "Прокат инструмента",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/prokat_instrumenta/226390042152/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629790878201701-897515794-sas1-6138-sas-addrs-nmeta-new-8031",
+      "analyticsId": "6",
+      "title": "Точка проката",
+      "description": "Авиационная ул., 58А, жилой район Адлер, Сочи, Россия",
+      "address": "Авиационная ул., 58А, жилой район Адлер, Сочи, Россия",
+      "coordinates": [
+        39.931426,
+        43.42849
+      ],
+      "displayCoordinates": [
+        39.931426,
+        43.42849
+      ],
+      "bounds": [
+        [
+          39.927321,
+          43.42549793
+        ],
+        [
+          39.935531,
+          43.43148193
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=112489491238",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTEyNDg5NDkxMjM4",
+      "id": "112489491238",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__9980886",
+          "name": "Торговый центр Мишутка",
+          "distance": "220 м",
+          "distanceValue": 224.52,
+          "coordinates": [
+            39.933477826,
+            43.429640917
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973729",
+          "name": "Торговый центр Новый век",
+          "distance": "380 м",
+          "distanceValue": 377.105,
+          "coordinates": [
+            39.928432385,
+            43.426100721
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10188516",
+          "name": "Стадион Труд",
+          "distance": "540 м",
+          "distanceValue": 541.976,
+          "coordinates": [
+            39.926696332,
+            43.426795958
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10103188",
+          "name": "Рынок",
+          "distance": "850 м",
+          "distanceValue": 854.917,
+          "coordinates": [
+            39.924492133,
+            43.423903181
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973730",
+          "name": "Магазин Дары природы",
+          "distance": "940 м",
+          "distanceValue": 943.143,
+          "coordinates": [
+            39.92553966,
+            43.429865802
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 2,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4324292/2a0000017758e9d14df39de8754a993a8f92/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4324292/2a0000017758e9d14df39de8754a993a8f92/%s"
+          }
+        ]
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "94556177005",
+            "uri": "ymapsbm1://org?oid=94556177005",
+            "logId": "94556177005",
+            "title": "А-байк",
+            "rating": 4,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4465274/2a00000177f27160dffb0c021ad9f2c226aa/%s",
+            "categories": [],
+            "seoname": "a_bayk",
+            "coordinates": [
+              39.92088,
+              43.42119
+            ],
+            "icon": "bike rent",
+            "poiColor": "#9C89FA",
+            "poiLabelColor": "#8477E5",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1254469852",
+            "uri": "ymapsbm1://org?oid=1254469852",
+            "logId": "1254469852",
+            "title": "K2tour",
+            "rating": 4.7,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/3733076/2a00000179c2385c110428b417514552539b/%s",
+            "categories": [],
+            "seoname": "k2tour",
+            "coordinates": [
+              39.913078,
+              43.438326
+            ],
+            "icon": "bike rent",
+            "poiColor": "#9C89FA",
+            "poiLabelColor": "#8477E5",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "234381555997",
+            "uri": "ymapsbm1://org?oid=234381555997",
+            "logId": "234381555997",
+            "title": "Прокат",
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4079915/2a0000017a581fb6864448b7fb6755069259/%s",
+            "categories": [],
+            "seoname": "max_scooters",
+            "coordinates": [
+              39.957414,
+              43.414255
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1666743226",
+            "uri": "ymapsbm1://org?oid=1666743226",
+            "logId": "1666743226",
+            "title": "K2tour",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4324851/2a00000179c27cf92ff3ff5ff00fd150abef/%s",
+            "categories": [],
+            "seoname": "k2tour",
+            "coordinates": [
+              39.968945,
+              43.397408
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "14541793798",
+            "uri": "ymapsbm1://org?oid=14541793798",
+            "logId": "14541793798",
+            "title": "Южный Парк",
+            "rating": 4.5,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4336412/2a0000017720827376bd510a2c0f81a5898b/%s",
+            "categories": [],
+            "seoname": "yuzhny_park",
+            "coordinates": [
+              39.938718,
+              43.410709
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1311943016_787159132_23_1598355864",
+        "direction": [
+          -64.8,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            39.9315866664,
+            43.4284349933
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1311943016_787159132_23_1598355864&size=500%2C240&azimuth=-64.8&tilt=10&api_key=maps&signature=xmta97xCTpqf5xcFHtaq-7hxJJP395Lmhev3eRBeNrQ="
+      },
+      "shortTitle": "Точка проката",
+      "fullAddress": "Россия, Краснодарский край, Сочи, жилой район Адлер, Авиационная улица, 58А",
+      "country": "Россия",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 9,
+        "ratingValue": 3.299999952316284,
+        "reviewCount": 5
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184108219",
+          "name": "Пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "9933541986",
+          "name": "прокат велосипедов",
+          "class": "bike rent",
+          "seoname": "bike_rental",
+          "pluralName": "Велопрокаты"
+        },
+        {
+          "id": "184107569",
+          "name": "строительные леса",
+          "class": "fallback services",
+          "seoname": "scaffolding",
+          "pluralName": "Строительные леса"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (938) 443-45-55",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_strollers",
+              "name": "колясок"
+            },
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            },
+            {
+              "id": "rent_childrens_goods",
+              "name": "детских товаров"
+            },
+            {
+              "id": "rent_electric_scooter",
+              "name": "электросамокатов"
+            },
+            {
+              "id": "electric_scooters",
+              "name": "электроскутеров"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "seats",
+          "value": "5",
+          "name": "количество мест",
+          "type": "text",
+          "important": false
+        },
+        {
+          "id": "price_rental",
+          "value": "20–1000 ₽/час",
+          "name": "цена проката",
+          "type": "text",
+          "important": false
+        },
+        {
+          "id": "range_bike",
+          "value": [
+            {
+              "id": "women_bikes",
+              "name": "женские"
+            },
+            {
+              "id": "mountain_bikes",
+              "name": "горные"
+            },
+            {
+              "id": "city_bikes",
+              "name": "городские"
+            },
+            {
+              "id": "children_bicycles",
+              "name": "детские"
+            },
+            {
+              "id": "road_bikes",
+              "name": "шоссейные"
+            },
+            {
+              "id": "sports_bikes",
+              "name": "спортивные"
+            }
+          ],
+          "name": "ассортимент велосипедов",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "cost_hiring",
+          "value": "250–3500 ₽",
+          "name": "стоимость проката",
+          "type": "text",
+          "important": false
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "car_park",
+          "value": true,
+          "name": "парковка",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "delivery",
+          "value": true,
+          "name": "доставка",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "pickup",
+          "value": true,
+          "name": "самовывоз",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "promotions",
+          "value": [
+            {
+              "id": "discounts",
+              "name": "скидки"
+            },
+            {
+              "id": "promotions",
+              "name": "акции"
+            },
+            {
+              "id": "special_offers",
+              "name": "спецпредложения"
+            },
+            {
+              "id": "gifts",
+              "name": "подарки"
+            }
+          ],
+          "name": "акции",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "payment_method",
+          "value": [
+            {
+              "id": "discount_system",
+              "name": "дисконтная система скидок"
+            },
+            {
+              "id": "prepayment",
+              "name": "предоплата"
+            },
+            {
+              "id": "postpay",
+              "name": "постоплата"
+            },
+            {
+              "id": "cash",
+              "name": "наличными"
+            },
+            {
+              "id": "payment_card",
+              "name": "оплата картой"
+            },
+            {
+              "id": "electronic_money",
+              "name": "электронными деньгами"
+            },
+            {
+              "id": "wire_transfer",
+              "name": "банковским переводом"
+            },
+            {
+              "id": "installment",
+              "name": "рассрочка"
+            },
+            {
+              "id": "cashless_payment",
+              "name": "безналичная"
+            },
+            {
+              "id": "online_payment",
+              "name": "онлайн"
+            }
+          ],
+          "name": "способ оплаты",
+          "type": "enum",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Инфраструктура отеля",
+          "featureIds": [
+            "car_park"
+          ]
+        },
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": true,
+        "closed_for_visitors": false
+      },
+      "seoname": "tochka_prokata",
+      "geoId": 20777,
+      "compositeAddress": {
+        "locality": "Сочи",
+        "street": "Авиационная улица",
+        "house": "58А"
+      },
+      "workingTimeText": "пн-пт 08:00–19:00; сб,вс 09:00–18:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 19:00",
+        "shortText": "До 19:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/tprokat23"
+        }
+      ],
+      "urls": [
+        "http://t-prokat23.ru/"
+      ],
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2442526/2a000001758c975f256dde99cafe7dd4475f/%s"
+        }
+      },
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 19:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 19:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 19:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "6.6",
+          "property": [
+            {
+              "key": "value",
+              "value": "6.6"
+            },
+            {
+              "key": "value_5",
+              "value": "3.3"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 69003820,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 239,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10995,
+          239
+        ],
+        "seoname": "sochi",
+        "bounds": [
+          [
+            39.1261495,
+            43.261256799670214
+          ],
+          [
+            40.3199745,
+            43.908055799670215
+          ]
+        ],
+        "longitude": 39.723062,
+        "latitude": 43.585525,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Сочи",
+          "dative": "Сочи",
+          "directional": "",
+          "genitive": "Сочи",
+          "instrumental": "Сочи",
+          "locative": "",
+          "nominative": "Сочи",
+          "preposition": "в",
+          "prepositional": "Сочи"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Сочи",
+          "type": "region",
+          "url": "https://yandex.ru/maps/239/sochi/",
+          "region": {
+            "center": [
+              39.723062,
+              43.585525
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/239/sochi/catalog/",
+          "region": {
+            "id": 239,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10995,
+              239
+            ],
+            "seoname": "sochi",
+            "bounds": [
+              [
+                39.1261495,
+                43.261256799670214
+              ],
+              [
+                40.3199745,
+                43.908055799670215
+              ]
+            ],
+            "longitude": 39.723062,
+            "latitude": 43.585525,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Сочи",
+              "dative": "Сочи",
+              "directional": "",
+              "genitive": "Сочи",
+              "instrumental": "Сочи",
+              "locative": "",
+              "nominative": "Сочи",
+              "preposition": "в",
+              "prepositional": "Сочи"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184108219",
+            "name": "Пункт проката",
+            "class": "fallback services",
+            "seoname": "appliance_rental",
+            "pluralName": "Пункты проката"
+          },
+          "name": "Пункты проката",
+          "type": "category",
+          "url": "https://yandex.ru/maps/239/sochi/category/appliance_rental/184108219/"
+        },
+        {
+          "name": "Точка проката",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/tochka_prokata/112489491238/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629790878201701-897515794-sas1-6138-sas-addrs-nmeta-new-8031",
+      "analyticsId": "7",
+      "title": "Городской центр проката",
+      "description": "Авиационная ул., 17/13Б, жилой район Адлер, Сочи, Россия",
+      "address": "Авиационная ул., 17/13Б, жилой район Адлер, Сочи, Россия",
+      "coordinates": [
+        39.937229,
+        43.433641
+      ],
+      "displayCoordinates": [
+        39.937229,
+        43.433641
+      ],
+      "bounds": [
+        [
+          39.9331235,
+          43.43064893
+        ],
+        [
+          39.9413345,
+          43.43663293
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=127317032687",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTI3MzE3MDMyNjg3",
+      "id": "127317032687",
+      "metro": [],
+      "stops": [
+        {
+          "id": "4118386632",
+          "name": "АЗС",
+          "distance": "310 м",
+          "distanceValue": 306.816,
+          "coordinates": [
+            39.939250325,
+            43.435615515
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973758",
+          "name": "Торговый центр Максимус",
+          "distance": "330 м",
+          "distanceValue": 328.274,
+          "coordinates": [
+            39.93524184,
+            43.431716379
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973729",
+          "name": "Торговый центр Новый век",
+          "distance": "1,1 км",
+          "distanceValue": 1147.31,
+          "coordinates": [
+            39.928432385,
+            43.426100721
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__10188516",
+          "name": "Стадион Труд",
+          "distance": "1,3 км",
+          "distanceValue": 1312.18,
+          "coordinates": [
+            39.926696332,
+            43.426795958
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973730",
+          "name": "Магазин Дары природы",
+          "distance": "1,6 км",
+          "distanceValue": 1621.35,
+          "coordinates": [
+            39.92553966,
+            43.429865802
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 6,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2761244/2a000001760daf2b03572526977141d40a98/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2761244/2a000001760daf2b03572526977141d40a98/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4476499/2a00000178e3c2c9aa9fc56453eb415c1cbe/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3518606/2a00000178e3c2b4fc984a14036e98f94a14/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3592340/2a00000178e3c2a22f645fea972ce648f486/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2799320/2a000001760daf3d20d559f313c0f287f8af/%s"
+          }
+        ]
+      },
+      "entrances": [],
+      "routePoint": {
+        "context": "djF8fDM5LjkzNzQyNyw0My40MzM3MTUsMTI3MzE3MDMyNjg3XzBfLDE,"
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "232824434998",
+            "uri": "ymapsbm1://org?oid=232824434998",
+            "logId": "232824434998",
+            "title": "ProkatForKids Олимпийский парк",
+            "rating": 4.6,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1622057/2a00000166dada1725cd46eed405203dc9a8/%s",
+            "categories": [],
+            "seoname": "prokatforkids_olimpiyskiy_park",
+            "coordinates": [
+              39.943066,
+              43.406829
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "225422640217",
+            "uri": "ymapsbm1://org?oid=225422640217",
+            "logId": "225422640217",
+            "title": "AirSurf",
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4412147/2a0000017b1b98af2c6f9312e06ea2c4aa08/%s",
+            "categories": [],
+            "seoname": "airsurf",
+            "coordinates": [
+              39.976288,
+              43.394881
+            ],
+            "icon": "sportcenter",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "129341207697",
+            "uri": "ymapsbm1://org?oid=129341207697",
+            "logId": "129341207697",
+            "title": "Sup Sochifornia",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4324073/2a00000179d5d6274d9e106c3c98cbedb51f/%s",
+            "categories": [],
+            "seoname": "sup_sochifornia",
+            "coordinates": [
+              39.950837,
+              43.399461
+            ],
+            "icon": "sportcenter",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1451877496",
+            "uri": "ymapsbm1://org?oid=1451877496",
+            "logId": "1451877496",
+            "title": "Серф Дом",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1608507/2a000001677825ac08dfe8161dcc6417d731/%s",
+            "categories": [],
+            "seoname": "serf_dom_sap_vindserf_veyk",
+            "coordinates": [
+              39.922901,
+              43.41707
+            ],
+            "icon": "sportcenter",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "234381555997",
+            "uri": "ymapsbm1://org?oid=234381555997",
+            "logId": "234381555997",
+            "title": "Прокат",
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4079915/2a0000017a581fb6864448b7fb6755069259/%s",
+            "categories": [],
+            "seoname": "max_scooters",
+            "coordinates": [
+              39.957414,
+              43.414255
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1311978191_787117048_23_1598355934",
+        "direction": [
+          -70.7,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            39.9374834018,
+            43.4335764626
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1311978191_787117048_23_1598355934&size=500%2C240&azimuth=-70.7&tilt=10&api_key=maps&signature=hNDUjcIAcpgqq_2YZin0OcBQZELBfB-rLS51EqaEywU="
+      },
+      "shortTitle": "Городской центр проката",
+      "fullAddress": "Россия, Краснодарский край, Сочи, жилой район Адлер, Авиационная улица, 17/13Б",
+      "country": "Россия",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 0,
+        "ratingValue": 0,
+        "reviewCount": 2
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184108219",
+          "name": "Пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "96105634495",
+          "name": "сапсёрфинг",
+          "class": "sportcenter",
+          "seoname": "sup",
+          "pluralName": "Сапсёрфинг"
+        },
+        {
+          "id": "1343429186",
+          "name": "автокресла",
+          "class": "auto",
+          "seoname": "car_seats",
+          "pluralName": "Автокресла"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (862) 300-04-27",
+          "type": "phone"
+        },
+        {
+          "number": "+7 (902) 362-86-76",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_a_boat",
+              "name": "лодок"
+            },
+            {
+              "id": "rent_tourist_equipment",
+              "name": "туристического снаряжения"
+            },
+            {
+              "id": "rent_sports_equipment",
+              "name": "спортивного инвентаря"
+            },
+            {
+              "id": "rent_strollers",
+              "name": "колясок"
+            },
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            },
+            {
+              "id": "rent_childrens_goods",
+              "name": "детских товаров"
+            },
+            {
+              "id": "rent_electric_scooter",
+              "name": "электросамокатов"
+            },
+            {
+              "id": "surfing_equipment",
+              "name": "оборудования для серфинга"
+            },
+            {
+              "id": "scooter_rental",
+              "name": "самокатов"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "cost_hiring",
+          "value": "100–5000 ₽",
+          "name": "стоимость проката",
+          "type": "text",
+          "important": false
+        },
+        {
+          "id": "car_park",
+          "value": true,
+          "name": "парковка",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Инфраструктура отеля",
+          "featureIds": [
+            "car_park"
+          ]
+        },
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": false,
+        "closed_for_quarantine": false,
+        "closed_for_visitors": false
+      },
+      "seoname": "gorodskoy_tsentr_prokata",
+      "geoId": 20777,
+      "compositeAddress": {
+        "locality": "Сочи",
+        "street": "Авиационная улица",
+        "house": "17/13Б"
+      },
+      "workingTimeText": "пн-пт 08:00–19:00; сб,вс 09:00–18:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 19:00",
+        "shortText": "До 19:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "whatsapp",
+          "href": "https://wa.me/79023628676"
+        }
+      ],
+      "urls": [
+        "https://городскойцентрпроката.рф/"
+      ],
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3766813/2a000001760daf0fb62c4fb408a6c1595115/%s"
+        }
+      },
+      "references": [
+        {
+          "id": "4321527278",
+          "scope": "nyak"
+        }
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 19:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 19:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 19:00"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 69879259,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "posts": {
+        "count": 2,
+        "items": []
+      },
+      "region": {
+        "id": 239,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10995,
+          239
+        ],
+        "seoname": "sochi",
+        "bounds": [
+          [
+            39.1261495,
+            43.261256799670214
+          ],
+          [
+            40.3199745,
+            43.908055799670215
+          ]
+        ],
+        "longitude": 39.723062,
+        "latitude": 43.585525,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Сочи",
+          "dative": "Сочи",
+          "directional": "",
+          "genitive": "Сочи",
+          "instrumental": "Сочи",
+          "locative": "",
+          "nominative": "Сочи",
+          "preposition": "в",
+          "prepositional": "Сочи"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Сочи",
+          "type": "region",
+          "url": "https://yandex.ru/maps/239/sochi/",
+          "region": {
+            "center": [
+              39.723062,
+              43.585525
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/239/sochi/catalog/",
+          "region": {
+            "id": 239,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10995,
+              239
+            ],
+            "seoname": "sochi",
+            "bounds": [
+              [
+                39.1261495,
+                43.261256799670214
+              ],
+              [
+                40.3199745,
+                43.908055799670215
+              ]
+            ],
+            "longitude": 39.723062,
+            "latitude": 43.585525,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Сочи",
+              "dative": "Сочи",
+              "directional": "",
+              "genitive": "Сочи",
+              "instrumental": "Сочи",
+              "locative": "",
+              "nominative": "Сочи",
+              "preposition": "в",
+              "prepositional": "Сочи"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184108219",
+            "name": "Пункт проката",
+            "class": "fallback services",
+            "seoname": "appliance_rental",
+            "pluralName": "Пункты проката"
+          },
+          "name": "Пункты проката",
+          "type": "category",
+          "url": "https://yandex.ru/maps/239/sochi/category/appliance_rental/184108219/"
+        },
+        {
+          "name": "Городской центр проката",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/gorodskoy_tsentr_prokata/127317032687/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629790878201701-897515794-sas1-6138-sas-addrs-nmeta-new-8031",
+      "analyticsId": "8",
+      "title": "Сварочное оборудование и материалы",
+      "description": "Пригородная ул., 23, Сочи, Россия",
+      "address": "Пригородная ул., 23, Сочи, Россия",
+      "coordinates": [
+        39.743777,
+        43.605673
+      ],
+      "displayCoordinates": [
+        39.743777,
+        43.605673
+      ],
+      "bounds": [
+        [
+          39.739672,
+          43.60268943
+        ],
+        [
+          39.747882,
+          43.60865643
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=195911022898",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTk1OTExMDIyODk4",
+      "id": "195911022898",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__9981326",
+          "name": "Авторынок",
+          "distance": "700 м",
+          "distanceValue": 703.705,
+          "coordinates": [
+            39.740655497,
+            43.607041911
+          ],
+          "type": "common"
+        },
+        {
+          "id": "4329835940",
+          "name": "Гипермаркет Магнит Семейный",
+          "distance": "750 м",
+          "distanceValue": 748.817,
+          "coordinates": [
+            39.736291379,
+            43.605195288
+          ],
+          "type": "common"
+        },
+        {
+          "id": "3364060395",
+          "name": "Промышленный переулок",
+          "distance": "980 м",
+          "distanceValue": 984.195,
+          "coordinates": [
+            39.736351759,
+            43.603158373
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973365",
+          "name": "Улица Конституции СССР",
+          "distance": "1 км",
+          "distanceValue": 1013.41,
+          "coordinates": [
+            39.734691437,
+            43.606287271
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973659",
+          "name": "ТРЦ Моремолл",
+          "distance": "1,1 км",
+          "distanceValue": 1112.95,
+          "coordinates": [
+            39.73360749,
+            43.606193961
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 3,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2812564/2a00000175e75925ec224bd459916d8a0700/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2812564/2a00000175e75925ec224bd459916d8a0700/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3935166/2a00000176c3397218941f5a783e20b26f6d/%s"
+          }
+        ]
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "1675225878",
+            "uri": "ymapsbm1://org?oid=1675225878",
+            "logId": "1675225878",
+            "title": "Аренда Инструмента в Сочи",
+            "rating": 4.7,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a00000176766619d2e8e5c89a31fd721401/%s",
+            "categories": [],
+            "seoname": "arenda_instrumenta_prof_tsentr_",
+            "coordinates": [
+              39.766882,
+              43.579334
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "144254734213",
+            "uri": "ymapsbm1://org?oid=144254734213",
+            "logId": "144254734213",
+            "title": "Motorentclub",
+            "rating": 5,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4441482/2a0000017903a70f4c0f9d6e3b0a02017bb8/%s",
+            "categories": [],
+            "seoname": "motorentclub",
+            "coordinates": [
+              39.8205,
+              43.534887
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1308513146",
+            "uri": "ymapsbm1://org?oid=1308513146",
+            "logId": "1308513146",
+            "title": "5041 Store",
+            "rating": 4.4,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1938323/2a00000178ab682019312ae2d22cf47e3a3b/%s",
+            "categories": [],
+            "seoname": "5041_store",
+            "coordinates": [
+              39.724203,
+              43.588408
+            ],
+            "icon": "malls",
+            "poiColor": "#60A8F0",
+            "poiLabelColor": "#428FDB",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "57371006764",
+            "uri": "ymapsbm1://org?oid=57371006764",
+            "logId": "57371006764",
+            "title": "El-Motopark",
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/5234013/2a0000017b2a4cbebd51d712f18421ce0061/%s",
+            "categories": [],
+            "seoname": "el_motopark",
+            "coordinates": [
+              39.816655,
+              43.533203
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "68643014910",
+            "uri": "ymapsbm1://org?oid=68643014910",
+            "logId": "68643014910",
+            "title": "VeloDraft",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/2755030/2a0000017394f12746b9033e1866b0ae1600/%s",
+            "categories": [],
+            "seoname": "velodraft",
+            "coordinates": [
+              39.895839,
+              43.4695
+            ],
+            "icon": "bike rent",
+            "poiColor": "#9C89FA",
+            "poiLabelColor": "#8477E5",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1310822368_785707245_23_1597996601",
+        "direction": [
+          19,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            39.7437235316,
+            43.6055605038
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1310822368_785707245_23_1597996601&size=500%2C240&azimuth=19&tilt=10&api_key=maps&signature=b5NvpadJvpGVw1jfDex07PxZQ3qMnrEF0qD8NgyeTto="
+      },
+      "shortTitle": "Сварочное оборудование и материалы",
+      "fullAddress": "Россия, Краснодарский край, Сочи, Пригородная улица, 23",
+      "country": "Россия",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 0,
+        "ratingValue": 0,
+        "reviewCount": 0
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184106884",
+          "name": "Сварочное оборудование и материалы",
+          "class": "fallback services",
+          "seoname": "welding_equipment_and_materials",
+          "pluralName": "Сварочное оборудование"
+        },
+        {
+          "id": "184108219",
+          "name": "пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (967) 775-04-30",
+          "type": "phone"
+        },
+        {
+          "number": "+7 (928) 667-94-88",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_home_appliances",
+              "name": "бытовой техники"
+            },
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "repairs",
+          "value": true,
+          "name": "ремонт",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "car_park",
+          "value": true,
+          "name": "парковка",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Инфраструктура отеля",
+          "featureIds": [
+            "car_park"
+          ]
+        },
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": false
+      },
+      "seoname": "svarochnoye_oborudovaniye_i_materialy",
+      "geoId": 114801,
+      "compositeAddress": {
+        "locality": "Сочи",
+        "street": "Пригородная улица",
+        "house": "23"
+      },
+      "workingTimeText": "пн-сб 09:00–20:00",
+      "workingTime": [
+        null,
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 20:00",
+        "shortText": "До 20:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "facebook",
+          "href": "http://facebook.com/wix"
+        },
+        {
+          "type": "instagram",
+          "href": "http://instagram.com/wix"
+        },
+        {
+          "type": "telegram",
+          "href": "https://t.me/+7"
+        },
+        {
+          "type": "whatsapp",
+          "href": "https://wa.me/79677750430"
+        },
+        {
+          "type": "twitter",
+          "href": "https://www.twitter.com/wix"
+        },
+        {
+          "type": "youtube",
+          "href": "https://www.youtube.com/user/Wix"
+        }
+      ],
+      "urls": [
+        "https://www.dom-svarshika.com/"
+      ],
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3905724/2a00000175e75825c42045440b5a2d1af458/%s"
+        }
+      },
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 20:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 20:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 20:00"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 68753410,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 239,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10995,
+          239
+        ],
+        "seoname": "sochi",
+        "bounds": [
+          [
+            39.1261495,
+            43.261256799670214
+          ],
+          [
+            40.3199745,
+            43.908055799670215
+          ]
+        ],
+        "longitude": 39.723062,
+        "latitude": 43.585525,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Сочи",
+          "dative": "Сочи",
+          "directional": "",
+          "genitive": "Сочи",
+          "instrumental": "Сочи",
+          "locative": "",
+          "nominative": "Сочи",
+          "preposition": "в",
+          "prepositional": "Сочи"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Сочи",
+          "type": "region",
+          "url": "https://yandex.ru/maps/239/sochi/",
+          "region": {
+            "center": [
+              39.723062,
+              43.585525
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/239/sochi/catalog/",
+          "region": {
+            "id": 239,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10995,
+              239
+            ],
+            "seoname": "sochi",
+            "bounds": [
+              [
+                39.1261495,
+                43.261256799670214
+              ],
+              [
+                40.3199745,
+                43.908055799670215
+              ]
+            ],
+            "longitude": 39.723062,
+            "latitude": 43.585525,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Сочи",
+              "dative": "Сочи",
+              "directional": "",
+              "genitive": "Сочи",
+              "instrumental": "Сочи",
+              "locative": "",
+              "nominative": "Сочи",
+              "preposition": "в",
+              "prepositional": "Сочи"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184106884",
+            "name": "Сварочное оборудование и материалы",
+            "class": "fallback services",
+            "seoname": "welding_equipment_and_materials",
+            "pluralName": "Сварочное оборудование"
+          },
+          "name": "Сварочное оборудование",
+          "type": "category",
+          "url": "https://yandex.ru/maps/239/sochi/category/welding_equipment_and_materials/184106884/"
+        },
+        {
+          "name": "Сварочное оборудование и материалы",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/svarochnoye_oborudovaniye_i_materialy/195911022898/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629790878201701-897515794-sas1-6138-sas-addrs-nmeta-new-8031",
+      "analyticsId": "9",
+      "title": "Аренда Sony PlayStation 4",
+      "description": "ул. Конституции СССР, 24А, Сочи, Россия",
+      "address": "ул. Конституции СССР, 24А, Сочи, Россия",
+      "coordinates": [
+        39.72131,
+        43.59272
+      ],
+      "displayCoordinates": [
+        39.72131,
+        43.59272
+      ],
+      "bounds": [
+        [
+          39.717205,
+          43.58973593
+        ],
+        [
+          39.725415,
+          43.59570393
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=13594936398",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTM1OTQ5MzYzOTg=",
+      "id": "13594936398",
+      "metro": [],
+      "stops": [
+        {
+          "id": "stop__9973451",
+          "name": "Поликлиника",
+          "distance": "100 м",
+          "distanceValue": 102.058,
+          "coordinates": [
+            39.720669775,
+            43.592552061
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973349",
+          "name": "Рынок",
+          "distance": "220 м",
+          "distanceValue": 216.895,
+          "coordinates": [
+            39.722658,
+            43.593935
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973450",
+          "name": "Торговый центр Ярославна",
+          "distance": "410 м",
+          "distanceValue": 410.002,
+          "coordinates": [
+            39.7245516,
+            43.594156
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973480",
+          "name": "Экспресс-Лайн",
+          "distance": "520 м",
+          "distanceValue": 524.367,
+          "coordinates": [
+            39.723238,
+            43.596188
+          ],
+          "type": "common"
+        },
+        {
+          "id": "stop__9973496",
+          "name": "Спортивная",
+          "distance": "680 м",
+          "distanceValue": 678.093,
+          "coordinates": [
+            39.717758393,
+            43.593692546
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 12,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1348156/2a0000016594bfb650d6c11eea8093b0333a/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1348156/2a0000016594bfb650d6c11eea8093b0333a/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/906486/2a0000016594c0aff7964510851d6b385629/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1045589/2a0000016769acdab0eef40bd07984b5cdcc/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/176734/2a0000016594bfa08e630a1ba2af64f8b209/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1618837/2a0000016769aceb25147f2f72b1770fe1be/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1352335/2a0000016594bf876eaa0a4fda3d1c101312/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/906486/2a0000016594bf9ad89bf67d693387767e5d/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1363376/2a0000016594bfaac5d16e2bf39c8a2a9f2b/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/906486/2a0000016594bfc19c634f2ea9d66c943e47/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1491998/2a0000016769acdb142f05865a8626e0e195/%s"
+          }
+        ]
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "1039010793",
+            "uri": "ymapsbm1://org?oid=1039010793",
+            "logId": "1039010793",
+            "title": "Весёлая Затея",
+            "rating": 4.8,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/374295/2a0000015b161063de8fd1cabc1524ace52c/%s",
+            "categories": [],
+            "seoname": "vesyolaya_zateya",
+            "coordinates": [
+              39.721319,
+              43.592919
+            ],
+            "icon": "malls",
+            "poiColor": "#60A8F0",
+            "poiLabelColor": "#428FDB",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1308513146",
+            "uri": "ymapsbm1://org?oid=1308513146",
+            "logId": "1308513146",
+            "title": "5041 Store",
+            "rating": 4.4,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1938323/2a00000178ab682019312ae2d22cf47e3a3b/%s",
+            "categories": [],
+            "seoname": "5041_store",
+            "coordinates": [
+              39.724203,
+              43.588408
+            ],
+            "icon": "malls",
+            "poiColor": "#60A8F0",
+            "poiLabelColor": "#428FDB",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1675225878",
+            "uri": "ymapsbm1://org?oid=1675225878",
+            "logId": "1675225878",
+            "title": "Аренда Инструмента в Сочи",
+            "rating": 4.7,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4001569/2a00000176766619d2e8e5c89a31fd721401/%s",
+            "categories": [],
+            "seoname": "arenda_instrumenta_prof_tsentr_",
+            "coordinates": [
+              39.766882,
+              43.579334
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "144254734213",
+            "uri": "ymapsbm1://org?oid=144254734213",
+            "logId": "144254734213",
+            "title": "Motorentclub",
+            "rating": 5,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4441482/2a0000017903a70f4c0f9d6e3b0a02017bb8/%s",
+            "categories": [],
+            "seoname": "motorentclub",
+            "coordinates": [
+              39.8205,
+              43.534887
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "57371006764",
+            "uri": "ymapsbm1://org?oid=57371006764",
+            "logId": "57371006764",
+            "title": "El-Motopark",
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/5234013/2a0000017b2a4cbebd51d712f18421ce0061/%s",
+            "categories": [],
+            "seoname": "el_motopark",
+            "coordinates": [
+              39.816655,
+              43.533203
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1310686722_785812123_23_1598076591",
+        "direction": [
+          105,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            39.7209840788,
+            43.5927832693
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1310686722_785812123_23_1598076591&size=500%2C240&azimuth=105&tilt=10&api_key=maps&signature=yOQ9te2OoE26kTrTOWRNCgqn5UY5zfSIXhPGew-gHi4="
+      },
+      "shortTitle": "Аренда Sony PlayStation 4",
+      "fullAddress": "Россия, Краснодарский край, Сочи, улица Конституции СССР, 24А",
+      "country": "Россия",
+      "postalCode": "354000",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 3,
+        "ratingValue": 2.5999999046325684,
+        "reviewCount": 2
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184108327",
+          "name": "Организация и проведение детских праздников",
+          "class": "fallback services",
+          "seoname": "children_events_organization",
+          "pluralName": "Детские праздники"
+        },
+        {
+          "id": "184108219",
+          "name": "пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "184107258",
+          "name": "игровые приставки",
+          "class": "malls",
+          "seoname": "games_consoles",
+          "pluralName": "Игровые приставки"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (965) 479-29-59",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "mini_skis_rental",
+              "name": "мини-лыж"
+            },
+            {
+              "id": "snowboard_rental",
+              "name": "сноубордов"
+            },
+            {
+              "id": "rental_mountain_skis",
+              "name": "горных лыж"
+            },
+            {
+              "id": "rent_snowmobile",
+              "name": "снегоходов"
+            },
+            {
+              "id": "rent_a_boat",
+              "name": "лодок"
+            },
+            {
+              "id": "ski_hire",
+              "name": "лыж"
+            },
+            {
+              "id": "sledge_argamaks_rental",
+              "name": "саней-аргамаков"
+            },
+            {
+              "id": "rent_motorcycles",
+              "name": "мототехники"
+            },
+            {
+              "id": "rent_segway",
+              "name": "сигвеев"
+            },
+            {
+              "id": "rent_tourist_equipment",
+              "name": "туристического снаряжения"
+            },
+            {
+              "id": "rent_musical_instruments",
+              "name": "музыкальных инструментов"
+            },
+            {
+              "id": "rent_home_appliances",
+              "name": "бытовой техники"
+            },
+            {
+              "id": "rent_sports_equipment",
+              "name": "спортивного инвентаря"
+            },
+            {
+              "id": "rent_strollers",
+              "name": "колясок"
+            },
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            },
+            {
+              "id": "rent_scales",
+              "name": "весов"
+            },
+            {
+              "id": "rent_childrens_goods",
+              "name": "детских товаров"
+            },
+            {
+              "id": "rent_tv",
+              "name": "телевизоров"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "payment_by_credit_card",
+          "value": true,
+          "name": "оплата картой",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": false
+      },
+      "seoname": "arenda_sony_playstation_4",
+      "geoId": 114801,
+      "compositeAddress": {
+        "locality": "Сочи",
+        "street": "улица Конституции СССР",
+        "house": "24А"
+      },
+      "workingTimeText": "ежедневно, 10:00–22:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 10,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 22,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 22:00",
+        "shortText": "До 22:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/ps4_sochi_ps5"
+        },
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/southern_group_of_companies"
+        }
+      ],
+      "urls": [
+        "https://sony-playstation-4-ps4.business.site/"
+      ],
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4080739/2a00000178b18a2088960a7a61db952ab8c4/%s"
+        }
+      },
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 22:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 22:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 22:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "5.2",
+          "property": [
+            {
+              "key": "value",
+              "value": "5.2"
+            },
+            {
+              "key": "value_5",
+              "value": "2.6"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 59314114,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 239,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10995,
+          239
+        ],
+        "seoname": "sochi",
+        "bounds": [
+          [
+            39.1261495,
+            43.261256799670214
+          ],
+          [
+            40.3199745,
+            43.908055799670215
+          ]
+        ],
+        "longitude": 39.723062,
+        "latitude": 43.585525,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Сочи",
+          "dative": "Сочи",
+          "directional": "",
+          "genitive": "Сочи",
+          "instrumental": "Сочи",
+          "locative": "",
+          "nominative": "Сочи",
+          "preposition": "в",
+          "prepositional": "Сочи"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Сочи",
+          "type": "region",
+          "url": "https://yandex.ru/maps/239/sochi/",
+          "region": {
+            "center": [
+              39.723062,
+              43.585525
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/239/sochi/catalog/",
+          "region": {
+            "id": 239,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10995,
+              239
+            ],
+            "seoname": "sochi",
+            "bounds": [
+              [
+                39.1261495,
+                43.261256799670214
+              ],
+              [
+                40.3199745,
+                43.908055799670215
+              ]
+            ],
+            "longitude": 39.723062,
+            "latitude": 43.585525,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Сочи",
+              "dative": "Сочи",
+              "directional": "",
+              "genitive": "Сочи",
+              "instrumental": "Сочи",
+              "locative": "",
+              "nominative": "Сочи",
+              "preposition": "в",
+              "prepositional": "Сочи"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184108327",
+            "name": "Организация и проведение детских праздников",
+            "class": "fallback services",
+            "seoname": "children_events_organization",
+            "pluralName": "Детские праздники"
+          },
+          "name": "Детские праздники",
+          "type": "category",
+          "url": "https://yandex.ru/maps/239/sochi/category/children_events_organization/184108327/"
+        },
+        {
+          "name": "Аренда Sony PlayStation 4",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/arenda_sony_playstation_4/13594936398/",
+          "currentPage": true
+        }
+      ]
+    }
+  ]
+}

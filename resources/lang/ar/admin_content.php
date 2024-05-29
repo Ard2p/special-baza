@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'alias'             => 'Alias',
+    'articles'          => 'Articles',
+    'content'           => 'Content',
+    'domain'            => 'Domain',
+    'domain_hint'       => 'If not specified, will be published on all',
+    'general'           => 'General',
+    'h1'                => 'H1 heading',
+    'image'             => 'Image',
+    'image_sign'        => 'Image caption',
+    'is_publish'        => 'Published',
+    'keywords'          => 'Keywords',
+    'locale'            => 'Localization',
+    'meta'              => 'Meta',
+    'meta_description'  => 'Meta description',
+    'name'              => 'Name',
+    'news'              => 'News',
+    'seo_block_bottom'  => 'Bottom block',
+    'seo_block_comment' => 'Note',
+    'seo_block_main'    => 'Main',
+    'seo_block_top'     => 'Top block',
+    'static_content'    => 'Static content',
+    'title'             => 'Title',
+    'titles'            => 'Titles',
+];

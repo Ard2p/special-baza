@@ -1,0 +1,2035 @@
+{
+  "items": [
+    {
+      "type": "business",
+      "requestId": "1629792516322812-1520187383-sas1-1526-73a-sas-addrs-nmeta-new-8031",
+      "analyticsId": "1",
+      "title": "Стройка-Аренда",
+      "description": "Студенческая ул., 25, Белгород, Россия",
+      "address": "Студенческая ул., 25, Белгород, Россия",
+      "coordinates": [
+        36.560076,
+        50.617514
+      ],
+      "displayCoordinates": [
+        36.560076,
+        50.617514
+      ],
+      "bounds": [
+        [
+          36.5559705,
+          50.61490243
+        ],
+        [
+          36.5641815,
+          50.62012543
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=13815234980",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTM4MTUyMzQ5ODA=,dHlwZT1nZW9kaXJlY3Q7YmlkPTcyMDU3NjA0ODYyNDU3MzIy",
+      "id": "13815234980",
+      "metro": [],
+      "stops": [
+        {
+          "id": "2448456492",
+          "name": "УТЭП",
+          "distance": "280 м",
+          "distanceValue": 278.625,
+          "coordinates": [
+            36.560315649,
+            50.618755401
+          ],
+          "type": "common"
+        },
+        {
+          "id": "2632563604",
+          "name": "АЗС",
+          "distance": "710 м",
+          "distanceValue": 711.455,
+          "coordinates": [
+            36.554059148,
+            50.620402236
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543271465",
+          "name": "Автобаза № 4",
+          "distance": "860 м",
+          "distanceValue": 857.093,
+          "coordinates": [
+            36.563037,
+            50.623289
+          ],
+          "type": "common"
+        },
+        {
+          "id": "2448456282",
+          "name": "КАЦИ – Конечная",
+          "distance": "880 м",
+          "distanceValue": 884.992,
+          "coordinates": [
+            36.561071502,
+            50.613816578
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543271318",
+          "name": "БелГУ",
+          "distance": "1,5 км",
+          "distanceValue": 1461.11,
+          "coordinates": [
+            36.576107,
+            50.619955
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 41,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4632172/2a0000017a1ebae9928680f49b8e42792bb1/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4632172/2a0000017a1ebae9928680f49b8e42792bb1/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4565742/2a0000017a1ebad261f972ae8a4f560bea23/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4335161/2a0000017a1ebab6602b9f97022ca61515fc/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4332216/2a0000017a1eb9fecab32c1b5cbdce88a216/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4504251/2a0000017a67f56690218f050d4c02392928/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1580511/2a0000017a67f544fa25b87fb91a05e277d9/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4456415/2a0000017a67f5344e282b9963eee057c7fe/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3986639/2a0000017a67f5230308af53a8d629406116/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4374841/2a0000017a1eba9f47657c4bb3d902184d8b/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3986639/2a0000017a1eba871fe493ae8ab728387226/%s"
+          }
+        ]
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "1268973831",
+            "uri": "ymapsbm1://org?oid=1268973831",
+            "logId": "1268973831",
+            "title": "Лонмади",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1363376/2a0000016561570d0cc8ef35234c739f4913/%s",
+            "categories": [],
+            "seoname": "lonmadi",
+            "coordinates": [
+              36.686396,
+              50.65208
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          }
+        ]
+      },
+      "shortTitle": "Стройка-Аренда",
+      "fullAddress": "Россия, Белгород, Студенческая улица, 25",
+      "country": "Россия",
+      "chain": {
+        "id": "179145114546",
+        "name": "Стройка-Аренда",
+        "seoname": "stroika_arenda"
+      },
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 0,
+        "ratingValue": 0,
+        "reviewCount": 0
+      },
+      "sources": [],
+      "categories": [
+        {
+          "id": "184108219",
+          "name": "Пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "184107551",
+          "name": "аренда строительной и спецтехники",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "Аренда спецтехники"
+        },
+        {
+          "id": "184107569",
+          "name": "строительные леса",
+          "class": "fallback services",
+          "seoname": "scaffolding",
+          "pluralName": "Строительные леса"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (962) 300-45-45",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "types_of_equipment",
+          "value": [
+            {
+              "id": "diamond_drilling_rigs",
+              "name": "алмазные установки"
+            },
+            {
+              "id": "tool_rental",
+              "name": "инструмент"
+            },
+            {
+              "id": "construction_equipment_rental",
+              "name": "строительное оборудование"
+            }
+          ],
+          "name": "виды техники",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "cost_hiring",
+          "value": "100–5000 ₽",
+          "name": "стоимость проката",
+          "type": "text",
+          "important": false
+        },
+        {
+          "id": "car_park",
+          "value": true,
+          "name": "парковка",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "pickup",
+          "value": true,
+          "name": "самовывоз",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "promotions",
+          "value": [
+            {
+              "id": "discounts",
+              "name": "скидки"
+            },
+            {
+              "id": "promotions",
+              "name": "акции"
+            },
+            {
+              "id": "special_offers",
+              "name": "спецпредложения"
+            },
+            {
+              "id": "bonuses",
+              "name": "бонусы"
+            },
+            {
+              "id": "gifts",
+              "name": "подарки"
+            }
+          ],
+          "name": "акции",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "processing_speed",
+          "value": [
+            {
+              "id": "per_hour",
+              "name": "за час"
+            }
+          ],
+          "name": "оперативность",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "payment_method",
+          "value": [
+            {
+              "id": "discount_system",
+              "name": "дисконтная система скидок"
+            },
+            {
+              "id": "prepayment",
+              "name": "предоплата"
+            },
+            {
+              "id": "postpay",
+              "name": "постоплата"
+            },
+            {
+              "id": "cash",
+              "name": "наличными"
+            },
+            {
+              "id": "electronic_money",
+              "name": "электронными деньгами"
+            },
+            {
+              "id": "wire_transfer",
+              "name": "банковским переводом"
+            },
+            {
+              "id": "installment",
+              "name": "рассрочка"
+            },
+            {
+              "id": "cashless_payment",
+              "name": "безналичная"
+            },
+            {
+              "id": "online_payment",
+              "name": "онлайн"
+            }
+          ],
+          "name": "способ оплаты",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Инфраструктура отеля",
+          "featureIds": [
+            "car_park"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": true,
+        "closed_for_quarantine": false,
+        "closed_for_visitors": false
+      },
+      "seoname": "stroyka_arenda",
+      "geoId": 217092,
+      "compositeAddress": {
+        "locality": "Белгород",
+        "street": "Студенческая улица",
+        "house": "25"
+      },
+      "workingTimeText": "пн-пт 08:00–18:00; сб 08:00–16:00",
+      "workingTime": [
+        null,
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 18,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 16,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 18:00",
+        "shortText": "До 18:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "youtube",
+          "href": "http://youtube.com/channel/UC998wfZJE2WXYRpd4K6t-GA"
+        },
+        {
+          "type": "telegram",
+          "href": "https://t.me/stroika_arenda_bot"
+        },
+        {
+          "type": "viber",
+          "href": "https://viber.click/79046669413"
+        },
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/stroika_arenda"
+        },
+        {
+          "type": "whatsapp",
+          "href": "https://wa.me/79046669413"
+        },
+        {
+          "type": "instagram",
+          "href": "https://www.instagram.com/stroika_arenda_russia"
+        }
+      ],
+      "urls": [
+        "https://belgorod.stroika-arenda.ru/"
+      ],
+      "direct": {
+        "title": "Прокат инструмента Белгород – От 100 руб/сут!",
+        "text": "Более 350 видов строительного инструмента напрокат. Скидки до 50%. Заходите!",
+        "domain": "belgorod.stroika-arenda.ru",
+        "url": "http://yabs.yandex.ru/count/Wq8ejI_zOE82nHa0f2rLtdCZ2XbiXmK0uWCn1AaaOG00000ulFDHpiA4fCqUW07E_VgEvUI-c5Y80QQlhFvua07KrudJq820W0AO0TJNYTDGk07i-CgY8i01NDW1hiMhcm7W0RBXW9i1w06u0fW2ZkVe6A02oCc94_02seJBiW-00xFveEiEY0FWefZ829W3_jmq_jaI-0JjbNY81UsLU905wggR0w05ujGag0NInXwm1TB67hW5vybem0Nrvfy3o0MWssdMseJr3A062AW62BW6g0791fPr91eRw70UeW000Aa7gLsCQ7m404Im1u20c3ou1xG6yGSE4P2wXfeA_8A0WSI1W8Qe0U08vEJ92Zv9_sQRk_K_-0g0jHYg2n31ymJggLq0062v0AH9oWK0sGle2-sLUF0B2eWClFRZlW6f3DZSKm8wazC_w0oJGEd6EPWEbkkHqR63khWUe0x0X3tP3u0Grw3-7P0GxitQpE-QjzMBZ802-10OW14Qc16coGTnXXufm2nvFx4IO5V4_o75wJ_m4XY84m6G4pAO4-0JvybeW1I08A0Kvybeg1Jggfi3tEEkXWRe58G2o1MaWy-xCz0LtEEkXWRO5S6AzkoZZxpyO_2O5j20veW6e1RGzOg91iaMq1QyzkE-0O4Nc1VHmSqig1S9m1Uq4jWNm8Gzu1UbjUc51lYP6A0O3B0Owg-IYGRG627u697UY-ZXtzk1TO0Pa1a1e1a8i1cu6V___m7I6H9vOM9pNtDbSdPbSYzoDJKvBJ7e6O320_0PWC83-1dIm9WTWHh__uF1cOotUw0QhfhatyJ3jvJ_0R0QkxBXx8heylol0RWQ0_KQ0G00088RGZ4sCZatEJ8rCJOpCZ8uCJ8jCJKoC34uDpCuCorpONCnBJ4rCZOjDpDXBNDXSorXP6HoSorkRMLqOIrkPNSjE30pCO8S3N0nDZfoL3HeLL1kKpVf780T_t-P7G0000000F0_700yotWbDqIIbe7Rjd09feocI5DbO1eYdHu1Szc8ap_p3TrySkQGM4Hd_zxEWmmrw637f9q_RnPmmHV4mv4DnEC9s3-pUWn4vZcFI3TZO7aFqCHcfr7bCMgR60C0~1?etext=&from=&q=%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0+%D0%B1%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4+%D0%BF%D1%83%D0%BD%D0%BA%D1%82+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0",
+        "disclaimers": [],
+        "counterUrl": "https://yabs.yandex.ru/count/WHuejI_zO5m0fGW0H0vLtdCZZrbXxGK0N04n1AaaOG00000ulFDHy0BQXCko3_050Q062BW6g0791fPr91eRw70UeW000Aa7gLsCQ7m404Jn1muHaBg6cWhygWiGmVC4wgbT001WkG2aISe5042O3fRhaT6nWxgu7f0GxitQpE-QjzMB0VWG680H6gWHm8Gzy18OY1C1a1Cos1N1YlRieu-y_6FmoHQ15wWN2PaOq1WX-1Y06R0Pk1dI6H9vOM9pNtDbSdPbSYzoDJKvBJ7e6O320_0PWC83WXmDS34sEd9KD6XLK6vJD-aS003mFu0T_tyF04R84c2X6Xj3JC6WuAwAXabqY-3sHR3BbWoLkTB2FDmA7aq2Dg9wO5BN36CF~1=WdOejI_zOEe1PHC0X2B1EZubwWBEmeIapHw00Sxz-exbvBwOM8W1fg-i_dYG0TJNYTFGW8200fW1rDU9qr2u0Upuog8Ys06knQkR0U01ik60cm7e0RW2c0AEv-WOe0B8oOaJW0Ep-Q3h3eW3uAAOo0YO0_xSDB03_jaIY0NjbNYG1UggcmEm1TB67hW5vybem0Nrvfy3o0MWssdW1GMO1jRQXFKCg0O8i0U0W9Wyk0Uq1l473X6GkeQQ2lo2W874WO26g07W2EJaoGe-IVzccxlrF_WAWBKOsGkfNOneV0G0HEWBxPLuY0oyzkE-0QaCsDnJ0ZgJqp_e39FfnZcW3i24FTaFW13NeFuTZ802c16coN667Yd0B7a_iH9WLyJ_8SNfFvWJ0k0JvybeW1I08A0Kvybeg1Jggfi3tEEkXWRe58G2o1MaWy-xCz0LtEEkXWRO5S6AzkoZZxpyOvWMq83cY0QW5j3rYea6oHRG5hpsuxu1WHUO5z71pIp05xGIs1V0X3tW5wMrwOK6-9aOe1WCi1ZghvA91lWOaTwBwE7Vsu5rW1cG6G6W6GYu6V___m7e6O320_0PWC83-1dIm9WTWHh__uF1cOotUw0QhfhatyJ3jvJ_0RWQ0_KQ0G00088RGZ4sCZatEJ8rCJOpCZ8uCJ8jCJKoC34uDpCuCorpONCnBJ4rCZOjDpDXBNDXSorXP6HoSorkRMLqOIrkPNSjE30pCUaSW1t_VvaT00000000y3yK00lBgCyCETran7CeGYdIgWn1GwJS7h73vsTgf-6xHid99Y6oKE7XAWBcWYtdW8u0-wzJZu5Kw9o1l9NI-GJR11m0~1",
+        "contactInfo": {
+          "title": "Стройка-Аренда",
+          "address": "Россия, Белгород, Студенческая улица, 25",
+          "phones": [
+            {
+              "number": "+7 (962) 300-45-45",
+              "type": "phone"
+            }
+          ],
+          "workingTimeText": "будни 8:00-18:00, сб 8:00-16:00",
+          "counterUrl": "https://yabs.yandex.ru/count/WqSejI_zOEa2xHa012vLtdCZXV16sGK0wGCn1AaaOG00000ulFDHpiA4fCqUW07E_VgEvUI-c5Y80QQlhFvua07KrudJq820W0AO0TJNYTDGk07i-CgY8i010jW1hiMhcm7W0RBXW9i1w06u0fW2ZkVe6A02oCc94_02seJBiW-00xFveEiEY0FWefZ829W3_jmq_jaI-0JjbNY81UsLU905wggR0w05ujGag0NInXwm1TB67hW5vybem0Nrvfy3o0MWssdMseJr3A062AW62BW6g0791fPr91eRw70UeW000Aa7gLsCQ7m404Im1u20c3ou1xG6yGSE4P2wXfeA_8A0WSI1W8Qe0U08vEJ92Zv9_sQRk_K_-0g0jHYg2n31ymJggLq0062v0AH9oWK0sGle2-sLUF0B2eWClFRZlW6f3DZSKm8wazC_w0oJGEd6EPWEbkkHqR63khWUe0x0X3tP3m_8XfxtPe0Grw3-7P0GxitQpE-QjzMBZ802-10OW14Qc16coGTnXXufm2nvFx4IO5V4_o75wJ_m4XY84m6G4pAO4-0JvybeW1I08A0Kvybeg1Jggfi3tEEkXWRe58G2o1MaWy-xCz0LtEEkXWRO5S6AzkoZZxpyO_2O5j20veW6e1RGzOg91iaMq1QyzkE-0O4Nc1VHmSqig1S9m1Uq4jWNm8Gzu1UbjUc51lYP6A0O3B0Owg-IYGRG627u697UY-ZXtzk1TO0Pa1a1e1a8i1cu6V___m7I6H9vOM9pNtDbSdPbSYzoDJKvBJ7e6O320_0PWC83-1dIm9WTWHh__uF1cOotUw0QhfhatyJ3jvJ_0R0QkxBXx8heylol0RWQ0_KQ0G00088RGZ4sCZatEJ8rCJOpCZ8uCJ8jCJKoC34uDpCuCorpONCnBJ4rCZOjDpDXBNDXSorXP6HoSorkRMLqOIrkPNSjE30pCO8S3N0nDZfoL3HeLL1kKpVf780T_t-P7G0000000F0_700yotWbDqIkbe7fjd09feocI5DbO1eYdHu1Sza8bp_pxTryKkUGM4jd_-pEWtmrw6B7fPq_RnPmmHV4mv4DnEC9s3-pUWn4vZcFI3TZO56TGsns6bKUexQ9CG00~1"
+        }
+      },
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4080739/2a00000179fab11aeb71caefb784d3c51c93/%s"
+        }
+      },
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 18:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 18:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 18:00"
+            }
+          ]
+        }
+      ],
+      "region": {
+        "id": 4,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10645,
+          4
+        ],
+        "seoname": "belgorod",
+        "bounds": [
+          [
+            36.4571695,
+            50.515442262680764
+          ],
+          [
+            36.717276500000004,
+            50.675741262680766
+          ]
+        ],
+        "longitude": 36.587223,
+        "latitude": 50.59566,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Белгород",
+          "dative": "Белгороду",
+          "directional": "",
+          "genitive": "Белгорода",
+          "instrumental": "Белгородом",
+          "locative": "",
+          "nominative": "Белгород",
+          "preposition": "в",
+          "prepositional": "Белгороде"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Белгород",
+          "type": "region",
+          "url": "https://yandex.ru/maps/4/belgorod/",
+          "region": {
+            "center": [
+              36.587223,
+              50.59566
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/4/belgorod/catalog/",
+          "region": {
+            "id": 4,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10645,
+              4
+            ],
+            "seoname": "belgorod",
+            "bounds": [
+              [
+                36.4571695,
+                50.515442262680764
+              ],
+              [
+                36.717276500000004,
+                50.675741262680766
+              ]
+            ],
+            "longitude": 36.587223,
+            "latitude": 50.59566,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Белгород",
+              "dative": "Белгороду",
+              "directional": "",
+              "genitive": "Белгорода",
+              "instrumental": "Белгородом",
+              "locative": "",
+              "nominative": "Белгород",
+              "preposition": "в",
+              "prepositional": "Белгороде"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184108219",
+            "name": "Пункт проката",
+            "class": "fallback services",
+            "seoname": "appliance_rental",
+            "pluralName": "Пункты проката"
+          },
+          "name": "Пункты проката",
+          "type": "category",
+          "url": "https://yandex.ru/maps/4/belgorod/category/appliance_rental/184108219/"
+        },
+        {
+          "chain": {
+            "id": "179145114546",
+            "name": "Стройка-Аренда",
+            "seoname": "stroika_arenda",
+            "center": [
+              36.587222999999994,
+              50.595660369627964
+            ]
+          },
+          "name": "Стройка-Аренда",
+          "type": "chain",
+          "url": "https://yandex.ru/maps/4/belgorod/chain/stroika_arenda/179145114546/"
+        },
+        {
+          "name": "Стройка-Аренда",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/stroyka_arenda/13815234980/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629792516322812-1520187383-sas1-1526-73a-sas-addrs-nmeta-new-8031",
+      "analyticsId": "2",
+      "title": "Прокат инструмента",
+      "description": "ул. Есенина, 8, Белгород",
+      "address": "ул. Есенина, 8, Белгород",
+      "coordinates": [
+        36.574314,
+        50.554685
+      ],
+      "displayCoordinates": [
+        36.574314,
+        50.554685
+      ],
+      "bounds": [
+        [
+          36.570209,
+          50.55206943
+        ],
+        [
+          36.578419,
+          50.55730043
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=1773839518",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTc3MzgzOTUxOA==",
+      "id": "1773839518",
+      "metro": [],
+      "stops": [
+        {
+          "id": "1543271356",
+          "name": "Улица Есенина",
+          "distance": "250 м",
+          "distanceValue": 249.769,
+          "coordinates": [
+            36.572574742,
+            50.555932573
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543271359",
+          "name": "Сити Молл",
+          "distance": "360 м",
+          "distanceValue": 363.065,
+          "coordinates": [
+            36.572884538,
+            50.552814944
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543271367",
+          "name": "Завод Луч",
+          "distance": "540 м",
+          "distanceValue": 544.686,
+          "coordinates": [
+            36.572002416,
+            50.557953807
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543271389",
+          "name": "Рынок Солнечный",
+          "distance": "820 м",
+          "distanceValue": 820.539,
+          "coordinates": [
+            36.570276,
+            50.560146
+          ],
+          "type": "common"
+        },
+        {
+          "id": "4150689896",
+          "name": "Улица Конева",
+          "distance": "850 м",
+          "distanceValue": 851.843,
+          "coordinates": [
+            36.57153479,
+            50.561147879
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 16,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/200322/2a0000015b190f607b2cadc58e409146f4da/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/200322/2a0000015b190f607b2cadc58e409146f4da/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/176734/2a000001624c6d4bb0440c052dfd7f71ce5b/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1007647/2a000001624c6d32b336129820fecd9b0f41/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/374295/2a0000015b190f5bf55722efed5fe4ed8e57/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/467304/2a0000015e6152bd6dc3f57640308e76be03/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/363317/2a0000015e6152bed75d6ec63f311a704bfa/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/223006/2a0000015b190f588549e3c0415d96c6f6d1/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/467304/2a0000015e6152bdafe0e2be34026d3281bd/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/859900/2a0000015e6152bed41d6c75d390d1ad5ae6/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/859900/2a0000015e6152beee0f81df986a9d0adf4c/%s"
+          }
+        ]
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "1268973831",
+            "uri": "ymapsbm1://org?oid=1268973831",
+            "logId": "1268973831",
+            "title": "Лонмади",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1363376/2a0000016561570d0cc8ef35234c739f4913/%s",
+            "categories": [],
+            "seoname": "lonmadi",
+            "coordinates": [
+              36.686396,
+              50.65208
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          }
+        ]
+      },
+      "panorama": {
+        "id": "1291916448_724901679_23_1566635777",
+        "direction": [
+          -8.8,
+          10
+        ],
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            36.5743715581,
+            50.5544492999
+          ]
+        },
+        "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1291916448_724901679_23_1566635777&size=500%2C240&azimuth=-8.8&tilt=10&api_key=maps&signature=eVF4ZTsMA5EgRcTWTcE0TrJRSqmuYLJhOC5IBp4iOeQ="
+      },
+      "shortTitle": "Прокат инструмента",
+      "fullAddress": "Россия, Белгород, улица Есенина, 8",
+      "country": "Россия",
+      "postalCode": "308004",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 9,
+        "ratingValue": 4,
+        "reviewCount": 6
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184108219",
+          "name": "Пункт проката",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "Пункты проката"
+        },
+        {
+          "id": "184107551",
+          "name": "аренда строительной и спецтехники",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "Аренда спецтехники"
+        },
+        {
+          "id": "184107583",
+          "name": "алмазная резка",
+          "class": "fallback services",
+          "seoname": "diamond_cutting",
+          "pluralName": "Алмазная резка"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (903) 886-07-66",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_tool",
+              "name": "инструмента"
+            }
+          ],
+          "name": "прокат",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "pickup",
+          "value": true,
+          "name": "самовывоз",
+          "type": "bool",
+          "important": false
+        },
+        {
+          "id": "types_of_equipment",
+          "value": [
+            {
+              "id": "diamond_drilling_rigs",
+              "name": "алмазные установки"
+            },
+            {
+              "id": "tool_rental",
+              "name": "инструмент"
+            },
+            {
+              "id": "construction_equipment_rental",
+              "name": "строительное оборудование"
+            },
+            {
+              "id": "jigarrang",
+              "name": "буроямы"
+            }
+          ],
+          "name": "виды техники",
+          "type": "enum",
+          "important": false
+        },
+        {
+          "id": "cost_hiring",
+          "value": "250–2000 ₽",
+          "name": "стоимость проката",
+          "type": "text",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Услуги и удобства",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": true,
+        "closed_for_quarantine": false
+      },
+      "seoname": "prokat_instrumenta",
+      "geoId": 217092,
+      "compositeAddress": {
+        "locality": "Белгород",
+        "street": "улица Есенина",
+        "house": "8"
+      },
+      "workingTimeText": "ежедневно, 08:00–19:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 8,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 19,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "Открыто до 19:00",
+        "shortText": "До 19:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "urls": [
+        "http://instrumenty31.ru/"
+      ],
+      "businessImages": {
+        "logo": {
+          "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2425845/2a00000172557f1880f13a67d5d469065372/%s"
+        }
+      },
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "До 19:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "До 19:00"
+            },
+            {
+              "key": "text",
+              "value": "Открыто до 19:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "8",
+          "property": [
+            {
+              "key": "value",
+              "value": "8"
+            },
+            {
+              "key": "value_5",
+              "value": "4"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 57847210,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 4,
+        "capitalId": 0,
+        "hierarchy": [
+          225,
+          10645,
+          4
+        ],
+        "seoname": "belgorod",
+        "bounds": [
+          [
+            36.4571695,
+            50.515442262680764
+          ],
+          [
+            36.717276500000004,
+            50.675741262680766
+          ]
+        ],
+        "longitude": 36.587223,
+        "latitude": 50.59566,
+        "zoom": 12,
+        "names": {
+          "ablative": "",
+          "accusative": "Белгород",
+          "dative": "Белгороду",
+          "directional": "",
+          "genitive": "Белгорода",
+          "instrumental": "Белгородом",
+          "locative": "",
+          "nominative": "Белгород",
+          "preposition": "в",
+          "prepositional": "Белгороде"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "Карты",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "Белгород",
+          "type": "region",
+          "url": "https://yandex.ru/maps/4/belgorod/",
+          "region": {
+            "center": [
+              36.587223,
+              50.59566
+            ],
+            "zoom": 12
+          }
+        },
+        {
+          "type": "catalog",
+          "name": "Каталог организаций",
+          "url": "https://yandex.ru/maps/4/belgorod/catalog/",
+          "region": {
+            "id": 4,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              10645,
+              4
+            ],
+            "seoname": "belgorod",
+            "bounds": [
+              [
+                36.4571695,
+                50.515442262680764
+              ],
+              [
+                36.717276500000004,
+                50.675741262680766
+              ]
+            ],
+            "longitude": 36.587223,
+            "latitude": 50.59566,
+            "zoom": 12,
+            "names": {
+              "ablative": "",
+              "accusative": "Белгород",
+              "dative": "Белгороду",
+              "directional": "",
+              "genitive": "Белгорода",
+              "instrumental": "Белгородом",
+              "locative": "",
+              "nominative": "Белгород",
+              "preposition": "в",
+              "prepositional": "Белгороде"
+            }
+          }
+        },
+        {
+          "category": {
+            "id": "184108219",
+            "name": "Пункт проката",
+            "class": "fallback services",
+            "seoname": "appliance_rental",
+            "pluralName": "Пункты проката"
+          },
+          "name": "Пункты проката",
+          "type": "category",
+          "url": "https://yandex.ru/maps/4/belgorod/category/appliance_rental/184108219/"
+        },
+        {
+          "name": "Прокат инструмента",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/prokat_instrumenta/1773839518/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629792516322812-1520187383-sas1-1526-73a-sas-addrs-nmeta-new-8031",
+      "analyticsId": "3",
+      "title": "Прокат строительного инструмента",
+      "description": "Солнечная ул., 5, посёлок Северный 1-й",
+      "address": "Солнечная ул., 5, посёлок Северный 1-й",
+      "coordinates": [
+        36.550984,
+        50.653747
+      ],
+      "displayCoordinates": [
+        36.550984,
+        50.653747
+      ],
+      "bounds": [
+        [
+          36.5468785,
+          50.65113693
+        ],
+        [
+          36.5550895,
+          50.65635693
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=26627994212",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MjY2Mjc5OTQyMTI=",
+      "id": "26627994212",
+      "metro": [],
+      "stops": [
+        {
+          "id": "1543271597",
+          "name": "Психиатрическая больница",
+          "distance": "230 м",
+          "distanceValue": 231.232,
+          "coordinates": [
+            36.550545541,
+            50.652453427
+          ],
+          "type": "common"
+        },
+        {
+          "id": "2632569724",
+          "name": "Красносельская улица",
+          "distance": "1,2 км",
+          "distanceValue": 1181.2,
+          "coordinates": [
+            36.560572214,
+            50.649775232
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543271454",
+          "name": "Новая улица",
+          "distance": "1,3 км",
+          "distanceValue": 1283.68,
+          "coordinates": [
+            36.564731919,
+            50.655488353
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543271419",
+          "name": "Улица Кутузова",
+          "distance": "1,9 км",
+          "distanceValue": 1928.03,
+          "coordinates": [
+            36.568074,
+            50.645517
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543271410",
+          "name": "Аэропорт",
+          "distance": "2,1 км",
+          "distanceValue": 2068.49,
+          "coordinates": [
+            36.568856029,
+            50.644723442
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 5,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4479219/2a00000179ccaf3fdb062a56c18e0813da75/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4479219/2a00000179ccaf3fdb062a56c18e0813da75/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4365309/2a00000178f4628b75a81b4603914eb2cdb1/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4285172/2a00000179ccaf378d7fbacaf0ef8070f87c/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/3766813/2a000001754bd017f3721da4cf1cbca4e4b6/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4388821/2a00000179ccaf5223d7e27d79d724bbc7d9/%s"
+          }
+        ]
+      },
+      "relatedAdverts": {
+        "nearbyOnCard": [
+          {
+            "type": "similar",
+            "id": "160680918413",
+            "uri": "ymapsbm1://org?oid=160680918413",
+            "logId": "160680918413",
+            "title": "Всеинструменты.ру",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4435487/2a00000177f19a9e846b78a76c14018c81be/%s",
+            "categories": [],
+            "seoname": "vseinstrumenty_ru",
+            "coordinates": [
+              36.568805,
+              50.632322
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "37934804842",
+            "uri": "ymapsbm1://org?oid=37934804842",
+            "logId": "37934804842",
+            "title": "Кувалда.ру",
+            "rating": 4.5,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1363250/2a000001656aa1789ab8bacb7fd15066d7e8/%s",
+            "categories": [],
+            "seoname": "kuvalda_ru",
+            "coordinates": [
+              36.621775,
+              50.586212
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "130607708423",
+            "uri": "ymapsbm1://org?oid=130607708423",
+            "logId": "130607708423",
+            "title": "Всеинструменты.ру",
+            "rating": 4.2,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/2960979/2a00000173b70d4c5f7ff16f8f4fe4fee099/%s",
+            "categories": [],
+            "seoname": "vseinstrumenty_ru",
+            "coordinates": [
+              36.603148,
+              50.599735
+            ],
+            "icon": "hypermarket",
+            "poiColor": "#FFA15E",
+            "poiLabelColor": "#D4711C",
+            "isAdvert": true
+          },
+          {
+            "type": "similar",
+            "id": "1268973831",
+            "uri": "ymapsbm1://org?oid=1268973831",
+            "logId": "1268973831",
+            "title": "Лонмади",
+            "rating": 4.3,
+            "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/1363376/2a0000016561570d0cc8ef35234c739f4913/%s",
+            "categories": [],
+            "seoname": "lonmadi",
+            "coordinates": [
+              36.686396,
+              50.65208
+            ],
+            "icon": "fallback services",
+            "isAdvert": true
+          }
+        ]
+      },
+      "shortTitle": "Прокат строительного инструмента",
+      "fullAddress": "Россия, Белгородская область, Белгородский район, посёлок Северный 1-й, Солнечная улица, 5",
+      "country": "Россия",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 15,
+        "ratingValue": 4.5,
+        "reviewCount": 10
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Яндекс",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184107567",
+          "name": "Строительный инструмент",
+          "class": "hypermarket",
+          "seoname": "construction_tool",
+          "pluralName": "СÑÐ¾Ð¸ÑÐµÐ»ÑÐ½ÑÐµ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÑ"
+        },
+        {
+          "id": "184108219",
+          "name": "Ð¿ÑÐ½ÐºÑ Ð¿ÑÐ¾ÐºÐ°ÑÐ°",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "ÐÑÐ½ÐºÑÑ Ð¿ÑÐ¾ÐºÐ°ÑÐ°"
+        },
+        {
+          "id": "184107551",
+          "name": "Ð°ÑÐµÐ½Ð´Ð° ÑÑÑÐ¾Ð¸ÑÐµÐ»ÑÐ½Ð¾Ð¹ Ð¸ ÑÐ¿ÐµÑÑÐµÑÐ½Ð¸ÐºÐ¸",
+          "class": "fallback services",
+          "seoname": "construction_and_special_purpose_machines_rental",
+          "pluralName": "ÐÑÐµÐ½Ð´Ð° ÑÐ¿ÐµÑÑÐµÑÐ½Ð¸ÐºÐ¸"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (904) 094-33-33",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_tool",
+              "name": "Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÐ°"
+            }
+          ],
+          "name": "Ð¿ÑÐ¾ÐºÐ°Ñ",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "delivery",
+          "value": true,
+          "name": "Ð´Ð¾ÑÑÐ°Ð²ÐºÐ°",
+          "type": "bool",
+          "important": false
+        }
+      ],
+      "featureGroups": [],
+      "businessProperties": {
+        "has_verified_owner": false,
+        "geoproduct_poi_color": "#60A8F0",
+        "closed_for_visitors": false,
+        "geoproduct_poi_label_color": "#428FDB"
+      },
+      "seoname": "prokat_stroitelnogo_instrumenta",
+      "geoId": 98698,
+      "compositeAddress": {
+        "locality": "Ð¿Ð¾ÑÑÐ»Ð¾Ðº Ð¡ÐµÐ²ÐµÑÐ½ÑÐ¹ 1-Ð¹",
+        "street": "Ð¡Ð¾Ð»Ð½ÐµÑÐ½Ð°Ñ ÑÐ»Ð¸ÑÐ°",
+        "house": "5"
+      },
+      "workingTimeText": "ÐµÐ¶ÐµÐ´Ð½ÐµÐ²Ð½Ð¾, 09:00â20:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "ÐÑÐºÑÑÑÐ¾ Ð´Ð¾ 20:00",
+        "shortText": "ÐÐ¾ 20:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "urls": [
+        "http://www.prokat31.su/"
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "ÐÐ¾ 20:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "ÐÐ¾ 20:00"
+            },
+            {
+              "key": "text",
+              "value": "ÐÑÐºÑÑÑÐ¾ Ð´Ð¾ 20:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "9",
+          "property": [
+            {
+              "key": "value",
+              "value": "9"
+            },
+            {
+              "key": "value_5",
+              "value": "4.5"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 58201822,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 10645,
+        "capitalId": 4,
+        "hierarchy": [
+          225,
+          10645
+        ],
+        "seoname": "belgorod-oblast",
+        "bounds": [
+          [
+            35.3251575,
+            50.04777151497283
+          ],
+          [
+            39.2812385,
+            51.68236051497283
+          ]
+        ],
+        "longitude": 37.303198,
+        "latitude": 50.872231,
+        "zoom": 8,
+        "names": {
+          "ablative": "",
+          "accusative": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÑÑ Ð¾Ð±Ð»Ð°ÑÑÑ",
+          "dative": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑÐ¸",
+          "directional": "",
+          "genitive": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑÐ¸",
+          "instrumental": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑÑÑ",
+          "locative": "",
+          "nominative": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑÑ",
+          "preposition": "Ð²",
+          "prepositional": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑÐ¸"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "ÐÐ°ÑÑÑ",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑÑ",
+          "type": "region",
+          "url": "https://yandex.ru/maps/10645/belgorod-oblast/",
+          "region": {
+            "center": [
+              37.303198,
+              50.872231
+            ],
+            "zoom": 8
+          }
+        },
+        {
+          "category": {
+            "id": "184107567",
+            "name": "Ð¡ÑÑÐ¾Ð¸ÑÐµÐ»ÑÐ½ÑÐ¹ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½Ñ",
+            "class": "hypermarket",
+            "seoname": "construction_tool",
+            "pluralName": "Ð¡ÑÑÐ¾Ð¸ÑÐµÐ»ÑÐ½ÑÐµ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÑ"
+          },
+          "name": "Ð¡ÑÑÐ¾Ð¸ÑÐµÐ»ÑÐ½ÑÐµ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÑ",
+          "type": "category",
+          "url": "https://yandex.ru/maps/10645/belgorod-oblast/category/construction_tool/184107567/"
+        },
+        {
+          "name": "ÐÑÐ¾ÐºÐ°Ñ ÑÑÑÐ¾Ð¸ÑÐµÐ»ÑÐ½Ð¾Ð³Ð¾ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÐ°",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/prokat_stroitelnogo_instrumenta/26627994212/",
+          "currentPage": true
+        }
+      ]
+    },
+    {
+      "type": "business",
+      "requestId": "1629792516322812-1520187383-sas1-1526-73a-sas-addrs-nmeta-new-8031",
+      "analyticsId": "4",
+      "title": "ÐÐ ÐÐ°ÐºÑÐ»ÐµÐ½ÐºÐ¾ Ð®. Ð.",
+      "description": "Ð¡Ð¾Ð»Ð½ÐµÑÐ½Ð°Ñ ÑÐ»., 5, Ð¿Ð¾ÑÑÐ»Ð¾Ðº Ð¡ÐµÐ²ÐµÑÐ½ÑÐ¹ 1-Ð¹",
+      "address": "Ð¡Ð¾Ð»Ð½ÐµÑÐ½Ð°Ñ ÑÐ»., 5, Ð¿Ð¾ÑÑÐ»Ð¾Ðº Ð¡ÐµÐ²ÐµÑÐ½ÑÐ¹ 1-Ð¹",
+      "coordinates": [
+        36.550976,
+        50.653752
+      ],
+      "displayCoordinates": [
+        36.550976,
+        50.653752
+      ],
+      "bounds": [
+        [
+          36.5468705,
+          50.65114193
+        ],
+        [
+          36.5550815,
+          50.65636193
+        ]
+      ],
+      "uri": "ymapsbm1://org?oid=101567774229",
+      "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTAxNTY3Nzc0MjI5",
+      "id": "101567774229",
+      "metro": [],
+      "stops": [
+        {
+          "id": "1543271597",
+          "name": "ÐÑÐ¸ÑÐ¸Ð°ÑÑÐ¸ÑÐµÑÐºÐ°Ñ Ð±Ð¾Ð»ÑÐ½Ð¸ÑÐ°",
+          "distance": "230Â Ð¼",
+          "distanceValue": 231.704,
+          "coordinates": [
+            36.550545541,
+            50.652453427
+          ],
+          "type": "common"
+        },
+        {
+          "id": "2632569724",
+          "name": "ÐÑÐ°ÑÐ½Ð¾ÑÐµÐ»ÑÑÐºÐ°Ñ ÑÐ»Ð¸ÑÐ°",
+          "distance": "1,2Â ÐºÐ¼",
+          "distanceValue": 1181.67,
+          "coordinates": [
+            36.560572214,
+            50.649775232
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543271454",
+          "name": "ÐÐ¾Ð²Ð°Ñ ÑÐ»Ð¸ÑÐ°",
+          "distance": "1,3Â ÐºÐ¼",
+          "distanceValue": 1284.15,
+          "coordinates": [
+            36.564731919,
+            50.655488353
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543271419",
+          "name": "Ð£Ð»Ð¸ÑÐ° ÐÑÑÑÐ·Ð¾Ð²Ð°",
+          "distance": "1,9Â ÐºÐ¼",
+          "distanceValue": 1928.51,
+          "coordinates": [
+            36.568074,
+            50.645517
+          ],
+          "type": "common"
+        },
+        {
+          "id": "1543271410",
+          "name": "ÐÑÑÐ¾Ð¿Ð¾ÑÑ",
+          "distance": "2,1Â ÐºÐ¼",
+          "distanceValue": 2068.97,
+          "coordinates": [
+            36.568856029,
+            50.644723442
+          ],
+          "type": "common"
+        }
+      ],
+      "photos": {
+        "count": 2,
+        "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1908863/2a0000016b7899d81b6e7698cb48c848dcc6/%s",
+        "items": [
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1908863/2a0000016b7899d81b6e7698cb48c848dcc6/%s"
+          },
+          {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2068435/2a0000016b789a4a7826045d8a767c1e4ba5/%s"
+          }
+        ]
+      },
+      "shortTitle": "ÐÑÐ¾ÐºÐ°Ñ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÐ°",
+      "fullAddress": "Ð Ð¾ÑÑÐ¸Ñ, ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑÑ, ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ¸Ð¹ ÑÐ°Ð¹Ð¾Ð½, Ð¿Ð¾ÑÑÐ»Ð¾Ðº Ð¡ÐµÐ²ÐµÑÐ½ÑÐ¹ 1-Ð¹, Ð¡Ð¾Ð»Ð½ÐµÑÐ½Ð°Ñ ÑÐ»Ð¸ÑÐ°, 5",
+      "country": "Ð Ð¾ÑÑÐ¸Ñ",
+      "status": "open",
+      "businessLinks": [],
+      "ratingData": {
+        "ratingCount": 4,
+        "ratingValue": 4.199999809265137,
+        "reviewCount": 3
+      },
+      "sources": [
+        {
+          "id": "yandex",
+          "name": "Ð¯Ð½Ð´ÐµÐºÑ",
+          "href": "https://www.yandex.ru"
+        }
+      ],
+      "categories": [
+        {
+          "id": "184108219",
+          "name": "ÐÑÐ½ÐºÑ Ð¿ÑÐ¾ÐºÐ°ÑÐ°",
+          "class": "fallback services",
+          "seoname": "appliance_rental",
+          "pluralName": "ÐÑÐ½ÐºÑÑ Ð¿ÑÐ¾ÐºÐ°ÑÐ°"
+        }
+      ],
+      "phones": [
+        {
+          "number": "+7 (904) 094-33-33",
+          "type": "phone"
+        }
+      ],
+      "features": [
+        {
+          "id": "rental",
+          "value": [
+            {
+              "id": "rent_tool",
+              "name": "Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÐ°"
+            }
+          ],
+          "name": "Ð¿ÑÐ¾ÐºÐ°Ñ",
+          "type": "enum",
+          "important": true
+        },
+        {
+          "id": "cost_hiring",
+          "value": "300â2000 â½",
+          "name": "ÑÑÐ¾Ð¸Ð¼Ð¾ÑÑÑ Ð¿ÑÐ¾ÐºÐ°ÑÐ°",
+          "type": "text",
+          "important": false
+        }
+      ],
+      "featureGroups": [
+        {
+          "name": "Ð£ÑÐ»ÑÐ³Ð¸ Ð¸ ÑÐ´Ð¾Ð±ÑÑÐ²Ð°",
+          "featureIds": [
+            "payment_by_credit_card"
+          ]
+        }
+      ],
+      "businessProperties": {
+        "has_verified_owner": false
+      },
+      "seoname": "ip_vakulenko_yu_a_",
+      "geoId": 98698,
+      "compositeAddress": {
+        "locality": "Ð¿Ð¾ÑÑÐ»Ð¾Ðº Ð¡ÐµÐ²ÐµÑÐ½ÑÐ¹ 1-Ð¹",
+        "street": "Ð¡Ð¾Ð»Ð½ÐµÑÐ½Ð°Ñ ÑÐ»Ð¸ÑÐ°",
+        "house": "5"
+      },
+      "workingTimeText": "ÐµÐ¶ÐµÐ´Ð½ÐµÐ²Ð½Ð¾, 09:00â20:00",
+      "workingTime": [
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ],
+        [
+          {
+            "from": {
+              "hours": 9,
+              "minutes": 0
+            },
+            "to": {
+              "hours": 20,
+              "minutes": 0
+            }
+          }
+        ]
+      ],
+      "currentWorkingStatus": {
+        "isOpenNow": true,
+        "text": "ÐÑÐºÑÑÑÐ¾ Ð´Ð¾ 20:00",
+        "shortText": "ÐÐ¾ 20:00",
+        "tag": []
+      },
+      "tzOffset": 10800,
+      "socialLinks": [
+        {
+          "type": "vkontakte",
+          "href": "https://vk.com/id5943738"
+        }
+      ],
+      "urls": [
+        "http://prokat31.su/"
+      ],
+      "subtitleItems": [
+        {
+          "type": "working_hours",
+          "text": "ÐÐ¾ 20:00",
+          "property": [
+            {
+              "key": "is_open",
+              "value": "1"
+            },
+            {
+              "key": "short_text",
+              "value": "ÐÐ¾ 20:00"
+            },
+            {
+              "key": "text",
+              "value": "ÐÑÐºÑÑÑÐ¾ Ð´Ð¾ 20:00"
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "text": "8.4",
+          "property": [
+            {
+              "key": "value",
+              "value": "8.4"
+            },
+            {
+              "key": "value_5",
+              "value": "4.2"
+            }
+          ]
+        }
+      ],
+      "metrika": {
+        "counter": 58914844,
+        "goals": {
+          "call": "make-call",
+          "cta": "cta-button",
+          "route": "make-route"
+        }
+      },
+      "region": {
+        "id": 10645,
+        "capitalId": 4,
+        "hierarchy": [
+          225,
+          10645
+        ],
+        "seoname": "belgorod-oblast",
+        "bounds": [
+          [
+            35.3251575,
+            50.04777151497283
+          ],
+          [
+            39.2812385,
+            51.68236051497283
+          ]
+        ],
+        "longitude": 37.303198,
+        "latitude": 50.872231,
+        "zoom": 8,
+        "names": {
+          "ablative": "",
+          "accusative": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÑÑ Ð¾Ð±Ð»Ð°ÑÑÑ",
+          "dative": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑÐ¸",
+          "directional": "",
+          "genitive": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑÐ¸",
+          "instrumental": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑÑÑ",
+          "locative": "",
+          "nominative": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑÑ",
+          "preposition": "Ð²",
+          "prepositional": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑÐ¸"
+        }
+      },
+      "events": [],
+      "breadcrumbs": [
+        {
+          "name": "ÐÐ°ÑÑÑ",
+          "type": "root",
+          "url": "https://yandex.ru/maps/"
+        },
+        {
+          "name": "ÐÐµÐ»Ð³Ð¾ÑÐ¾Ð´ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑÑ",
+          "type": "region",
+          "url": "https://yandex.ru/maps/10645/belgorod-oblast/",
+          "region": {
+            "center": [
+              37.303198,
+              50.872231
+            ],
+            "zoom": 8
+          }
+        },
+        {
+          "category": {
+            "id": "184108219",
+            "name": "ÐÑÐ½ÐºÑ Ð¿ÑÐ¾ÐºÐ°ÑÐ°",
+            "class": "fallback services",
+            "seoname": "appliance_rental",
+            "pluralName": "ÐÑÐ½ÐºÑÑ Ð¿ÑÐ¾ÐºÐ°ÑÐ°"
+          },
+          "name": "ÐÑÐ½ÐºÑÑ Ð¿ÑÐ¾ÐºÐ°ÑÐ°",
+          "type": "category",
+          "url": "https://yandex.ru/maps/10645/belgorod-oblast/category/appliance_rental/184108219/"
+        },
+        {
+          "name": "ИП Вакуленко Ю. А.",
+          "type": "search",
+          "url": "https://yandex.ru/maps/org/ip_vakulenko_yu_a_/101567774229/",
+          "currentPage": true
+        }
+      ]
+    }
+  ]
+}

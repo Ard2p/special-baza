@@ -1,0 +1,14 @@
+{
+    "name": "WebWidget",
+    "alias": "webwidget",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\WebWidget\\Providers\\WebWidgetServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/corpcustomer",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\CorpCustomer\\Providers\\CorpCustomerServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\CorpCustomer\\": ""
+        }
+    }
+}

@@ -1,0 +1,105 @@
+<?php
+
+namespace App\Support;
+
+use App\City;
+use App\Machines\Type;
+use App\Overrides\Model;
+
+class SeoContent extends Model
+{
+
+    protected $fillable = [
+        'fields', 'city_id', 'type_id',
+    ];
+    protected $with = ['city', 'type'];
+    static $names = [
+        'Александр',
+        'Алексей',
+        'Анатолий',
+        'Андрей',
+        'Антон',
+        'Аркадий',
+        'Артём',
+        'Артур',
+        'Богдан',
+        'Борис',
+        'Вадим',
+        'Валентин',
+        'Валерий',
+        'Василий',
+        'Виктор',
+        'Виталий',
+        'Владислав',
+        'Вячеслав',
+        'Глеб',
+        'Григорий',
+        'Денис',
+        'Дмитрий',
+        'Евгений',
+        'Егор',
+        'Иван',
+        'Игорь',
+        'Илья',
+        'Кирилл',
+        'Константин',
+        'Кузьма',
+        'Леонид',
+        'Максим',
+        'Матвей',
+        'Михаил',
+        'Назар',
+        'Никита',
+        'Николай',
+        'Олег',
+        'Павел',
+        'Пётр',
+        'Родион',
+        'Ростислав',
+        'Руслан',
+        'Святослав',
+        'Семён',
+        'Сергей',
+        'Станислав',
+        'Степан',
+        'Тарас',
+        'Тимофей',
+        'Тимур',
+        'Фёдор',
+        'Эдуард',
+        'Юрий',
+        'Ярослав',
+    ];
+
+    function getContentAttribute()
+    {
+        $fields = json_decode($this->fields, true);
+        foreach ($fields as &$field){
+            $phone = (string)$field['phone'];
+
+            $field['phone'] = "+{$phone[0]} ({$phone[1]}{$phone[2]}{$phone[3]}) {$phone[4]}{$phone[5]}{$phone[6]}-{$phone[7]}{$phone[8]}-{$phone[9]}{$phone[10]}";
+        }
+        return $fields;
+    }
+
+    function getEditableContentAttribute()
+    {
+        return json_decode($this->fields, true);
+    }
+
+    function city()
+    {
+        return $this->belongsTo(City::class)->with('region');
+    }
+
+    function getRegionNameAttribute()
+    {
+        return $this->city->region->name ?? '';
+    }
+
+    function type()
+    {
+        return $this->belongsTo(Type::class);
+    }
+
+}

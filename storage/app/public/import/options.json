@@ -1,0 +1,206 @@
+[
+  {
+    "id": "1",
+    "key": "sitemap",
+    "value": "W1Brv-061410-cAj.xml",
+    "created_at": null,
+    "updated_at": "2018-09-27 18:14:10"
+  },
+  {
+    "id": "2",
+    "key": "robots",
+    "value": "Suhle-061400-5f9.txt",
+    "created_at": null,
+    "updated_at": "2018-09-27 18:14:00"
+  },
+  {
+    "id": "3",
+    "key": "analytics_head",
+    "value": null,
+    "created_at": null,
+    "updated_at": "2018-09-09 13:25:12"
+  },
+  {
+    "id": "4",
+    "key": "analytics_body",
+    "value": "<!-- Yandex.Metrika counter -->\r\n<script type=\"text\/javascript\" >\r\n    (function (d, w, c) {\r\n        (w[c] = w[c] || []).push(function() {\r\n            try {\r\n                w.yaCounter50003224 = new Ya.Metrika2({\r\n                    id:50003224,\r\n                    clickmap:true,\r\n                    trackLinks:true,\r\n                    accurateTrackBounce:true,\r\n                    webvisor:true\r\n                });\r\n            } catch(e) { }\r\n        });\r\n\r\n        var n = d.getElementsByTagName(\"script\")[0],\r\n            s = d.createElement(\"script\"),\r\n            f = function () { n.parentNode.insertBefore(s, n); };\r\n        s.type = \"text\/javascript\";\r\n        s.async = true;\r\n        s.src = \"https:\/\/mc.yandex.ru\/metrika\/tag.js\";\r\n\r\n        if (w.opera == \"[object Opera]\") {\r\n            d.addEventListener(\"DOMContentLoaded\", f, false);\r\n        } else { f(); }\r\n    })(document, window, \"yandex_metrika_callbacks2\");\r\n<\/script>\r\n<noscript><div><img src=\"https:\/\/mc.yandex.ru\/watch\/50003224\" style=\"position:absolute; left:-9999px;\" alt=\"\" \/><\/div><\/noscript>\r\n<!-- \/Yandex.Metrika counter -->\r\n\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https:\/\/www.googletagmanager.com\/gtag\/js?id=UA-124157688-1\"><\/script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-124157688-1');\r\n<\/script>",
+    "created_at": null,
+    "updated_at": "2018-10-04 12:54:35"
+  },
+  {
+    "id": "5",
+    "key": "transactions_notification_email",
+    "value": "info@trans-baza.ru",
+    "created_at": null,
+    "updated_at": "2018-10-03 14:48:07"
+  },
+  {
+    "id": "6",
+    "key": "slider",
+    "value": "[\"images\\\/uploads\\\/1d661a7208837b7175247416f3086a82.png\",\"images\\\/uploads\\\/5d7e3dd731a32fa70803e6b72dcff0aa.png\",\"images\\\/uploads\\\/d31c8bc73f7f1ca7a0598e3eac6b7102.png\",\"images\\\/uploads\\\/8e5b3e64b41d64b6a0f94fa26e7f1675.png\",\"images\\\/uploads\\\/aa6cacfa78d6d9706328699c38686abe.png\"]",
+    "created_at": null,
+    "updated_at": "2018-09-14 16:57:58"
+  },
+  {
+    "id": "7",
+    "key": "slider_interval",
+    "value": "5",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "8",
+    "key": "slider_delay",
+    "value": "2",
+    "created_at": null,
+    "updated_at": "2018-09-14 14:53:07"
+  },
+  {
+    "id": "9",
+    "key": "main_title",
+    "value": "TRANSBAZA - \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0431\u044b\u0441\u0442\u0440\u043e\u0439 \u0430\u0440\u0435\u043d\u0434\u044b \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438",
+    "created_at": null,
+    "updated_at": "2018-10-01 11:12:50"
+  },
+  {
+    "id": "10",
+    "key": "main_keywords",
+    "value": "\u0430\u0440\u0435\u043d\u0434\u0430 \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0437\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u041c\u043e\u0441\u043a\u0432\u0430 \u0446\u0435\u043d\u0430 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0441\u0440\u043e\u0447\u043d\u043e \u0431\u044b\u0441\u0442\u0440\u043e \u043e\u043d\u043b\u0430\u0439\u043d online",
+    "created_at": null,
+    "updated_at": "2018-09-09 13:24:00"
+  },
+  {
+    "id": "11",
+    "key": "main_description",
+    "value": "\u041f\u043e\u0440\u0442\u0430\u043b \u0434\u043b\u044f \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u0432 \u0438 \u0430\u0440\u0435\u043d\u0434\u0430\u0442\u043e\u0440\u043e\u0432 \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438, \u0433\u0434\u0435 \u043e\u043d\u0438 \u043d\u0430\u0445\u043e\u0434\u044f\u0442 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430",
+    "created_at": null,
+    "updated_at": "2018-09-09 13:25:19"
+  },
+  {
+    "id": "12",
+    "key": "main_h1",
+    "value": null,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": "13",
+    "key": "subscription_email",
+    "value": "info@trans-baza.ru",
+    "created_at": null,
+    "updated_at": "2018-10-06 02:20:07"
+  },
+  {
+    "id": "14",
+    "key": "subscription_users",
+    "value": "1",
+    "created_at": null,
+    "updated_at": "2018-09-26 12:01:07"
+  },
+  {
+    "id": "15",
+    "key": "subscription_proposals",
+    "value": "1",
+    "created_at": null,
+    "updated_at": "2018-09-26 12:01:07"
+  },
+  {
+    "id": "16",
+    "key": "subscription_orders",
+    "value": "1",
+    "created_at": null,
+    "updated_at": "2018-09-26 12:15:58"
+  },
+  {
+    "id": "17",
+    "key": "subscription_machines",
+    "value": "1",
+    "created_at": null,
+    "updated_at": "2018-09-26 12:15:58"
+  },
+  {
+    "id": "18",
+    "key": "static_meta_title",
+    "value": "TRANSBAZA - \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0430",
+    "created_at": null,
+    "updated_at": "2018-10-01 11:02:01"
+  },
+  {
+    "id": "19",
+    "key": "static_meta_description",
+    "value": "\u0421\u0442\u0430\u0442\u044c\u0438 \u0438 \u043f\u0440\u0435\u0441\u0441-\u0440\u0435\u043b\u0438\u0437\u044b \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0430\u0440\u0435\u043d\u0434\u044b \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0422\u0440\u0430\u043d\u0441\u0431\u0430\u0437\u0430",
+    "created_at": null,
+    "updated_at": "2018-10-01 11:02:01"
+  },
+  {
+    "id": "20",
+    "key": "static_meta_keywords",
+    "value": "\u0422\u0440\u0430\u043d\u0441\u0431\u0430\u0437\u0430 \u043f\u0440\u043e\u0435\u043a\u0442 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0447\u0442\u043e \u043d\u043e\u0432\u043e\u0433\u043e Transbaza \u0430\u0440\u0435\u043d\u0434\u0430 \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u043e\u0440\u0442\u0430\u043b \u0441\u0435\u0440\u0432\u0438\u0441",
+    "created_at": null,
+    "updated_at": "2018-10-01 11:02:01"
+  },
+  {
+    "id": "21",
+    "key": "static_meta_h1",
+    "value": "\u0421\u0442\u0430\u0442\u044c\u0438",
+    "created_at": null,
+    "updated_at": "2018-09-27 19:19:34"
+  },
+  {
+    "id": "22",
+    "key": "article_meta_title",
+    "value": "TRANSBAZA - \u0441\u0442\u0430\u0442\u044c\u0438 \u0438 \u043f\u0440\u0435\u0441\u0441-\u0440\u0435\u043b\u0438\u0437\u044b",
+    "created_at": null,
+    "updated_at": "2018-10-01 11:02:01"
+  },
+  {
+    "id": "23",
+    "key": "article_meta_description",
+    "value": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0430\u0440\u0435\u043d\u0434\u044b \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0422\u0440\u0430\u043d\u0441\u0431\u0430\u0437\u0430",
+    "created_at": null,
+    "updated_at": "2018-10-01 11:02:01"
+  },
+  {
+    "id": "24",
+    "key": "article_meta_keywords",
+    "value": "\u0422\u0440\u0430\u043d\u0441\u0431\u0430\u0437\u0430 \u0430\u0440\u0435\u043d\u0434\u0430 \u0442\u0435\u0445\u043d\u0438\u043a\u0430 \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0430 \u043f\u0440\u0435\u0441\u0441-\u0440\u0435\u043b\u0438\u0437\u044b \u043d\u043e\u0432\u043e\u0441\u0442\u0438",
+    "created_at": null,
+    "updated_at": "2018-10-01 11:02:01"
+  },
+  {
+    "id": "25",
+    "key": "article_meta_h1",
+    "value": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+    "created_at": null,
+    "updated_at": "2018-09-27 19:19:34"
+  },
+  {
+    "id": "26",
+    "key": "faq_meta_title",
+    "value": "TRANSBAZA - \u043e\u0442\u0432\u0435\u0442\u044b \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441\u044b",
+    "created_at": null,
+    "updated_at": "2018-10-01 11:02:47"
+  },
+  {
+    "id": "27",
+    "key": "faq_meta_description",
+    "value": "\u0412\u043e\u043f\u0440\u043e\u0441\u044b \u0438 \u043e\u0442\u0432\u0435\u0442\u044b \u043f\u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0443 \u0430\u0440\u0435\u043d\u0434\u044b \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0422\u0440\u0430\u043d\u0441\u0431\u0430\u0437\u0430",
+    "created_at": null,
+    "updated_at": "2018-10-01 11:02:47"
+  },
+  {
+    "id": "28",
+    "key": "faq_meta_keywords",
+    "value": "\u0422\u0440\u0430\u043d\u0441\u0431\u0430\u0437\u0430 \u0430\u0440\u0435\u043d\u0434\u0430 \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0432\u043e\u043f\u0440\u043e\u0441 \u043e\u0442\u0432\u0435\u0442",
+    "created_at": null,
+    "updated_at": "2018-10-01 11:02:47"
+  },
+  {
+    "id": "29",
+    "key": "faq_meta_h1",
+    "value": "\u0412\u043e\u043f\u0440\u043e\u0441\u044b \u0438 \u043e\u0442\u0432\u0435\u0442\u044b",
+    "created_at": null,
+    "updated_at": "2018-09-28 14:24:19"
+  }
+]
+

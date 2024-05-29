@@ -1,0 +1,14 @@
+{
+    "name": "AdminOffice",
+    "alias": "adminoffice",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\AdminOffice\\Providers\\AdminOfficeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

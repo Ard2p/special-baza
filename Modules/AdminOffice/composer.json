@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/adminoffice",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\AdminOffice\\Providers\\AdminOfficeServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\AdminOffice\\": ""
+        }
+    }
+}
